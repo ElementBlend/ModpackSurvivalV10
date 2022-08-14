@@ -9,10 +9,8 @@
 /journeymap/
 /llibrary/
 /logs/
-/mods/1.7.10/
 /mods/1.12.2/
 /mods/falsepattern/
-/mods/ic2/
 /mods/memory_repo/
 /resourcepacks/
 /saves/
@@ -44,3 +42,7 @@ servers.dat
 servers.dat_old
 usercache.json
 usernamecache.json
+ears-debug.log
+output_original.log
+output_patched.log
+output_source.log
