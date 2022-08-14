@@ -3299,6 +3299,83 @@ chisel:woolen_clay:12, Woolen Clay
 chisel:woolen_clay:13, Woolen Clay
 chisel:woolen_clay:14, Woolen Clay
 chisel:woolen_clay:15, Woolen Clay
+ThermalFoundation:Ore:0, Copper Ore
+ThermalFoundation:Ore:1, Tin Ore
+ThermalFoundation:Ore:2, Silver Ore
+ThermalFoundation:Ore:3, Lead Ore
+ThermalFoundation:Ore:4, Ferrous Ore
+ThermalFoundation:Ore:5, Shiny Ore
+ThermalFoundation:Ore:6, Mana Infused Ore
+ThermalFoundation:Storage:0, Copper Block
+ThermalFoundation:Storage:1, Tin Block
+ThermalFoundation:Storage:2, Silver Block
+ThermalFoundation:Storage:3, Lead Block
+ThermalFoundation:Storage:4, Ferrous Block
+ThermalFoundation:Storage:5, Shiny Block
+ThermalFoundation:Storage:6, Mana Infused Block
+ThermalFoundation:Storage:7, Electrum Block
+ThermalFoundation:Storage:8, Invar Block
+ThermalFoundation:Storage:9, Bronze Block
+ThermalFoundation:Storage:10, Signalum Block
+ThermalFoundation:Storage:11, Lumium Block
+ThermalFoundation:Storage:12, Enderium Block
+ThermalFoundation:FluidRedstone, Destabilized Redstone
+ThermalFoundation:FluidGlowstone, Energized Glowstone
+ThermalFoundation:FluidEnder, Resonant Ender
+ThermalFoundation:FluidPyrotheum, Blazing Pyrotheum
+ThermalFoundation:FluidCryotheum, Gelid Cryotheum
+ThermalFoundation:FluidAerotheum, Zephyrean Aerotheum
+ThermalFoundation:FluidPetrotheum, Tectonic Petrotheum
+ThermalFoundation:FluidMana, Primal Mana
+ThermalFoundation:FluidSteam, Steam
+ThermalFoundation:FluidCoal, Liquifacted Coal
+DraconicEvolution:xRayBlock, Distortion Flame
+DraconicEvolution:weatherController, Weather Controller
+DraconicEvolution:sunDial, Sun Dial
+DraconicEvolution:draconiumOre, Draconium Ore
+DraconicEvolution:grinder, Mob Grinder
+DraconicEvolution:potentiometer, Potentiometer
+DraconicEvolution:rainSensor, Rain Sensor
+DraconicEvolution:particleGenerator, Particle Generator
+DraconicEvolution:playerDetector, Player Detector
+DraconicEvolution:playerDetectorAdvanced, Advanced Player Detector
+DraconicEvolution:energyInfuser, Energy Infuser
+DraconicEvolution:customSpawner, Stabilized Mob Spawner
+DraconicEvolution:generator, Generator
+DraconicEvolution:energyStorageCore, Energy Core
+DraconicEvolution:draconium:0, Draconium Block
+DraconicEvolution:draconium:1, Resurrection Stone
+DraconicEvolution:draconium:2, Charged Draconium Block
+DraconicEvolution:invisibleMultiblock, Energy Core
+DraconicEvolution:energyPylon, Energy Pylon
+DraconicEvolution:placedItem, tile.draconicevolution:placedItem.name
+DraconicEvolution:safetyFlame, tile.draconicevolution:safetyFlame.name
+DraconicEvolution:cKeyStone:0, Creative Key Stone
+DraconicEvolution:cKeyStone:1, Creative Key Stone
+DraconicEvolution:cKeyStone:2, Creative Key Stone
+DraconicEvolution:cKeyStone:3, Creative Key Stone
+DraconicEvolution:dissEnchanter, Disenchanter
+DraconicEvolution:teleporterStand, Dislocator Pedestal
+DraconicEvolution:draconiumChest, Draconic Chest
+DraconicEvolution:draconicBlock, Awakened Draconium Block
+DraconicEvolution:energyCrystal:0, Energy Relay
+DraconicEvolution:energyCrystal:1, Advanced Energy Relay
+DraconicEvolution:energyCrystal:2, Energy Transceiver
+DraconicEvolution:energyCrystal:3, Advanced Energy Transceiver
+DraconicEvolution:energyCrystal:4, Wireless Energy Transceiver
+DraconicEvolution:energyCrystal:5, Advanced Wireless Transceiver
+DraconicEvolution:infusedObsidian, Draconium Infused Obsidian
+DraconicEvolution:dislocatorReceptacle, Dislocator Receptacle
+DraconicEvolution:portal, Portal
+DraconicEvolution:reactorCore, Draconic Reactor Core
+DraconicEvolution:flowGate:0, Flux Gate
+DraconicEvolution:flowGate:6, Fluid Gate
+DraconicEvolution:reactorStabilizer, Reactor Stabilizer
+DraconicEvolution:reactorEnergyInjector, Reactor Energy Injector
+DraconicEvolution:chaosCrystal, Chaos Crystal
+DraconicEvolution:upgradeModifier, Upgrade Modifier
+DraconicEvolution:longRangeDislocator:1, Admin Dislocator
+DraconicEvolution:chaosShardAtmos, tile.draconicevolution:chaosShardAtmos.name
 MineFactoryReloaded:conveyor:16, Conveyor Belt
 MineFactoryReloaded:conveyor:0, Conveyor Belt (White)
 MineFactoryReloaded:conveyor:1, Conveyor Belt (Orange)
@@ -3747,36 +3824,6 @@ harvestcraft:pamlamingtonCake, Lamington
 harvestcraft:pampavlovaCake, Pavlova
 harvestcraft:pamholidayCake, Holiday Cake
 harvestcraft:pampumpkincheeseCake, Pumpkin Cheese Cake
-ThermalFoundation:Ore:0, Copper Ore
-ThermalFoundation:Ore:1, Tin Ore
-ThermalFoundation:Ore:2, Silver Ore
-ThermalFoundation:Ore:3, Lead Ore
-ThermalFoundation:Ore:4, Ferrous Ore
-ThermalFoundation:Ore:5, Shiny Ore
-ThermalFoundation:Ore:6, Mana Infused Ore
-ThermalFoundation:Storage:0, Copper Block
-ThermalFoundation:Storage:1, Tin Block
-ThermalFoundation:Storage:2, Silver Block
-ThermalFoundation:Storage:3, Lead Block
-ThermalFoundation:Storage:4, Ferrous Block
-ThermalFoundation:Storage:5, Shiny Block
-ThermalFoundation:Storage:6, Mana Infused Block
-ThermalFoundation:Storage:7, Electrum Block
-ThermalFoundation:Storage:8, Invar Block
-ThermalFoundation:Storage:9, Bronze Block
-ThermalFoundation:Storage:10, Signalum Block
-ThermalFoundation:Storage:11, Lumium Block
-ThermalFoundation:Storage:12, Enderium Block
-ThermalFoundation:FluidRedstone, Destabilized Redstone
-ThermalFoundation:FluidGlowstone, Energized Glowstone
-ThermalFoundation:FluidEnder, Resonant Ender
-ThermalFoundation:FluidPyrotheum, Blazing Pyrotheum
-ThermalFoundation:FluidCryotheum, Gelid Cryotheum
-ThermalFoundation:FluidAerotheum, Zephyrean Aerotheum
-ThermalFoundation:FluidPetrotheum, Tectonic Petrotheum
-ThermalFoundation:FluidMana, Primal Mana
-ThermalFoundation:FluidSteam, Steam
-ThermalFoundation:FluidCoal, Liquifacted Coal
 TConstruct:liquid.slime, Liquified Slime
 TConstruct:MeatBlock, Hambone
 TConstruct:WoolSlab1:0, Light Gray Wool Slab
@@ -5135,6 +5182,18 @@ aether_legacy:enchanter:0, Altar of Light
 aether_legacy:freezer:0, Freezer
 aether_legacy:incubator:0, Incubator
 aether_legacy:sun_altar, Sun Altar
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 aether_legacy:chest_mimic, Chest Mimic
 aether_legacy:treasure_chest, Treasure Chest
 aether_legacy:aether_portal, Aether Portal
@@ -5171,18 +5230,6 @@ aether_legacy:skyroot_stairs, Skyroot Stairs
 aether_legacy:holystone_stairs, Holystone Stairs
 aether_legacy:holystone_brick_stairs, Holystone Brick Stairs
 aether_legacy:mossy_holystone_stairs, Mossy Holystone Stairs
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 aether_legacy:aerogel_stairs, Aerogel Stairs
 aether_legacy:skyroot_double_slab, Skyroot Double Slab
 aether_legacy:carved_double_slab, Carved Double Slab
@@ -7024,24 +7071,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Factory Machine Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass (White)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Road
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Plastic
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ice Bricks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smooth Blackstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Obsidian
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockConduitFacade.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Beehive
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Salt Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Salt Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Ore
@@ -7062,6 +7091,32 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Bronze Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Signalum Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Lumium Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Enderium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Distortion Flame
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Charged Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Energy Pylon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Awakened Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Infused Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Admin Dislocator
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Factory Machine Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass (White)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Road
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Plastic
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ice Bricks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smooth Blackstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockConduitFacade.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Beehive
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Salt Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Salt Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hambone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - SDX
 appliedenergistics2:item.ItemFacade:0, Cable Facade - SDX
@@ -8850,6 +8905,315 @@ chisel:diamondChisel, item.null.name
 chisel:obsidianChisel, item.null.name
 chisel:cloudinabottle, Cloud In A Bottle
 chisel:smashingrock, Smashing Rock
+ThermalFoundation:lexicon, item.thermalfoundation.tome.name
+ThermalFoundation:bucket:0, Destabilized Redstone Bucket
+ThermalFoundation:bucket:1, Energized Glowstone Bucket
+ThermalFoundation:bucket:2, Resonant Ender Bucket
+ThermalFoundation:bucket:3, Blazing Pyrotheum Bucket
+ThermalFoundation:bucket:4, Gelid Cryotheum Bucket
+ThermalFoundation:bucket:7, Zephyrean Aerotheum Bucket
+ThermalFoundation:bucket:8, Tectonic Petrotheum Bucket
+ThermalFoundation:bucket:5, Primal Mana Bucket
+ThermalFoundation:bucket:6, Liquifacted Coal Bucket
+ThermalFoundation:material:2, Pulverized Coal
+ThermalFoundation:material:3, Pulverized Charcoal
+ThermalFoundation:material:4, Pulverized Obsidian
+ThermalFoundation:material:16, Sulfur
+ThermalFoundation:material:17, Niter
+ThermalFoundation:material:20, Cinnabar
+ThermalFoundation:material:0, Pulverized Iron
+ThermalFoundation:material:1, Pulverized Gold
+ThermalFoundation:material:32, Pulverized Copper
+ThermalFoundation:material:33, Pulverized Tin
+ThermalFoundation:material:34, Pulverized Silver
+ThermalFoundation:material:35, Pulverized Lead
+ThermalFoundation:material:36, Pulverized Ferrous Metal
+ThermalFoundation:material:37, Pulverized Shiny Metal
+ThermalFoundation:material:38, Pulverized Mana Infused Metal
+ThermalFoundation:material:39, Electrum Blend
+ThermalFoundation:material:40, Invar Blend
+ThermalFoundation:material:41, Bronze Blend
+ThermalFoundation:material:42, Signalum Blend
+ThermalFoundation:material:43, Lumium Blend
+ThermalFoundation:material:44, Enderium Blend
+ThermalFoundation:material:64, Copper Ingot
+ThermalFoundation:material:65, Tin Ingot
+ThermalFoundation:material:66, Silver Ingot
+ThermalFoundation:material:67, Lead Ingot
+ThermalFoundation:material:68, Ferrous Ingot
+ThermalFoundation:material:69, Shiny Ingot
+ThermalFoundation:material:70, Mana Infused Ingot
+ThermalFoundation:material:71, Electrum Ingot
+ThermalFoundation:material:72, Invar Ingot
+ThermalFoundation:material:73, Bronze Ingot
+ThermalFoundation:material:74, Signalum Ingot
+ThermalFoundation:material:75, Lumium Ingot
+ThermalFoundation:material:76, Enderium Ingot
+ThermalFoundation:material:8, Iron Nugget
+ThermalFoundation:material:96, Copper Nugget
+ThermalFoundation:material:97, Tin Nugget
+ThermalFoundation:material:98, Silver Nugget
+ThermalFoundation:material:99, Lead Nugget
+ThermalFoundation:material:100, Ferrous Nugget
+ThermalFoundation:material:101, Shiny Nugget
+ThermalFoundation:material:102, Mana Infused Nugget
+ThermalFoundation:material:103, Electrum Nugget
+ThermalFoundation:material:104, Invar Nugget
+ThermalFoundation:material:105, Bronze Nugget
+ThermalFoundation:material:106, Signalum Nugget
+ThermalFoundation:material:107, Lumium Nugget
+ThermalFoundation:material:108, Enderium Nugget
+ThermalFoundation:material:12, Iron Gear
+ThermalFoundation:material:13, Gold Gear
+ThermalFoundation:material:128, Copper Gear
+ThermalFoundation:material:129, Tin Gear
+ThermalFoundation:material:130, Silver Gear
+ThermalFoundation:material:131, Lead Gear
+ThermalFoundation:material:132, Ferrous Gear
+ThermalFoundation:material:133, Shiny Gear
+ThermalFoundation:material:134, Mana Infused Gear
+ThermalFoundation:material:135, Electrum Gear
+ThermalFoundation:material:136, Invar Gear
+ThermalFoundation:material:137, Bronze Gear
+ThermalFoundation:material:138, Signalum Gear
+ThermalFoundation:material:139, Lumium Gear
+ThermalFoundation:material:140, Enderium Gear
+ThermalFoundation:material:512, Pyrotheum Dust
+ThermalFoundation:material:513, Cryotheum Dust
+ThermalFoundation:material:514, Aerotheum Dust
+ThermalFoundation:material:515, Petrotheum Dust
+ThermalFoundation:material:516, Mana Dust
+ThermalFoundation:material:1024, Blizz Rod
+ThermalFoundation:material:1025, Blizz Powder
+ThermalFoundation:material:1026, Blitz Rod
+ThermalFoundation:material:1027, Blitz Powder
+ThermalFoundation:material:1028, Basalz Rod
+ThermalFoundation:material:1029, Basalz Powder
+ThermalFoundation:tool.shearsWood, Wood Shears
+ThermalFoundation:tool.sickleWood, Wood Sickle
+ThermalFoundation:tool.shearsStone, Stone Shears
+ThermalFoundation:tool.fishingRodStone, Stone Fishing Rod
+ThermalFoundation:tool.sickleStone, Stone Sickle
+ThermalFoundation:tool.bowStone, Stone Reinforced Bow
+ThermalFoundation:tool.fishingRodIron, Iron Fishing Rod
+ThermalFoundation:tool.sickleIron, Iron Sickle
+ThermalFoundation:tool.bowIron, Iron Reinforced Bow
+ThermalFoundation:tool.shearsDiamond, Diamond Shears
+ThermalFoundation:tool.fishingRodDiamond, Diamond Fishing Rod
+ThermalFoundation:tool.sickleDiamond, Diamond Sickle
+ThermalFoundation:tool.bowDiamond, Diamond Reinforced Bow
+ThermalFoundation:tool.shearsGold, Gold Shears
+ThermalFoundation:tool.fishingRodGold, Gold Fishing Rod
+ThermalFoundation:tool.sickleGold, Gold Sickle
+ThermalFoundation:tool.bowGold, Gold Reinforced Bow
+ThermalFoundation:armor.helmetCopper, Copper Helmet
+ThermalFoundation:armor.plateCopper, Copper Chestplate
+ThermalFoundation:armor.legsCopper, Copper Leggings
+ThermalFoundation:armor.bootsCopper, Copper Boots
+ThermalFoundation:tool.swordCopper, Copper Sword
+ThermalFoundation:tool.shovelCopper, Copper Shovel
+ThermalFoundation:tool.pickaxeCopper, Copper Pickaxe
+ThermalFoundation:tool.axeCopper, Copper Axe
+ThermalFoundation:tool.hoeCopper, Copper Hoe
+ThermalFoundation:tool.shearsCopper, Copper Shears
+ThermalFoundation:tool.fishingRodCopper, Copper Fishing Rod
+ThermalFoundation:tool.sickleCopper, Copper Sickle
+ThermalFoundation:tool.bowCopper, Copper Reinforced Bow
+ThermalFoundation:armor.helmetTin, Tin Helmet
+ThermalFoundation:armor.plateTin, Tin Chestplate
+ThermalFoundation:armor.legsTin, Tin Leggings
+ThermalFoundation:armor.bootsTin, Tin Boots
+ThermalFoundation:tool.swordTin, Tin Sword
+ThermalFoundation:tool.shovelTin, Tin Shovel
+ThermalFoundation:tool.pickaxeTin, Tin Pickaxe
+ThermalFoundation:tool.axeTin, Tin Axe
+ThermalFoundation:tool.hoeTin, Tin Hoe
+ThermalFoundation:tool.shearsTin, Tin Shears
+ThermalFoundation:tool.fishingRodTin, Tin Fishing Rod
+ThermalFoundation:tool.sickleTin, Tin Sickle
+ThermalFoundation:tool.bowTin, Tin Reinforced Bow
+ThermalFoundation:armor.helmetSilver, Silver Helmet
+ThermalFoundation:armor.plateSilver, Silver Chestplate
+ThermalFoundation:armor.legsSilver, Silver Leggings
+ThermalFoundation:armor.bootsSilver, Silver Boots
+ThermalFoundation:tool.swordSilver, Silver Sword
+ThermalFoundation:tool.shovelSilver, Silver Shovel
+ThermalFoundation:tool.pickaxeSilver, Silver Pickaxe
+ThermalFoundation:tool.axeSilver, Silver Axe
+ThermalFoundation:tool.hoeSilver, Silver Hoe
+ThermalFoundation:tool.shearsSilver, Silver Shears
+ThermalFoundation:tool.fishingRodSilver, Silver Fishing Rod
+ThermalFoundation:tool.sickleSilver, Silver Sickle
+ThermalFoundation:tool.bowSilver, Silver Reinforced Bow
+ThermalFoundation:armor.helmetLead, Lead Helmet
+ThermalFoundation:armor.plateLead, Lead Chestplate
+ThermalFoundation:armor.legsLead, Lead Leggings
+ThermalFoundation:armor.bootsLead, Lead Boots
+ThermalFoundation:tool.swordLead, Lead Sword
+ThermalFoundation:tool.shovelLead, Lead Shovel
+ThermalFoundation:tool.pickaxeLead, Lead Pickaxe
+ThermalFoundation:tool.axeLead, Lead Axe
+ThermalFoundation:tool.hoeLead, Lead Hoe
+ThermalFoundation:tool.shearsLead, Lead Shears
+ThermalFoundation:tool.fishingRodLead, Lead Fishing Rod
+ThermalFoundation:tool.sickleLead, Lead Sickle
+ThermalFoundation:tool.bowLead, Lead Reinforced Bow
+ThermalFoundation:armor.helmetNickel, Ferrous Helmet
+ThermalFoundation:armor.plateNickel, Ferrous Chestplate
+ThermalFoundation:armor.legsNickel, Ferrous Leggings
+ThermalFoundation:armor.bootsNickel, Ferrous Boots
+ThermalFoundation:tool.swordNickel, Ferrous Sword
+ThermalFoundation:tool.shovelNickel, Ferrous Shovel
+ThermalFoundation:tool.pickaxeNickel, Ferrous Pickaxe
+ThermalFoundation:tool.axeNickel, Ferrous Axe
+ThermalFoundation:tool.hoeNickel, Ferrous Hoe
+ThermalFoundation:tool.shearsNickel, Ferrous Shears
+ThermalFoundation:tool.fishingRodNickel, Ferrous Fishing Rod
+ThermalFoundation:tool.sickleNickel, Ferrous Sickle
+ThermalFoundation:tool.bowNickel, Ferrous Reinforced Bow
+ThermalFoundation:armor.helmetElectrum, Electrum Helmet
+ThermalFoundation:armor.plateElectrum, Electrum Chestplate
+ThermalFoundation:armor.legsElectrum, Electrum Leggings
+ThermalFoundation:armor.bootsElectrum, Electrum Boots
+ThermalFoundation:tool.swordElectrum, Electrum Sword
+ThermalFoundation:tool.shovelElectrum, Electrum Shovel
+ThermalFoundation:tool.pickaxeElectrum, Electrum Pickaxe
+ThermalFoundation:tool.axeElectrum, Electrum Axe
+ThermalFoundation:tool.hoeElectrum, Electrum Hoe
+ThermalFoundation:tool.shearsElectrum, Electrum Shears
+ThermalFoundation:tool.fishingRodElectrum, Electrum Fishing Rod
+ThermalFoundation:tool.sickleElectrum, Electrum Sickle
+ThermalFoundation:tool.bowElectrum, Electrum Reinforced Bow
+ThermalFoundation:armor.helmetInvar, Invar Helmet
+ThermalFoundation:armor.plateInvar, Invar Chestplate
+ThermalFoundation:armor.legsInvar, Invar Leggings
+ThermalFoundation:armor.bootsInvar, Invar Boots
+ThermalFoundation:tool.swordInvar, Invar Sword
+ThermalFoundation:tool.shovelInvar, Invar Shovel
+ThermalFoundation:tool.pickaxeInvar, Invar Pickaxe
+ThermalFoundation:tool.axeInvar, Invar Axe
+ThermalFoundation:tool.hoeInvar, Invar Hoe
+ThermalFoundation:tool.shearsInvar, Invar Shears
+ThermalFoundation:tool.fishingRodInvar, Invar Fishing Rod
+ThermalFoundation:tool.sickleInvar, Invar Sickle
+ThermalFoundation:tool.bowInvar, Invar Reinforced Bow
+ThermalFoundation:armor.helmetBronze, Bronze Helmet
+ThermalFoundation:armor.plateBronze, Bronze Chestplate
+ThermalFoundation:armor.legsBronze, Bronze Leggings
+ThermalFoundation:armor.bootsBronze, Bronze Boots
+ThermalFoundation:tool.swordBronze, Bronze Sword
+ThermalFoundation:tool.shovelBronze, Bronze Shovel
+ThermalFoundation:tool.pickaxeBronze, Bronze Pickaxe
+ThermalFoundation:tool.axeBronze, Bronze Axe
+ThermalFoundation:tool.hoeBronze, Bronze Hoe
+ThermalFoundation:tool.shearsBronze, Bronze Shears
+ThermalFoundation:tool.fishingRodBronze, Bronze Fishing Rod
+ThermalFoundation:tool.sickleBronze, Bronze Sickle
+ThermalFoundation:tool.bowBronze, Bronze Reinforced Bow
+ThermalFoundation:armor.helmetPlatinum, Shiny Helmet
+ThermalFoundation:armor.platePlatinum, Shiny Chestplate
+ThermalFoundation:armor.legsPlatinum, Shiny Leggings
+ThermalFoundation:armor.bootsPlatinum, Shiny Boots
+ThermalFoundation:tool.swordPlatinum, Shiny Sword
+ThermalFoundation:tool.shovelPlatinum, Shiny Shovel
+ThermalFoundation:tool.pickaxePlatinum, Shiny Pickaxe
+ThermalFoundation:tool.axePlatinum, Shiny Axe
+ThermalFoundation:tool.hoePlatinum, Shiny Hoe
+ThermalFoundation:tool.shearsPlatinum, Shiny Shears
+ThermalFoundation:tool.fishingRodPlatinum, Shiny Fishing Rod
+ThermalFoundation:tool.sicklePlatinum, Shiny Sickle
+ThermalFoundation:tool.bowPlatinum, Shiny Reinforced Bow
+ThermalExpansion:wrench:0, Crescent Hammer
+ThermalExpansion:tool.battleWrenchInvar, BattleWrench
+ThermalExpansion:igniter, item.thermalexpansion.tool.name
+ThermalExpansion:chiller, item.thermalexpansion.tool.name
+ThermalExpansion:pump, item.thermalexpansion.tool.name
+ThermalExpansion:transfuser, item.thermalexpansion.tool.name
+ThermalExpansion:capacitor:0, Creative Flux Capacitor
+ThermalExpansion:capacitor:1, Tuberous Flux Capacitor
+ThermalExpansion:capacitor:2, Leadstone Flux Capacitor
+ThermalExpansion:capacitor:2, Leadstone Flux Capacitor
+ThermalExpansion:capacitor:3, Hardened Flux Capacitor
+ThermalExpansion:capacitor:3, Hardened Flux Capacitor
+ThermalExpansion:capacitor:4, Redstone Flux Capacitor
+ThermalExpansion:capacitor:4, Redstone Flux Capacitor
+ThermalExpansion:capacitor:5, Resonant Flux Capacitor
+ThermalExpansion:capacitor:5, Resonant Flux Capacitor
+ThermalExpansion:satchel:0, Creative Satchel
+ThermalExpansion:satchel:1, Satchel
+ThermalExpansion:satchel:2, Hardened Satchel
+ThermalExpansion:satchel:3, Reinforced Satchel
+ThermalExpansion:satchel:4, Resonant Satchel
+ThermalExpansion:florb:0, Invalid Item (Destroy) (Empty§r)
+ThermalExpansion:florb:1, Invalid Item (Destroy) (Empty§r)
+DraconicEvolution:draconicDistructionStaff:0, Draconic Staff of Power
+DraconicEvolution:draconicDistructionStaff:0, Draconic Staff of Power
+DraconicEvolution:draconicPickaxe:0, Draconic Pickaxe
+DraconicEvolution:draconicPickaxe:0, Draconic Pickaxe
+DraconicEvolution:draconicAxe:0, Draconic Axe
+DraconicEvolution:draconicAxe:0, Draconic Axe
+DraconicEvolution:draconicShovel:0, Draconic Shovel
+DraconicEvolution:draconicShovel:0, Draconic Shovel
+DraconicEvolution:draconicHoe, Draconic Hoe
+DraconicEvolution:draconicSword, Draconic Sword
+DraconicEvolution:draconicBow:0, Draconic Bow
+DraconicEvolution:draconicBow:0, Draconic Bow
+DraconicEvolution:draconicHelm, Draconic Helm
+DraconicEvolution:draconicChest, Draconic Chestplate
+DraconicEvolution:draconicLeggs, Draconic Leggings
+DraconicEvolution:draconicBoots, Draconic Boots
+DraconicEvolution:wyvernPickaxe:0, Pickaxe of the Wyvern
+DraconicEvolution:wyvernPickaxe:0, Pickaxe of the Wyvern
+DraconicEvolution:wyvernShovel:0, Shovel of the Wyvern
+DraconicEvolution:wyvernShovel:0, Shovel of the Wyvern
+DraconicEvolution:wyvernSword, Sword of the Wyvern
+DraconicEvolution:wyvernBow:0, Bow of the Wyvern
+DraconicEvolution:wyvernBow:0, Bow of the Wyvern
+DraconicEvolution:wyvernHelm, Wyvern Helm
+DraconicEvolution:wyvernChest, Wyvern Chestplate
+DraconicEvolution:wyvernLeggs, Wyvern Leggings
+DraconicEvolution:wyvernBoots, Wyvern Boots
+DraconicEvolution:draconicCore, Draconic Core
+DraconicEvolution:wyvernCore, Wyvern Core
+DraconicEvolution:awakenedCore, Awakened Core
+DraconicEvolution:chaoticCore, Chaotic Core
+DraconicEvolution:draconiumDust, Draconium Dust
+DraconicEvolution:draconiumIngot, Draconium Ingot
+DraconicEvolution:draconiumBlend, Draconium Blend (Depreciated)
+DraconicEvolution:dragonHeart, Dragon Heart
+DraconicEvolution:teleporterMKI, Charm of Dislocation
+DraconicEvolution:teleporterMKII, Enhanced Charm of Dislocation
+DraconicEvolution:tclogo, TCLogo
+DraconicEvolution:sunFocus, Solar Focus
+DraconicEvolution:mobSoul, Mob Soul
+DraconicEvolution:enderArrow, Ender Arrow
+DraconicEvolution:safetyMatch:0, Box of Safety Matches
+DraconicEvolution:safetyMatch:1000, Safety Match
+DraconicEvolution:key:0, Key
+DraconicEvolution:key:1, Key
+DraconicEvolution:creativeStructureSpawner:0, Spawn Comet
+DraconicEvolution:creativeStructureSpawner:1, Spawn Ender Island
+DraconicEvolution:adminSpawnEgg, item.draconicevolution:adminSpawnEgg.name
+DraconicEvolution:infoTablet, Draconic Evolution Information Tablet
+DraconicEvolution:draconicIngot, Awakened Draconium Ingot
+DraconicEvolution:draconiumEnergyCore:0, Wyvern Energy Core
+DraconicEvolution:draconiumEnergyCore:1, Draconic Energy Core
+DraconicEvolution:draconiumFluxCapacitor, item.draconicevolution:draconiumFluxCapacitor.name
+DraconicEvolution:wrench, Crystal Binder
+DraconicEvolution:chaosShard, Chaos Shard
+DraconicEvolution:reactorCraftingPart:0, Reactor Stabilizer Frame
+DraconicEvolution:reactorCraftingPart:1, Reactor Stabilizer Inner Rotor
+DraconicEvolution:reactorCraftingPart:2, Reactor Stabilizer Outer Rotor
+DraconicEvolution:reactorCraftingPart:3, Reactor Stabilizer Rotor Assembly
+DraconicEvolution:reactorCraftingPart:4, Reactor Stabilizer Focus Ring
+DraconicEvolution:nugget:0, Draconium Nugget
+DraconicEvolution:nugget:1, Awakened Draconium Nugget
+DraconicEvolution:chaosFragment:0, Tiny Chaos Fragment
+DraconicEvolution:chaosFragment:1, Small Chaos Fragment
+DraconicEvolution:chaosFragment:2, Large Chaos Fragment
+DraconicEvolution:magnet:0, Item Dislocator
+DraconicEvolution:magnet:1, Awakened Item Dislocator
+DraconicEvolution:dezilsMarshmallow, Dezil's Marshmallow
 MineFactoryReloaded:hammer, Precision Sledgehammer
 MineFactoryReloaded:plastic.boots, Plastic Boots
 MineFactoryReloaded:rubber.raw, Raw Rubber
@@ -9913,247 +10277,6 @@ Mantle:mantleBook:0, Mantle:item.mantle.manual.beginner.name
 Mantle:mantleBook:1, Mantle:item.mantle.manual.toolstation.name
 Mantle:mantleBook:2, Mantle:item.mantle.manual.smeltery.name
 Mantle:mantleBook:3, Mantle:item.mantle.manual.diary.name
-ThermalFoundation:lexicon, item.thermalfoundation.tome.name
-ThermalFoundation:bucket:0, Destabilized Redstone Bucket
-ThermalFoundation:bucket:1, Energized Glowstone Bucket
-ThermalFoundation:bucket:2, Resonant Ender Bucket
-ThermalFoundation:bucket:3, Blazing Pyrotheum Bucket
-ThermalFoundation:bucket:4, Gelid Cryotheum Bucket
-ThermalFoundation:bucket:7, Zephyrean Aerotheum Bucket
-ThermalFoundation:bucket:8, Tectonic Petrotheum Bucket
-ThermalFoundation:bucket:5, Primal Mana Bucket
-ThermalFoundation:bucket:6, Liquifacted Coal Bucket
-ThermalFoundation:material:2, Pulverized Coal
-ThermalFoundation:material:3, Pulverized Charcoal
-ThermalFoundation:material:4, Pulverized Obsidian
-ThermalFoundation:material:16, Sulfur
-ThermalFoundation:material:17, Niter
-ThermalFoundation:material:20, Cinnabar
-ThermalFoundation:material:0, Pulverized Iron
-ThermalFoundation:material:1, Pulverized Gold
-ThermalFoundation:material:32, Pulverized Copper
-ThermalFoundation:material:33, Pulverized Tin
-ThermalFoundation:material:34, Pulverized Silver
-ThermalFoundation:material:35, Pulverized Lead
-ThermalFoundation:material:36, Pulverized Ferrous Metal
-ThermalFoundation:material:37, Pulverized Shiny Metal
-ThermalFoundation:material:38, Pulverized Mana Infused Metal
-ThermalFoundation:material:39, Electrum Blend
-ThermalFoundation:material:40, Invar Blend
-ThermalFoundation:material:41, Bronze Blend
-ThermalFoundation:material:42, Signalum Blend
-ThermalFoundation:material:43, Lumium Blend
-ThermalFoundation:material:44, Enderium Blend
-ThermalFoundation:material:64, Copper Ingot
-ThermalFoundation:material:65, Tin Ingot
-ThermalFoundation:material:66, Silver Ingot
-ThermalFoundation:material:67, Lead Ingot
-ThermalFoundation:material:68, Ferrous Ingot
-ThermalFoundation:material:69, Shiny Ingot
-ThermalFoundation:material:70, Mana Infused Ingot
-ThermalFoundation:material:71, Electrum Ingot
-ThermalFoundation:material:72, Invar Ingot
-ThermalFoundation:material:73, Bronze Ingot
-ThermalFoundation:material:74, Signalum Ingot
-ThermalFoundation:material:75, Lumium Ingot
-ThermalFoundation:material:76, Enderium Ingot
-ThermalFoundation:material:8, Iron Nugget
-ThermalFoundation:material:96, Copper Nugget
-ThermalFoundation:material:97, Tin Nugget
-ThermalFoundation:material:98, Silver Nugget
-ThermalFoundation:material:99, Lead Nugget
-ThermalFoundation:material:100, Ferrous Nugget
-ThermalFoundation:material:101, Shiny Nugget
-ThermalFoundation:material:102, Mana Infused Nugget
-ThermalFoundation:material:103, Electrum Nugget
-ThermalFoundation:material:104, Invar Nugget
-ThermalFoundation:material:105, Bronze Nugget
-ThermalFoundation:material:106, Signalum Nugget
-ThermalFoundation:material:107, Lumium Nugget
-ThermalFoundation:material:108, Enderium Nugget
-ThermalFoundation:material:12, Iron Gear
-ThermalFoundation:material:13, Gold Gear
-ThermalFoundation:material:128, Copper Gear
-ThermalFoundation:material:129, Tin Gear
-ThermalFoundation:material:130, Silver Gear
-ThermalFoundation:material:131, Lead Gear
-ThermalFoundation:material:132, Ferrous Gear
-ThermalFoundation:material:133, Shiny Gear
-ThermalFoundation:material:134, Mana Infused Gear
-ThermalFoundation:material:135, Electrum Gear
-ThermalFoundation:material:136, Invar Gear
-ThermalFoundation:material:137, Bronze Gear
-ThermalFoundation:material:138, Signalum Gear
-ThermalFoundation:material:139, Lumium Gear
-ThermalFoundation:material:140, Enderium Gear
-ThermalFoundation:material:512, Pyrotheum Dust
-ThermalFoundation:material:513, Cryotheum Dust
-ThermalFoundation:material:514, Aerotheum Dust
-ThermalFoundation:material:515, Petrotheum Dust
-ThermalFoundation:material:516, Mana Dust
-ThermalFoundation:material:1024, Blizz Rod
-ThermalFoundation:material:1025, Blizz Powder
-ThermalFoundation:material:1026, Blitz Rod
-ThermalFoundation:material:1027, Blitz Powder
-ThermalFoundation:material:1028, Basalz Rod
-ThermalFoundation:material:1029, Basalz Powder
-ThermalFoundation:tool.shearsWood, Wood Shears
-ThermalFoundation:tool.sickleWood, Wood Sickle
-ThermalFoundation:tool.shearsStone, Stone Shears
-ThermalFoundation:tool.fishingRodStone, Stone Fishing Rod
-ThermalFoundation:tool.sickleStone, Stone Sickle
-ThermalFoundation:tool.bowStone, Stone Reinforced Bow
-ThermalFoundation:tool.fishingRodIron, Iron Fishing Rod
-ThermalFoundation:tool.sickleIron, Iron Sickle
-ThermalFoundation:tool.bowIron, Iron Reinforced Bow
-ThermalFoundation:tool.shearsDiamond, Diamond Shears
-ThermalFoundation:tool.fishingRodDiamond, Diamond Fishing Rod
-ThermalFoundation:tool.sickleDiamond, Diamond Sickle
-ThermalFoundation:tool.bowDiamond, Diamond Reinforced Bow
-ThermalFoundation:tool.shearsGold, Gold Shears
-ThermalFoundation:tool.fishingRodGold, Gold Fishing Rod
-ThermalFoundation:tool.sickleGold, Gold Sickle
-ThermalFoundation:tool.bowGold, Gold Reinforced Bow
-ThermalFoundation:armor.helmetCopper, Copper Helmet
-ThermalFoundation:armor.plateCopper, Copper Chestplate
-ThermalFoundation:armor.legsCopper, Copper Leggings
-ThermalFoundation:armor.bootsCopper, Copper Boots
-ThermalFoundation:tool.swordCopper, Copper Sword
-ThermalFoundation:tool.shovelCopper, Copper Shovel
-ThermalFoundation:tool.pickaxeCopper, Copper Pickaxe
-ThermalFoundation:tool.axeCopper, Copper Axe
-ThermalFoundation:tool.hoeCopper, Copper Hoe
-ThermalFoundation:tool.shearsCopper, Copper Shears
-ThermalFoundation:tool.fishingRodCopper, Copper Fishing Rod
-ThermalFoundation:tool.sickleCopper, Copper Sickle
-ThermalFoundation:tool.bowCopper, Copper Reinforced Bow
-ThermalFoundation:armor.helmetTin, Tin Helmet
-ThermalFoundation:armor.plateTin, Tin Chestplate
-ThermalFoundation:armor.legsTin, Tin Leggings
-ThermalFoundation:armor.bootsTin, Tin Boots
-ThermalFoundation:tool.swordTin, Tin Sword
-ThermalFoundation:tool.shovelTin, Tin Shovel
-ThermalFoundation:tool.pickaxeTin, Tin Pickaxe
-ThermalFoundation:tool.axeTin, Tin Axe
-ThermalFoundation:tool.hoeTin, Tin Hoe
-ThermalFoundation:tool.shearsTin, Tin Shears
-ThermalFoundation:tool.fishingRodTin, Tin Fishing Rod
-ThermalFoundation:tool.sickleTin, Tin Sickle
-ThermalFoundation:tool.bowTin, Tin Reinforced Bow
-ThermalFoundation:armor.helmetSilver, Silver Helmet
-ThermalFoundation:armor.plateSilver, Silver Chestplate
-ThermalFoundation:armor.legsSilver, Silver Leggings
-ThermalFoundation:armor.bootsSilver, Silver Boots
-ThermalFoundation:tool.swordSilver, Silver Sword
-ThermalFoundation:tool.shovelSilver, Silver Shovel
-ThermalFoundation:tool.pickaxeSilver, Silver Pickaxe
-ThermalFoundation:tool.axeSilver, Silver Axe
-ThermalFoundation:tool.hoeSilver, Silver Hoe
-ThermalFoundation:tool.shearsSilver, Silver Shears
-ThermalFoundation:tool.fishingRodSilver, Silver Fishing Rod
-ThermalFoundation:tool.sickleSilver, Silver Sickle
-ThermalFoundation:tool.bowSilver, Silver Reinforced Bow
-ThermalFoundation:armor.helmetLead, Lead Helmet
-ThermalFoundation:armor.plateLead, Lead Chestplate
-ThermalFoundation:armor.legsLead, Lead Leggings
-ThermalFoundation:armor.bootsLead, Lead Boots
-ThermalFoundation:tool.swordLead, Lead Sword
-ThermalFoundation:tool.shovelLead, Lead Shovel
-ThermalFoundation:tool.pickaxeLead, Lead Pickaxe
-ThermalFoundation:tool.axeLead, Lead Axe
-ThermalFoundation:tool.hoeLead, Lead Hoe
-ThermalFoundation:tool.shearsLead, Lead Shears
-ThermalFoundation:tool.fishingRodLead, Lead Fishing Rod
-ThermalFoundation:tool.sickleLead, Lead Sickle
-ThermalFoundation:tool.bowLead, Lead Reinforced Bow
-ThermalFoundation:armor.helmetNickel, Ferrous Helmet
-ThermalFoundation:armor.plateNickel, Ferrous Chestplate
-ThermalFoundation:armor.legsNickel, Ferrous Leggings
-ThermalFoundation:armor.bootsNickel, Ferrous Boots
-ThermalFoundation:tool.swordNickel, Ferrous Sword
-ThermalFoundation:tool.shovelNickel, Ferrous Shovel
-ThermalFoundation:tool.pickaxeNickel, Ferrous Pickaxe
-ThermalFoundation:tool.axeNickel, Ferrous Axe
-ThermalFoundation:tool.hoeNickel, Ferrous Hoe
-ThermalFoundation:tool.shearsNickel, Ferrous Shears
-ThermalFoundation:tool.fishingRodNickel, Ferrous Fishing Rod
-ThermalFoundation:tool.sickleNickel, Ferrous Sickle
-ThermalFoundation:tool.bowNickel, Ferrous Reinforced Bow
-ThermalFoundation:armor.helmetElectrum, Electrum Helmet
-ThermalFoundation:armor.plateElectrum, Electrum Chestplate
-ThermalFoundation:armor.legsElectrum, Electrum Leggings
-ThermalFoundation:armor.bootsElectrum, Electrum Boots
-ThermalFoundation:tool.swordElectrum, Electrum Sword
-ThermalFoundation:tool.shovelElectrum, Electrum Shovel
-ThermalFoundation:tool.pickaxeElectrum, Electrum Pickaxe
-ThermalFoundation:tool.axeElectrum, Electrum Axe
-ThermalFoundation:tool.hoeElectrum, Electrum Hoe
-ThermalFoundation:tool.shearsElectrum, Electrum Shears
-ThermalFoundation:tool.fishingRodElectrum, Electrum Fishing Rod
-ThermalFoundation:tool.sickleElectrum, Electrum Sickle
-ThermalFoundation:tool.bowElectrum, Electrum Reinforced Bow
-ThermalFoundation:armor.helmetInvar, Invar Helmet
-ThermalFoundation:armor.plateInvar, Invar Chestplate
-ThermalFoundation:armor.legsInvar, Invar Leggings
-ThermalFoundation:armor.bootsInvar, Invar Boots
-ThermalFoundation:tool.swordInvar, Invar Sword
-ThermalFoundation:tool.shovelInvar, Invar Shovel
-ThermalFoundation:tool.pickaxeInvar, Invar Pickaxe
-ThermalFoundation:tool.axeInvar, Invar Axe
-ThermalFoundation:tool.hoeInvar, Invar Hoe
-ThermalFoundation:tool.shearsInvar, Invar Shears
-ThermalFoundation:tool.fishingRodInvar, Invar Fishing Rod
-ThermalFoundation:tool.sickleInvar, Invar Sickle
-ThermalFoundation:tool.bowInvar, Invar Reinforced Bow
-ThermalFoundation:armor.helmetBronze, Bronze Helmet
-ThermalFoundation:armor.plateBronze, Bronze Chestplate
-ThermalFoundation:armor.legsBronze, Bronze Leggings
-ThermalFoundation:armor.bootsBronze, Bronze Boots
-ThermalFoundation:tool.swordBronze, Bronze Sword
-ThermalFoundation:tool.shovelBronze, Bronze Shovel
-ThermalFoundation:tool.pickaxeBronze, Bronze Pickaxe
-ThermalFoundation:tool.axeBronze, Bronze Axe
-ThermalFoundation:tool.hoeBronze, Bronze Hoe
-ThermalFoundation:tool.shearsBronze, Bronze Shears
-ThermalFoundation:tool.fishingRodBronze, Bronze Fishing Rod
-ThermalFoundation:tool.sickleBronze, Bronze Sickle
-ThermalFoundation:tool.bowBronze, Bronze Reinforced Bow
-ThermalFoundation:armor.helmetPlatinum, Shiny Helmet
-ThermalFoundation:armor.platePlatinum, Shiny Chestplate
-ThermalFoundation:armor.legsPlatinum, Shiny Leggings
-ThermalFoundation:armor.bootsPlatinum, Shiny Boots
-ThermalFoundation:tool.swordPlatinum, Shiny Sword
-ThermalFoundation:tool.shovelPlatinum, Shiny Shovel
-ThermalFoundation:tool.pickaxePlatinum, Shiny Pickaxe
-ThermalFoundation:tool.axePlatinum, Shiny Axe
-ThermalFoundation:tool.hoePlatinum, Shiny Hoe
-ThermalFoundation:tool.shearsPlatinum, Shiny Shears
-ThermalFoundation:tool.fishingRodPlatinum, Shiny Fishing Rod
-ThermalFoundation:tool.sicklePlatinum, Shiny Sickle
-ThermalFoundation:tool.bowPlatinum, Shiny Reinforced Bow
-ThermalExpansion:wrench:0, Crescent Hammer
-ThermalExpansion:tool.battleWrenchInvar, BattleWrench
-ThermalExpansion:igniter, item.thermalexpansion.tool.name
-ThermalExpansion:chiller, item.thermalexpansion.tool.name
-ThermalExpansion:pump, item.thermalexpansion.tool.name
-ThermalExpansion:transfuser, item.thermalexpansion.tool.name
-ThermalExpansion:capacitor:0, Creative Flux Capacitor
-ThermalExpansion:capacitor:1, Tuberous Flux Capacitor
-ThermalExpansion:capacitor:2, Leadstone Flux Capacitor
-ThermalExpansion:capacitor:2, Leadstone Flux Capacitor
-ThermalExpansion:capacitor:3, Hardened Flux Capacitor
-ThermalExpansion:capacitor:3, Hardened Flux Capacitor
-ThermalExpansion:capacitor:4, Redstone Flux Capacitor
-ThermalExpansion:capacitor:4, Redstone Flux Capacitor
-ThermalExpansion:capacitor:5, Resonant Flux Capacitor
-ThermalExpansion:capacitor:5, Resonant Flux Capacitor
-ThermalExpansion:satchel:0, Creative Satchel
-ThermalExpansion:satchel:1, Satchel
-ThermalExpansion:satchel:2, Hardened Satchel
-ThermalExpansion:satchel:3, Reinforced Satchel
-ThermalExpansion:satchel:4, Resonant Satchel
-ThermalExpansion:florb:0, Invalid Item (Destroy) (Empty§r)
-ThermalExpansion:florb:1, Invalid Item (Destroy) (Empty§r)
 TConstruct:goldHead:0, Golden Head
 TConstruct:strangeFood:0, Gelatinous Slime
 TConstruct:strangeFood:1, Coagulated Blood
@@ -10891,6 +11014,8 @@ TConstruct:BoltPart:167, Sapphire Bolt
 TConstruct:BoltPart:171, Dark Steel Bolt
 TConstruct:BoltPart:172, Void Metal Bolt
 TConstruct:BoltPart:173, RedAurum Bolt
+TConstruct:BoltPart:178, Draconium Bolt
+TConstruct:BoltPart:179, Awakened Draconium Bolt
 TConstruct:BoltPart:180, Glue Bolt
 TConstruct:BoltPart:186, Tear Jerker Bolt
 TConstruct:BoltPart:189, Enderium Bolt
@@ -10940,6 +11065,8 @@ ExtraTiC:arrowhead:167, Sapphire Arrowhead
 ExtraTiC:arrowhead:171, Dark Steel Arrowhead
 ExtraTiC:arrowhead:172, Void Metal Arrowhead
 ExtraTiC:arrowhead:173, RedAurum Arrowhead
+ExtraTiC:arrowhead:178, Draconium Arrowhead
+ExtraTiC:arrowhead:179, Awakened Draconium Arrowhead
 ExtraTiC:arrowhead:180, Glue Arrowhead
 ExtraTiC:arrowhead:186, Tear Jerker Arrowhead
 ExtraTiC:arrowhead:189, Enderium Arrowhead
@@ -10966,6 +11093,8 @@ ExtraTiC:axeHead:167, Sapphire Axe Head
 ExtraTiC:axeHead:171, Dark Steel Axe Head
 ExtraTiC:axeHead:172, Void Metal Axe Head
 ExtraTiC:axeHead:173, RedAurum Axe Head
+ExtraTiC:axeHead:178, Draconium Axe Head
+ExtraTiC:axeHead:179, Awakened Draconium Axe Head
 ExtraTiC:axeHead:180, Glue Axe Head
 ExtraTiC:axeHead:186, Tear Jerker Axe Head
 ExtraTiC:axeHead:189, Enderium Axe Head
@@ -10992,6 +11121,8 @@ ExtraTiC:battelSign:167, Sapphire Battle Sign
 ExtraTiC:battelSign:171, Dark Steel Battle Sign
 ExtraTiC:battelSign:172, Void Metal Battle Sign
 ExtraTiC:battelSign:173, RedAurum Battle Sign
+ExtraTiC:battelSign:178, Draconium Battle Sign
+ExtraTiC:battelSign:179, Awakened Draconium Battle Sign
 ExtraTiC:battelSign:180, Glue Battle Sign
 ExtraTiC:battelSign:186, Tear Jerker Battle Sign
 ExtraTiC:battelSign:189, Enderium Battle Sign
@@ -11018,6 +11149,8 @@ ExtraTiC:binding:167, Sapphire Binding
 ExtraTiC:binding:171, Dark Steel Binding
 ExtraTiC:binding:172, Void Metal Binding
 ExtraTiC:binding:173, RedAurum Binding
+ExtraTiC:binding:178, Draconium Binding
+ExtraTiC:binding:179, Awakened Draconium Binding
 ExtraTiC:binding:180, Glue Binding
 ExtraTiC:binding:186, Tear Jerker Binding
 ExtraTiC:binding:189, Enderium Binding
@@ -11044,6 +11177,8 @@ ExtraTiC:chiselHead:167, Sapphire Chisel Head
 ExtraTiC:chiselHead:171, Dark Steel Chisel Head
 ExtraTiC:chiselHead:172, Void Metal Chisel Head
 ExtraTiC:chiselHead:173, RedAurum Chisel Head
+ExtraTiC:chiselHead:178, Draconium Chisel Head
+ExtraTiC:chiselHead:179, Awakened Draconium Chisel Head
 ExtraTiC:chiselHead:180, Glue Chisel Head
 ExtraTiC:chiselHead:186, Tear Jerker Chisel Head
 ExtraTiC:chiselHead:189, Enderium Chisel Head
@@ -11070,6 +11205,8 @@ ExtraTiC:chunk:167, Sapphire Chunk
 ExtraTiC:chunk:171, Dark Steel Chunk
 ExtraTiC:chunk:172, Void Metal Chunk
 ExtraTiC:chunk:173, RedAurum Chunk
+ExtraTiC:chunk:178, Draconium Chunk
+ExtraTiC:chunk:179, Awakened Draconium Chunk
 ExtraTiC:chunk:180, Glue Chunk
 ExtraTiC:chunk:186, Tear Jerker Chunk
 ExtraTiC:chunk:189, Enderium Chunk
@@ -11096,6 +11233,8 @@ ExtraTiC:crossbar:167, Sapphire Crossbar
 ExtraTiC:crossbar:171, Dark Steel Crossbar
 ExtraTiC:crossbar:172, Void Metal Crossbar
 ExtraTiC:crossbar:173, RedAurum Crossbar
+ExtraTiC:crossbar:178, Draconium Crossbar
+ExtraTiC:crossbar:179, Awakened Draconium Crossbar
 ExtraTiC:crossbar:180, Glue Crossbar
 ExtraTiC:crossbar:186, Tear Jerker Crossbar
 ExtraTiC:crossbar:189, Enderium Crossbar
@@ -11122,6 +11261,8 @@ ExtraTiC:excavatorHead:167, Sapphire Excavator Head
 ExtraTiC:excavatorHead:171, Dark Steel Excavator Head
 ExtraTiC:excavatorHead:172, Void Metal Excavator Head
 ExtraTiC:excavatorHead:173, RedAurum Excavator Head
+ExtraTiC:excavatorHead:178, Draconium Excavator Head
+ExtraTiC:excavatorHead:179, Awakened Draconium Excavator Head
 ExtraTiC:excavatorHead:180, Glue Excavator Head
 ExtraTiC:excavatorHead:186, Tear Jerker Excavator Head
 ExtraTiC:excavatorHead:189, Enderium Excavator Head
@@ -11148,6 +11289,8 @@ ExtraTiC:frypanHead:167, Sapphire Pan Head
 ExtraTiC:frypanHead:171, Dark Steel Pan Head
 ExtraTiC:frypanHead:172, Void Metal Pan Head
 ExtraTiC:frypanHead:173, RedAurum Pan Head
+ExtraTiC:frypanHead:178, Draconium Pan Head
+ExtraTiC:frypanHead:179, Awakened Draconium Pan Head
 ExtraTiC:frypanHead:180, Glue Pan Head
 ExtraTiC:frypanHead:186, Tear Jerker Pan Head
 ExtraTiC:frypanHead:189, Enderium Pan Head
@@ -11174,6 +11317,8 @@ ExtraTiC:fullGuard:167, Sapphire Full Guard
 ExtraTiC:fullGuard:171, Dark Steel Full Guard
 ExtraTiC:fullGuard:172, Void Metal Full Guard
 ExtraTiC:fullGuard:173, RedAurum Full Guard
+ExtraTiC:fullGuard:178, Draconium Full Guard
+ExtraTiC:fullGuard:179, Awakened Draconium Full Guard
 ExtraTiC:fullGuard:180, Glue Full Guard
 ExtraTiC:fullGuard:186, Tear Jerker Full Guard
 ExtraTiC:fullGuard:189, Enderium Full Guard
@@ -11200,6 +11345,8 @@ ExtraTiC:hammerHead:167, Sapphire Hammer Head
 ExtraTiC:hammerHead:171, Dark Steel Hammer Head
 ExtraTiC:hammerHead:172, Void Metal Hammer Head
 ExtraTiC:hammerHead:173, RedAurum Hammer Head
+ExtraTiC:hammerHead:178, Draconium Hammer Head
+ExtraTiC:hammerHead:179, Awakened Draconium Hammer Head
 ExtraTiC:hammerHead:180, Glue Hammer Head
 ExtraTiC:hammerHead:186, Tear Jerker Hammer Head
 ExtraTiC:hammerHead:189, Enderium Hammer Head
@@ -11226,6 +11373,8 @@ ExtraTiC:knifeBlade:167, Sapphire Knife Blade
 ExtraTiC:knifeBlade:171, Dark Steel Knife Blade
 ExtraTiC:knifeBlade:172, Void Metal Knife Blade
 ExtraTiC:knifeBlade:173, RedAurum Knife Blade
+ExtraTiC:knifeBlade:178, Draconium Knife Blade
+ExtraTiC:knifeBlade:179, Awakened Draconium Knife Blade
 ExtraTiC:knifeBlade:180, Glue Knife Blade
 ExtraTiC:knifeBlade:186, Tear Jerker Knife Blade
 ExtraTiC:knifeBlade:189, Enderium Knife Blade
@@ -11252,6 +11401,8 @@ ExtraTiC:largeGuard:167, Sapphire Large Guard
 ExtraTiC:largeGuard:171, Dark Steel Large Guard
 ExtraTiC:largeGuard:172, Void Metal Large Guard
 ExtraTiC:largeGuard:173, RedAurum Large Guard
+ExtraTiC:largeGuard:178, Draconium Large Guard
+ExtraTiC:largeGuard:179, Awakened Draconium Large Guard
 ExtraTiC:largeGuard:180, Glue Large Guard
 ExtraTiC:largeGuard:186, Tear Jerker Large Guard
 ExtraTiC:largeGuard:189, Enderium Large Guard
@@ -11278,6 +11429,8 @@ ExtraTiC:largeSwordBlade:167, Sapphire Large Sword Blade
 ExtraTiC:largeSwordBlade:171, Dark Steel Large Sword Blade
 ExtraTiC:largeSwordBlade:172, Void Metal Large Sword Blade
 ExtraTiC:largeSwordBlade:173, RedAurum Large Sword Blade
+ExtraTiC:largeSwordBlade:178, Draconium Large Sword Blade
+ExtraTiC:largeSwordBlade:179, Awakened Draconium Large Sword Blade
 ExtraTiC:largeSwordBlade:180, Glue Large Sword Blade
 ExtraTiC:largeSwordBlade:186, Tear Jerker Large Sword Blade
 ExtraTiC:largeSwordBlade:189, Enderium Large Sword Blade
@@ -11304,6 +11457,8 @@ ExtraTiC:largeplate:167, Sapphire Large Plate
 ExtraTiC:largeplate:171, Dark Steel Large Plate
 ExtraTiC:largeplate:172, Void Metal Large Plate
 ExtraTiC:largeplate:173, RedAurum Large Plate
+ExtraTiC:largeplate:178, Draconium Large Plate
+ExtraTiC:largeplate:179, Awakened Draconium Large Plate
 ExtraTiC:largeplate:180, Glue Large Plate
 ExtraTiC:largeplate:186, Tear Jerker Large Plate
 ExtraTiC:largeplate:189, Enderium Large Plate
@@ -11330,6 +11485,8 @@ ExtraTiC:lumberaxeHead:167, Sapphire Broad Axe Head
 ExtraTiC:lumberaxeHead:171, Dark Steel Broad Axe Head
 ExtraTiC:lumberaxeHead:172, Void Metal Broad Axe Head
 ExtraTiC:lumberaxeHead:173, RedAurum Broad Axe Head
+ExtraTiC:lumberaxeHead:178, Draconium Broad Axe Head
+ExtraTiC:lumberaxeHead:179, Awakened Draconium Broad Axe Head
 ExtraTiC:lumberaxeHead:180, Glue Broad Axe Head
 ExtraTiC:lumberaxeHead:186, Tear Jerker Broad Axe Head
 ExtraTiC:lumberaxeHead:189, Enderium Broad Axe Head
@@ -11356,6 +11513,8 @@ ExtraTiC:mediumGuard:167, Sapphire Medium Guard
 ExtraTiC:mediumGuard:171, Dark Steel Medium Guard
 ExtraTiC:mediumGuard:172, Void Metal Medium Guard
 ExtraTiC:mediumGuard:173, RedAurum Medium Guard
+ExtraTiC:mediumGuard:178, Draconium Medium Guard
+ExtraTiC:mediumGuard:179, Awakened Draconium Medium Guard
 ExtraTiC:mediumGuard:180, Glue Medium Guard
 ExtraTiC:mediumGuard:186, Tear Jerker Medium Guard
 ExtraTiC:mediumGuard:189, Enderium Medium Guard
@@ -11382,6 +11541,8 @@ ExtraTiC:pickaxeHead:167, Sapphire Pickaxe Head
 ExtraTiC:pickaxeHead:171, Dark Steel Pickaxe Head
 ExtraTiC:pickaxeHead:172, Void Metal Pickaxe Head
 ExtraTiC:pickaxeHead:173, RedAurum Pickaxe Head
+ExtraTiC:pickaxeHead:178, Draconium Pickaxe Head
+ExtraTiC:pickaxeHead:179, Awakened Draconium Pickaxe Head
 ExtraTiC:pickaxeHead:180, Glue Pickaxe Head
 ExtraTiC:pickaxeHead:186, Tear Jerker Pickaxe Head
 ExtraTiC:pickaxeHead:189, Enderium Pickaxe Head
@@ -11408,6 +11569,8 @@ ExtraTiC:scytheHead:167, Sapphire Scythe Head
 ExtraTiC:scytheHead:171, Dark Steel Scythe Head
 ExtraTiC:scytheHead:172, Void Metal Scythe Head
 ExtraTiC:scytheHead:173, RedAurum Scythe Head
+ExtraTiC:scytheHead:178, Draconium Scythe Head
+ExtraTiC:scytheHead:179, Awakened Draconium Scythe Head
 ExtraTiC:scytheHead:180, Glue Scythe Head
 ExtraTiC:scytheHead:186, Tear Jerker Scythe Head
 ExtraTiC:scytheHead:189, Enderium Scythe Head
@@ -11434,6 +11597,8 @@ ExtraTiC:shovelHead:167, Sapphire Shovel Head
 ExtraTiC:shovelHead:171, Dark Steel Shovel Head
 ExtraTiC:shovelHead:172, Void Metal Shovel Head
 ExtraTiC:shovelHead:173, RedAurum Shovel Head
+ExtraTiC:shovelHead:178, Draconium Shovel Head
+ExtraTiC:shovelHead:179, Awakened Draconium Shovel Head
 ExtraTiC:shovelHead:180, Glue Shovel Head
 ExtraTiC:shovelHead:186, Tear Jerker Shovel Head
 ExtraTiC:shovelHead:189, Enderium Shovel Head
@@ -11460,6 +11625,8 @@ ExtraTiC:swordBlade:167, Sapphire Sword Blade
 ExtraTiC:swordBlade:171, Dark Steel Sword Blade
 ExtraTiC:swordBlade:172, Void Metal Sword Blade
 ExtraTiC:swordBlade:173, RedAurum Sword Blade
+ExtraTiC:swordBlade:178, Draconium Sword Blade
+ExtraTiC:swordBlade:179, Awakened Draconium Sword Blade
 ExtraTiC:swordBlade:180, Glue Sword Blade
 ExtraTiC:swordBlade:186, Tear Jerker Sword Blade
 ExtraTiC:swordBlade:189, Enderium Sword Blade
@@ -11486,6 +11653,8 @@ ExtraTiC:toolrod:167, Sapphire Tool Rod
 ExtraTiC:toolrod:171, Dark Steel Tool Rod
 ExtraTiC:toolrod:172, Void Metal Tool Rod
 ExtraTiC:toolrod:173, RedAurum Tool Rod
+ExtraTiC:toolrod:178, Draconium Tool Rod
+ExtraTiC:toolrod:179, Awakened Draconium Tool Rod
 ExtraTiC:toolrod:180, Glue Tool Rod
 ExtraTiC:toolrod:186, Tear Jerker Tool Rod
 ExtraTiC:toolrod:189, Enderium Tool Rod
@@ -11512,6 +11681,8 @@ ExtraTiC:toughbind:167, Sapphire Tough Binding
 ExtraTiC:toughbind:171, Dark Steel Tough Binding
 ExtraTiC:toughbind:172, Void Metal Tough Binding
 ExtraTiC:toughbind:173, RedAurum Tough Binding
+ExtraTiC:toughbind:178, Draconium Tough Binding
+ExtraTiC:toughbind:179, Awakened Draconium Tough Binding
 ExtraTiC:toughbind:180, Glue Tough Binding
 ExtraTiC:toughbind:186, Tear Jerker Tough Binding
 ExtraTiC:toughbind:189, Enderium Tough Binding
@@ -11538,6 +11709,8 @@ ExtraTiC:toughrod:167, Sapphire Tough Rod
 ExtraTiC:toughrod:171, Dark Steel Tough Rod
 ExtraTiC:toughrod:172, Void Metal Tough Rod
 ExtraTiC:toughrod:173, RedAurum Tough Rod
+ExtraTiC:toughrod:178, Draconium Tough Rod
+ExtraTiC:toughrod:179, Awakened Draconium Tough Rod
 ExtraTiC:toughrod:180, Glue Tough Rod
 ExtraTiC:toughrod:186, Tear Jerker Tough Rod
 ExtraTiC:toughrod:189, Enderium Tough Rod
@@ -11564,6 +11737,8 @@ ExtraTiC:shuriken:167, Sapphire Shuriken
 ExtraTiC:shuriken:171, Dark Steel Shuriken
 ExtraTiC:shuriken:172, Void Metal Shuriken
 ExtraTiC:shuriken:173, RedAurum Shuriken
+ExtraTiC:shuriken:178, Draconium Shuriken
+ExtraTiC:shuriken:179, Awakened Draconium Shuriken
 ExtraTiC:shuriken:180, Glue Shuriken
 ExtraTiC:shuriken:186, Tear Jerker Shuriken
 ExtraTiC:shuriken:189, Enderium Shuriken
@@ -11590,6 +11765,8 @@ ExtraTiC:BowLimb:167, Sapphire Bow Limb
 ExtraTiC:BowLimb:171, Dark Steel Bow Limb
 ExtraTiC:BowLimb:172, Void Metal Bow Limb
 ExtraTiC:BowLimb:173, RedAurum Bow Limb
+ExtraTiC:BowLimb:178, Draconium Bow Limb
+ExtraTiC:BowLimb:179, Awakened Draconium Bow Limb
 ExtraTiC:BowLimb:180, Glue Bow Limb
 ExtraTiC:BowLimb:186, Tear Jerker Bow Limb
 ExtraTiC:BowLimb:189, Enderium Bow Limb
@@ -11616,6 +11793,8 @@ ExtraTiC:CrossbowLimb:167, Sapphire Crossbow Limb
 ExtraTiC:CrossbowLimb:171, Dark Steel Crossbow Limb
 ExtraTiC:CrossbowLimb:172, Void Metal Crossbow Limb
 ExtraTiC:CrossbowLimb:173, RedAurum Crossbow Limb
+ExtraTiC:CrossbowLimb:178, Draconium Crossbow Limb
+ExtraTiC:CrossbowLimb:179, Awakened Draconium Crossbow Limb
 ExtraTiC:CrossbowLimb:180, Glue Crossbow Limb
 ExtraTiC:CrossbowLimb:186, Tear Jerker Crossbow Limb
 ExtraTiC:CrossbowLimb:189, Enderium Crossbow Limb
@@ -11642,6 +11821,8 @@ ExtraTiC:CrossbowBody:167, Sapphire Crossbow Body
 ExtraTiC:CrossbowBody:171, Dark Steel Crossbow Body
 ExtraTiC:CrossbowBody:172, Void Metal Crossbow Body
 ExtraTiC:CrossbowBody:173, RedAurum Crossbow Body
+ExtraTiC:CrossbowBody:178, Draconium Crossbow Body
+ExtraTiC:CrossbowBody:179, Awakened Draconium Crossbow Body
 ExtraTiC:CrossbowBody:180, Glue Crossbow Body
 ExtraTiC:CrossbowBody:186, Tear Jerker Crossbow Body
 ExtraTiC:CrossbowBody:189, Enderium Crossbow Body
@@ -11668,6 +11849,8 @@ ExtraTiC:Blot:167, Sapphire Bolt
 ExtraTiC:Blot:171, Dark Steel Bolt
 ExtraTiC:Blot:172, Void Metal Bolt
 ExtraTiC:Blot:173, RedAurum Bolt
+ExtraTiC:Blot:178, Draconium Bolt
+ExtraTiC:Blot:179, Awakened Draconium Bolt
 ExtraTiC:Blot:180, Glue Bolt
 ExtraTiC:Blot:186, Tear Jerker Bolt
 ExtraTiC:Blot:189, Enderium Bolt
@@ -12489,6 +12672,21 @@ Mekanism:OtherDust:6, Obsidian Dust
 MekanismGenerators:SolarPanel, Solar Panel
 MekanismGenerators:Hohlraum, Hohlraum
 MekanismGenerators:TurbineBlade, Turbine Blade
+MutantCreatures:item.creeperShard, Creeper Shard
+MutantCreatures:item.creeperStats, Creeper Stats
+MutantCreatures:item.hulkHammer, Hulk Hammer
+MutantCreatures:item.chemicalX, Chemical X
+MutantCreatures:item.endersoulHand, Endersoul Hand
+MutantCreatures:item.skeletonPart:0, Skeleton Limb
+MutantCreatures:item.skeletonPart:1, Skeleton Rib
+MutantCreatures:item.skeletonPart:2, Skeleton Pelvis
+MutantCreatures:item.skeletonPart:3, Skeleton Shoulder Pad
+MutantCreatures:item.skeletonPart:4, Skeleton Arms
+MutantCreatures:item.skeletonPart:5, Skeleton Ribcage
+MutantCreatures:item.skeleArmorHead, Mutant Skeleton Helmet
+MutantCreatures:item.skeleArmorChest, Mutant Skeleton Chestplate
+MutantCreatures:item.skeleArmorLegs, Mutant Skeleton Leggings
+MutantCreatures:item.skeleArmorBoots, Mutant Skeleton Boots
 OpenBlocks:hangglider, Hang Glider
 OpenBlocks:generic:0, Glider Wing
 OpenBlocks:generic:1, Beam
@@ -16084,6 +16282,47 @@ ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
+ThermalDynamics:cover:0, Copper Ore Cover
+ThermalDynamics:cover:0, Tin Ore Cover
+ThermalDynamics:cover:0, Silver Ore Cover
+ThermalDynamics:cover:0, Lead Ore Cover
+ThermalDynamics:cover:0, Ferrous Ore Cover
+ThermalDynamics:cover:0, Shiny Ore Cover
+ThermalDynamics:cover:0, Mana Infused Ore Cover
+ThermalDynamics:cover:0, Copper Block Cover
+ThermalDynamics:cover:0, Tin Block Cover
+ThermalDynamics:cover:0, Silver Block Cover
+ThermalDynamics:cover:0, Lead Block Cover
+ThermalDynamics:cover:0, Ferrous Block Cover
+ThermalDynamics:cover:0, Shiny Block Cover
+ThermalDynamics:cover:0, Mana Infused Block Cover
+ThermalDynamics:cover:0, Electrum Block Cover
+ThermalDynamics:cover:0, Invar Block Cover
+ThermalDynamics:cover:0, Bronze Block Cover
+ThermalDynamics:cover:0, Signalum Block Cover
+ThermalDynamics:cover:0, Lumium Block Cover
+ThermalDynamics:cover:0, Enderium Block Cover
+ThermalDynamics:cover:0, Destabilized Redstone Cover
+ThermalDynamics:cover:0, Energized Glowstone Cover
+ThermalDynamics:cover:0, Resonant Ender Cover
+ThermalDynamics:cover:0, Blazing Pyrotheum Cover
+ThermalDynamics:cover:0, Gelid Cryotheum Cover
+ThermalDynamics:cover:0, Zephyrean Aerotheum Cover
+ThermalDynamics:cover:0, Tectonic Petrotheum Cover
+ThermalDynamics:cover:0, Primal Mana Cover
+ThermalDynamics:cover:0, Steam Cover
+ThermalDynamics:cover:0, Liquifacted Coal Cover
+ThermalDynamics:cover:0, Distortion Flame Cover
+ThermalDynamics:cover:0, Draconium Ore Cover
+ThermalDynamics:cover:0, Rain Sensor Cover
+ThermalDynamics:cover:0, Draconium Block Cover
+ThermalDynamics:cover:0, Charged Draconium Block Cover
+ThermalDynamics:cover:0, Energy Pylon Cover
+ThermalDynamics:cover:0, tile.draconicevolution:safetyFlame.name Cover
+ThermalDynamics:cover:0, Awakened Draconium Block Cover
+ThermalDynamics:cover:0, Draconium Infused Obsidian Cover
+ThermalDynamics:cover:0, Admin Dislocator Cover
+ThermalDynamics:cover:0, tile.draconicevolution:chaosShardAtmos.name Cover
 ThermalDynamics:cover:0, Factory Machine Block Cover
 ThermalDynamics:cover:0, Programmable RedNet Controller Housing Cover
 ThermalDynamics:cover:0, Cargo Pickup Rail Cover
@@ -16377,36 +16616,6 @@ ThermalDynamics:cover:0, Lamington Cover
 ThermalDynamics:cover:0, Pavlova Cover
 ThermalDynamics:cover:0, Holiday Cake Cover
 ThermalDynamics:cover:0, Pumpkin Cheese Cake Cover
-ThermalDynamics:cover:0, Copper Ore Cover
-ThermalDynamics:cover:0, Tin Ore Cover
-ThermalDynamics:cover:0, Silver Ore Cover
-ThermalDynamics:cover:0, Lead Ore Cover
-ThermalDynamics:cover:0, Ferrous Ore Cover
-ThermalDynamics:cover:0, Shiny Ore Cover
-ThermalDynamics:cover:0, Mana Infused Ore Cover
-ThermalDynamics:cover:0, Copper Block Cover
-ThermalDynamics:cover:0, Tin Block Cover
-ThermalDynamics:cover:0, Silver Block Cover
-ThermalDynamics:cover:0, Lead Block Cover
-ThermalDynamics:cover:0, Ferrous Block Cover
-ThermalDynamics:cover:0, Shiny Block Cover
-ThermalDynamics:cover:0, Mana Infused Block Cover
-ThermalDynamics:cover:0, Electrum Block Cover
-ThermalDynamics:cover:0, Invar Block Cover
-ThermalDynamics:cover:0, Bronze Block Cover
-ThermalDynamics:cover:0, Signalum Block Cover
-ThermalDynamics:cover:0, Lumium Block Cover
-ThermalDynamics:cover:0, Enderium Block Cover
-ThermalDynamics:cover:0, Destabilized Redstone Cover
-ThermalDynamics:cover:0, Energized Glowstone Cover
-ThermalDynamics:cover:0, Resonant Ender Cover
-ThermalDynamics:cover:0, Blazing Pyrotheum Cover
-ThermalDynamics:cover:0, Gelid Cryotheum Cover
-ThermalDynamics:cover:0, Zephyrean Aerotheum Cover
-ThermalDynamics:cover:0, Tectonic Petrotheum Cover
-ThermalDynamics:cover:0, Primal Mana Cover
-ThermalDynamics:cover:0, Steam Cover
-ThermalDynamics:cover:0, Liquifacted Coal Cover
 ThermalDynamics:cover:0, Liquified Slime Cover
 ThermalDynamics:cover:0, Hambone Cover
 ThermalDynamics:cover:0, Light Gray Wool Slab Cover
