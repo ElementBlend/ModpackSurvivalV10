@@ -739,9 +739,9 @@ BiomesOPlenty:ashStone, Ash Stone
 BiomesOPlenty:hardIce, Hardened Ice
 BiomesOPlenty:appleLeaves:0, Apple Leaves
 BiomesOPlenty:persimmonLeaves:0, Persimmon Leaves
-minecraft:iron_horse_armor, Iron Pet Armor
-minecraft:golden_horse_armor, Golden Pet Armor
-minecraft:diamond_horse_armor, Diamond Pet Armor
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
 minecraft:lead, Lead
 minecraft:name_tag, Name Tag
 minecraft:command_block_minecart, Minecart with Command Block
@@ -3640,7 +3640,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -4652,26 +4652,6 @@ IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
 IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
 IC2:fluidSteam, ic2.fluidSteam.name
 IC2:fluidHotWater, ic2.fluidHotWater.name
-lycanitesmobs:summoningpedestal, Summoning Pedestal
-arcticmobs:ooze, Ooze
-arcticmobs:frostweb, Frostweb
-arcticmobs:frostcloud, Frostcloud
-arcticmobs:frostfire, Frostfire
-arcticmobs:icefire, Icefire
-demonmobs:soulcubedemonic, Demonic Soulcube
-demonmobs:hellfire, Hellfire
-demonmobs:demonstone, Demon Stone
-demonmobs:demonbrick, Demon Brick
-demonmobs:demontile, Demon Tile
-demonmobs:demoncrystal, Demon Crystal
-infernomobs:purelava, Pure Lava
-infernomobs:scorchfire, Scorchfire
-junglemobs:quickweb, Quickweb
-junglemobs:poopcloud, Poop Cloud
-junglemobs:propolis, Propolis
-junglemobs:veswax, Veswax
-shadowmobs:shadowfire, Shadowfire
-swampmobs:poisoncloud, Poison Cloud
 mcheli:drafting_table, Drafting Table
 mcheli:lit_drafting_table, tile.lit_drafting_table.name
 Mekanism:BasicBlock:0, Osmium Block
@@ -5498,18 +5478,6 @@ witchery:trent, Trent Effigy
 witchery:witchsladder, Witch's Ladder
 witchery:decurseteleport, Statue of Occluded Summons
 witchery:decursedirected, Statue of Broken Curses
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 witchery:statueofworship, Statue of Hobgoblin Patron
 witchery:cauldron, Witch's Cauldron
 witchery:wolfaltar, Wolf Altar
@@ -5530,6 +5498,18 @@ witchery:circleglyphinfernal, Infernal Glyph
 witchery:spiritflowing, Flowing Spirit
 witchery:hollowtears, Flowing Spirit
 witchery:disease, Disease
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 witchery:brew, tile.witchery:brew.name
 witchery:brewgas, tile.witchery:brewgas.name
 witchery:brewliquid, tile.witchery:brewliquid.name
@@ -5634,246 +5614,6 @@ aether_legacy:holystone_brick_slab:0, Holystone Brick Slab
 aether_legacy:aerogel_slab:0, Aerogel Slab
 aether_legacy:skyroot_bookshelf, Skyroot Bookshelf
 aether_legacy:skyroot_bed, Skyroot Bed
-arsmagica2:essenceRefiner, Essence Refiner
-arsmagica2:mageTorch, Mage Light
-arsmagica2:essenceConduit, Etherium Conduit
-arsmagica2:obelisk, Obelisk
-arsmagica2:calefactor, Calefactor
-arsmagica2:keystoneReceptacle, Keystone Receptacle
-arsmagica2:astralBarrier, Astral Barrier
-arsmagica2:blackAurem, Black Aurem
-arsmagica2:celestialPrism, Celestial Prism
-arsmagica2:seerStone, Seer Stone
-arsmagica2:vinteumOre:0, Vinteum Ore
-arsmagica2:vinteumOre:1, Chimerite Ore
-arsmagica2:vinteumOre:2, Blue Topaz Ore
-arsmagica2:vinteumOre:3, Moonstone Ore
-arsmagica2:vinteumOre:4, Sunstone Ore
-arsmagica2:vinteumOre:5, Moonstone Block
-arsmagica2:vinteumOre:6, Vinteum Block
-arsmagica2:vinteumOre:7, Blue Topaz Block
-arsmagica2:vinteumOre:8, Sunstone Block
-arsmagica2:vinteumOre:9, Chimerite Block
-arsmagica2:blueOrchid, Cerublossom
-arsmagica2:desertNova, Desert Nova
-arsmagica2:keystoneChest, Keystone Chest
-arsmagica2:blockLectern, Lectern
-arsmagica2:manaBattery, Mana Battery
-arsmagica2:blockArcaneReconstructor, Arcane Reconstructor
-arsmagica2:magicWall, Magic Wall
-arsmagica2:occulus, Occulus
-arsmagica2:CraftingAltar, Crafting Altar
-arsmagica2:SpellRune, Spell Rune
-arsmagica2:VinteumTorch, Vinteum Torch
-arsmagica2:ParticleEmitter, Particle Emitter
-arsmagica2:InscriptionTable, Inscription Table
-arsmagica2:invisibleUtility, tile.arsmagica2:invisibleUtility.name
-arsmagica2:Aum, Aum
-arsmagica2:TarmaRoot, Tarma Root
-arsmagica2:WitchwoodLog, Witchwood Log
-arsmagica2:WitchwoodLeaves, Witchwood Leaves
-arsmagica2:Summoner, Summoner
-arsmagica2:liquidEssence, Liquid Etherium
-arsmagica2:redstoneInlay, Redstone Inlay
-arsmagica2:ironInlay, Iron Inlay
-arsmagica2:goldInlay, Gold Inlay
-arsmagica2:planksWitchwood, Witchwood Planks
-arsmagica2:stairsWitchwood, Witchwood Stairs
-arsmagica2:saplingWitchwood, Witchwood Sapling
-arsmagica2:magiciansWorkbench, Magician's Workbench
-arsmagica2:everstone, Everstone
-arsmagica2:keystoneDoor, Keystone Door
-arsmagica2:keystoneTrapDoor, Keystone Trapdoor
-arsmagica2:slipstreamGenerator, Slipstream Generator
-arsmagica2:elementalAttuner, Flicker Habitat
-arsmagica2:wizardChalk, Wizard's Chalk Rune
-arsmagica2:inertSpawner, Inert Spawner
-arsmagica2:candle, Placed Warding Candle
-arsmagica2:brokenLinkBlock, Broken Power Link
-arsmagica2:armorInfuser, Armor Imbuement Table
-arsmagica2:flickerLure, Flicker Lure
-arsmagica2:arcaneDeconstructor, Arcane Deconstructor
-arsmagica2:wakebloom, Wakebloom
-arsmagica2:otherworldAura, Otherworld Aura
-arsmagica2:spellSealedDoor, Spell-Sealed Door
-arsmagica2:witchwoodSingleSlab:0, Witchwood Slab
-arsmagica2:witchwoodDoubleSlab:0, Witchwood Slab
-arsmagica2:illusionBlock:0, Illusion Block
-arsmagica2:illusionBlock:1, Ethereal Illusion Block
-arsmagica2:crystalMarker:0, Import Crystal
-arsmagica2:crystalMarker:1, Export Crystal
-arsmagica2:crystalMarker:2, Mimic Export Crystal
-arsmagica2:crystalMarker:3, Set Export Crystal
-arsmagica2:crystalMarker:4, Regulate Export Crystal
-arsmagica2:crystalMarker:5, Regulate Bidirectional Crystal
-arsmagica2:crystalMarker:6, Set Import Crystal
-arsmagica2:crystalMarker:7, Final Export Crystal
-arsmagica2:crystalMarker:8, Spell Export Crystal
-arsmagica2:spellBase, item.arsmagica2:spell_base.name
-arsmagica2:itemOre:0, Vinteum Dust
-arsmagica2:itemOre:1, Arcane Compound
-arsmagica2:itemOre:2, Arcane Ash
-arsmagica2:itemOre:3, Purified Vinteum Dust
-arsmagica2:itemOre:4, Chimerite
-arsmagica2:itemOre:5, Blue Topaz
-arsmagica2:itemOre:6, Sunstone
-arsmagica2:itemOre:7, Moonstone
-arsmagica2:itemOre:8, Pig Fat
-arsmagica2:essence:0, Arcane Essence
-arsmagica2:essence:1, Earth Essence
-arsmagica2:essence:2, Air Essence
-arsmagica2:essence:3, Fire Essence
-arsmagica2:essence:4, Water Essence
-arsmagica2:essence:5, Nature Essence
-arsmagica2:essence:6, Ice Essence
-arsmagica2:essence:7, Lightning Essence
-arsmagica2:essence:8, Life Essence
-arsmagica2:essence:9, Ender Essence
-arsmagica2:essence:10, Pure Essence
-arsmagica2:essence:11, High Essence Core
-arsmagica2:essence:12, Base Essence Core
-arsmagica2:essenceBag, Essence Bag
-arsmagica2:spellParchment, Spell Parchment
-arsmagica2:spellBook, item.arsmagica2:spell_book.name
-arsmagica2:rune:0, Black Rune
-arsmagica2:rune:1, Blank Rune
-arsmagica2:rune:2, Blue Rune
-arsmagica2:rune:3, Brown Rune
-arsmagica2:rune:4, Cyan Rune
-arsmagica2:rune:5, Gray Rune
-arsmagica2:rune:6, Green Rune
-arsmagica2:rune:7, Light Blue Rune
-arsmagica2:rune:8, Light Gray Rune
-arsmagica2:rune:9, Lime Rune
-arsmagica2:rune:10, Magenta Rune
-arsmagica2:rune:11, Orange Rune
-arsmagica2:rune:12, Pink Rune
-arsmagica2:rune:13, Purple Rune
-arsmagica2:rune:14, Red Rune
-arsmagica2:rune:15, White Rune
-arsmagica2:rune:16, Yellow Rune
-arsmagica2:rune:17, Infinity Orb
-arsmagica2:rune:18, Infinity Orb
-arsmagica2:rune:19, Infinity Orb
-arsmagica2:rune:20, Rune of Debugging
-arsmagica2:lesserFocus, Lesser Focus
-arsmagica2:standardFocus, Standard Focus
-arsmagica2:greaterFocus, Greater Focus
-arsmagica2:manaFocus, Mana Focus
-arsmagica2:chargeFocus, Charge Focus
-arsmagica2:playerFocus, Player Focus
-arsmagica2:mobFocus, Monster Focus
-arsmagica2:itemFocus, Item Focus
-arsmagica2:creatureFocus, Creature Focus
-arsmagica2:blueChalk, Wizard's Chalk
-arsmagica2:manaCake, Mana Cake
-arsmagica2:keystone, Keystone
-arsmagica2:bookAffinity:0, Affinity Tome: NONE
-arsmagica2:bookAffinity:1, Affinity Tome: ARCANE
-arsmagica2:bookAffinity:2, Affinity Tome: WATER
-arsmagica2:bookAffinity:3, Affinity Tome: FIRE
-arsmagica2:bookAffinity:4, Affinity Tome: EARTH
-arsmagica2:bookAffinity:5, Affinity Tome: AIR
-arsmagica2:bookAffinity:6, Affinity Tome: LIGHTNING
-arsmagica2:bookAffinity:7, Affinity Tome: ICE
-arsmagica2:bookAffinity:8, Affinity Tome: NATURE
-arsmagica2:bookAffinity:9, Affinity Tome: LIFE
-arsmagica2:bookAffinity:10, Affinity Tome: ENDER
-arsmagica2:lesserManaPotion, Lesser Mana Potion
-arsmagica2:standardManaPotion, Standard Mana Potion
-arsmagica2:greaterManaPotion, Greater Mana Potion
-arsmagica2:epicManaPotion, Epic Mana Potion
-arsmagica2:legendaryManaPotion, Legendary Mana Potion
-arsmagica2:manaPotionBundle:3, Lesser Mana Potion Bundle
-arsmagica2:manaPotionBundle:259, Standard Mana Potion Bundle
-arsmagica2:manaPotionBundle:515, Greater Mana Potion Bundle
-arsmagica2:manaPotionBundle:771, Epic Mana Potion Bundle
-arsmagica2:manaPotionBundle:1027, Legendary Mana Potion Bundle
-arsmagica2:mageHood, Mage Hood
-arsmagica2:mageArmor, Mage Robes
-arsmagica2:mageLeggings, Mage Leggings
-arsmagica2:mageBoots, Mage Boots
-arsmagica2:battlemageHood, Battlemage Circlet
-arsmagica2:battlemageArmor, Battlemage Armor
-arsmagica2:battlemageLeggings, Battlemage Leggings
-arsmagica2:battlemageBoots, Battlemage Boots
-arsmagica2:BoundHoeNor, Bound Hoe
-arsmagica2:BoundShovelNor, Bound Shovel
-arsmagica2:BoundAxeNor, Bound Axe
-arsmagica2:BoundPickaxeNor, Bound Pickaxe
-arsmagica2:BoundSwordNor, Bound Sword
-arsmagica2:AMSpawnEgg:0, Spawn Mana Creeper
-arsmagica2:AMSpawnEgg:1, Spawn Dryad
-arsmagica2:AMSpawnEgg:2, Spawn Hecate
-arsmagica2:AMSpawnEgg:3, Spawn Mage Villager
-arsmagica2:AMSpawnEgg:4, Spawn Mana Elemental
-arsmagica2:AMSpawnEgg:5, Spawn Water Elemental
-arsmagica2:AMSpawnEgg:6, Spawn Light Mage
-arsmagica2:AMSpawnEgg:7, Spawn Dark Mage
-arsmagica2:AMSpawnEgg:8, Spawn Hell Cow
-arsmagica2:AMSpawnEgg:9, Spawn Flicker
-arsmagica2:AMSpawnEgg:10, Spawn Earth Elemental
-arsmagica2:AMSpawnEgg:11, Spawn Fire Elemental
-arsmagica2:AMSpawnEgg:12, Spawn Darkling
-arsmagica2:AMSpawnEgg:13, Spawn Nature Guardian
-arsmagica2:AMSpawnEgg:14, Spawn Arcane Guardian
-arsmagica2:AMSpawnEgg:15, Spawn Earth Guardian
-arsmagica2:AMSpawnEgg:16, Spawn Water Guardian
-arsmagica2:AMSpawnEgg:17, Spawn Winter Guardian
-arsmagica2:AMSpawnEgg:18, Spawn Air Guardian
-arsmagica2:AMSpawnEgg:19, Spawn Fire Guardian
-arsmagica2:AMSpawnEgg:20, Spawn Life Guardian
-arsmagica2:AMSpawnEgg:21, Spawn Lightning Guardian
-arsmagica2:AMSpawnEgg:22, Spawn Ender Guardian
-arsmagica2:deficitCrystal, Deficit Crystal
-arsmagica2:crystal_wrench, Crystal Wrench
-arsmagica2:ArcaneCompendium, Arcane Compendium
-arsmagica2:SpellComponent, item.null.name
-arsmagica2:Crystal Phylactery, Crystal Phylactery
-arsmagica2:liquidEssenceBucket, Bucket of Liquid Etherium
-arsmagica2:natureScythe, §6Nature's Scythe§f
-arsmagica2:magitechStaff, Magitech's Staff
-arsmagica2:liquidEssenceBottle, Infused Etherium Potion
-arsmagica2:bindingCatalyst:0, Binding Catalyst: Pickaxe
-arsmagica2:bindingCatalyst:1, Binding Catalyst: Axe
-arsmagica2:bindingCatalyst:3, Binding Catalyst: Shovel
-arsmagica2:bindingCatalyst:2, Binding Catalyst: Sword
-arsmagica2:bindingCatalyst:4, Binding Catalyst: Hoe
-arsmagica2:evilBook, Evil-Looking Book
-arsmagica2:woodenLeg, Wooden Leg
-arsmagica2:cowHorn, Hell Cow's Horn
-arsmagica2:magicBroom, Magic Broom
-arsmagica2:arcane_spellbook, item.arsmagica2:arcane_spellbook.name
-arsmagica2:winter_arm, §6Winter's Grasp§f
-arsmagica2:air_sled, §6Air Sled§f
-arsmagica2:earth_armor, §6Earth Armor§f
-arsmagica2:water_orbs, §6Water Orbs§f
-arsmagica2:fire_ears, §6Antenna of the Fire Guardian§f
-arsmagica2:workbenchUpgrade, Magician's Workbench Upgrade: Crafting
-arsmagica2:keystoneDoorPlacer:0, Keystone Door
-arsmagica2:keystoneDoorPlacer:1, Spell-Sealed Door
-arsmagica2:enderBoots, §6Ender Boots§f
-arsmagica2:wardingCandle:0, Warding Candle (Unattuned)
-arsmagica2:magitechGoggles, Magitech Goggles
-arsmagica2:flickerJar:0, Empty Flicker Jar
-arsmagica2:flickerJar:1, Arcane Flicker Jar
-arsmagica2:flickerJar:2, Water Flicker Jar
-arsmagica2:flickerJar:3, Fire Flicker Jar
-arsmagica2:flickerJar:4, Earth Flicker Jar
-arsmagica2:flickerJar:5, Air Flicker Jar
-arsmagica2:flickerJar:6, Lightning Flicker Jar
-arsmagica2:flickerJar:7, Ice Flicker Jar
-arsmagica2:flickerJar:8, Nature Flicker Jar
-arsmagica2:flickerJar:9, Life Flicker Jar
-arsmagica2:flickerJar:10, Ender Flicker Jar
-arsmagica2:runeBag, Rune Bag
-arsmagica2:lightningCharm, §6Lightning Charm§f
-arsmagica2:lifeWard, §6Life Ward§f
-arsmagica2:playerjournal, Journal
-arsmagica2:manaMartini, Mana Martini
-arsmagica2:inscriptionUpgrade:0, Inscription Table Tier 1 Upgrade
-arsmagica2:inscriptionUpgrade:1, Inscription Table Tier 2 Upgrade
-arsmagica2:inscriptionUpgrade:2, Inscription Table Tier 3 Upgrade
 appliedenergistics2:item.ToolCertusQuartzAxe, Certus Quartz Axe
 appliedenergistics2:item.ToolCertusQuartzHoe, Certus Quartz Hoe
 appliedenergistics2:item.ToolCertusQuartzSpade, Certus Quartz Shovel
@@ -7874,11 +7614,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalUranium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalLead
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalAdvIron
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockITNT
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Demonic Soulcube
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Demon Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Demon Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Demon Tile
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Demon Crystal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Osmium Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
@@ -8228,19 +7963,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Mossy Holystone Double Sla
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Brick Double Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Aerogel Double Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Bookshelf
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Vinteum Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Chimerite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Topaz Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moonstone Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sunstone Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Moonstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Vinteum Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Topaz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sunstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Chimerite Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Witchwood Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Witchwood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Witchwood Slab
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -12900,33 +12622,6 @@ flansmod:yak9, Yak-9
 flansmod:zero, Zero
 flansmod:Biplane, Biplane
 flansmod:TwoSeatBiplane, Two Seat Biplane
-flansmod:mechaAutoFueler, Auto Fueler
-flansmod:mechaDiamondArmour, Diamond Armor
-flansmod:mechaDiamondCutter, Diamond Cutter
-flansmod:mechaDiamondDetector, Diamond Detector
-flansmod:mechaDustExtractor, Dust Extractor
-flansmod:mechaFloat, Floatation Device
-flansmod:mechaIlluminator, Illuminator
-flansmod:mechaInfiniteAmmoBox, Infinite Ammo Box
-flansmod:mechaIronArmour, Iron Armor
-flansmod:mechaIronRefiner, Iron Refiner
-flansmod:mechaItemVacuum, Item Vacuum
-flansmod:mechaLantern, Lantern
-flansmod:mechaLaserDiamondCutter, Laser Diamond Cutter
-flansmod:mechaMetalMagpie, Metal Magpie
-flansmod:mechaNanobots, Nanobots
-flansmod:mechaObsidianBoots, Obsidian Mecha Boots
-flansmod:mechaOreCrusher2000, Ore Crusher 2000
-flansmod:mechaRedstoneMagnet, Redstone Magnet
-flansmod:mechaRocketPack, Rocket Pack
-flansmod:mechaRotaryMagnet, Rotary Magnet
-flansmod:mechaRotarySuperMagnet, Rotary Super Magnet
-flansmod:mechaSpeedDecrease, Speed Decrease
-flansmod:mechaSpeedIncrease, Speed Increase
-flansmod:mechaWasteCompactor, Waste Compactor
-flansmod:AlphaTitan, Alpha Titan
-flansmod:ProtoTitan, Proto Titan
-flansmod:ZeroTitan, Zero Titan
 flansmod:c4Remote, C4 Remote
 flansmod:mwMedKit, Medkit
 flansmod:mwParachute, Parachute
@@ -13056,8 +12751,6 @@ ForbiddenMagic:WandCores:2000, Orichalcum Studded Cosmic Neutronium Staff
 ForbiddenMagic:WandCores:36, Iron Capped Profane Wand
 ForbiddenMagic:WandCores:84, Alchemically Crowned Blood Wand
 ForbiddenMagic:WandCores:168, Alchemically Crowned Blood Staff
-ForbiddenMagic:WandCores:72, Vinteum Bossed Witchwood Wand
-ForbiddenMagic:WandCores:144, Vinteum Bossed Witchwood Staff
 ForbiddenMagic:WandCores:84, Manasteel Entwined Livingwood Wand
 ForbiddenMagic:WandCores:84, Elementium Kissed Dreamwood Wand
 ForbiddenMagic:WandCores:144, Elementium Kissed Dreamwood Staff
@@ -13405,131 +13098,6 @@ IC2:itemSteamTurbineBlade, ic2.itemSteamTurbineBlade.name
 IC2:itemIronBlockCuttingBlade, ic2.itemIronBlockCuttingBlade.name
 IC2:itemAdvIronBlockCuttingBlade, ic2.itemAdvIronBlockCuttingBlade.name
 IC2:itemDiamondBlockCuttingBlade, ic2.itemDiamondBlockCuttingBlade.name
-lycanitesmobs:soulgazer, Soulgazer
-lycanitesmobs:soulstone, Soulstone
-lycanitesmobs:soulkey, Soulkey
-lycanitesmobs:summoningstaff, Summoning Staff
-lycanitesmobs:stablesummoningstaff, Stable Summoning Staff
-lycanitesmobs:bloodsummoningstaff, Blood Summoning Staff
-lycanitesmobs:sturdysummoningstaff, Sturdy Summoning Staff
-lycanitesmobs:savagesummoningstaff, Savage Summoning Staff
-lycanitesmobs:battleburrito, Battle Burrito
-lycanitesmobs:explorersrisotto, Explorers Risotto
-lycanitesmobs:halloweentreat, Halloween Treat
-lycanitesmobs:wintergift, Winter Gift
-lycanitesmobs:wintergiftlarge, Large Winter Gift
-lycanitesmobs:mobtoken, Mob Token
-arcticmobs:yetimeatraw, Raw Yeti Meat
-arcticmobs:yetimeatcooked, Cooked Yeti Meat
-arcticmobs:palesoup, Pale Soup
-arcticmobs:frostyfur, Frosty Fur
-arcticmobs:frostboltcharge, Frostbolt Charge
-arcticmobs:frostboltscepter, Frostbolt Scepter
-arcticmobs:frostwebcharge, Frostweb Charge
-arcticmobs:frostwebscepter, Frostweb Scepter
-arcticmobs:tundracharge, Tundra Charge
-arcticmobs:tundrascepter, Tundra Scepter
-arcticmobs:icefirecharge, Icefire Charge
-arcticmobs:icefirescepter, Icefire Scepter
-arcticmobs:blizzardcharge, Blizzard Charge
-arcticmobs:blizzardscepter, Blizzard Scepter
-arcticmobs:arixtreat, Arix Treat
-arcticmobs:serpixtreat, Serpix Treat
-arcticmobs:bucketooze, Ooze Bucket
-demonmobs:soulstonedemonic, Demonic Soulstone
-demonmobs:doomfirecharge, Doomfire Charge
-demonmobs:hellfirecharge, Hellfire Charge
-demonmobs:devilstarcharge, Devilstar Charge
-demonmobs:demoniclightningcharge, Demonic Lightning Charge
-demonmobs:pinkymeatraw, Raw Pinky Meat
-demonmobs:pinkymeatcooked, Cooked Pinky Meat
-demonmobs:devillasagna, Devil Lasagna
-demonmobs:pinkytreat, Pinky Treat
-demonmobs:cacodemontreat, Cacodemon Treat
-demonmobs:doomfirescepter, Doomfire Scepter
-demonmobs:hellfirescepter, Hellfire Scepter
-demonmobs:devilstarscepter, Devilstar Scepter
-demonmobs:demoniclightningscepter, Demonic Lightning Scepter
-desertmobs:throwingscythe, Throwing Scythe
-desertmobs:joustmeatraw, Raw Joust Meat
-desertmobs:joustmeatcooked, Cooked Joust Meat
-desertmobs:ambercake, Amber Cake
-desertmobs:crusktreat, Crusk Treat
-desertmobs:erepedetreat, Erepede Treat
-desertmobs:mudshotcharge, Mudshot Charge
-desertmobs:scythescepter, Scythe Scepter
-desertmobs:mudshotscepter, Mudshot Scepter
-forestmobs:arisaurmeatraw, Raw Arisaur Meat
-forestmobs:arisaurmeatcooked, Cooked Arisaur Meat
-forestmobs:paleosalad, Paleo Salad
-forestmobs:shamblertreat, Shambler Treat
-forestmobs:wargtreat, Warg Treat
-forestmobs:lifedraincharge, Life Drain Charge
-forestmobs:lifedrainscepter, Life Drain Scepter
-freshwatermobs:silexmeatraw, Raw Silex Meat
-freshwatermobs:silexmeatcooked, Cooked Silex Meat
-freshwatermobs:lapisfishandchips, Lapis Fish and Chips
-freshwatermobs:aquapulsecharge, Aqua Pulse Charge
-freshwatermobs:aquapulsescepter, Aqua Pulse Scepter
-freshwatermobs:stridertreat, Strider Treat
-infernomobs:soulstoneinferno, Inferno Soulstone
-infernomobs:cephignismeatcooked, Cooked Cephignis Meat
-infernomobs:searingtaco, Searing Taco
-infernomobs:embercharge, Ember Charge
-infernomobs:emberscepter, Ember Scepter
-infernomobs:cinderfallsword, Cinderfall Sword
-infernomobs:cinderfallswordazure, Azure Cinderfall Sword
-infernomobs:cinderfallswordverdant, Verdant Cinderfall Sword
-infernomobs:magmacharge, Magma Charge
-infernomobs:magmascepter, Magma Scepter
-infernomobs:scorchfirecharge, Scorchfire Charge
-infernomobs:scorchfirescepter, Scorchfire Scepter
-infernomobs:afrittreat, Afrit Treat
-infernomobs:bucketpurelava, Pure Lava Bucket
-junglemobs:concapedemeatraw, Raw Concapede Meat
-junglemobs:concapedemeatcooked, Cooked Concapede Meat
-junglemobs:tropicalcurry, Tropical Curry
-junglemobs:poopcharge, Poop
-junglemobs:poopscepter, Poop Scepter
-junglemobs:uvaraptortreat, Uvaraptor Treat
-mountainmobs:soulstonemountain, Mountain Soulstone
-mountainmobs:boulderblastcharge, Boulder Blast Charge
-mountainmobs:boulderblastscepter, Boulder Blast Scepter
-mountainmobs:arcanelaserstormcharge, Arcane Laser Storm Charge
-mountainmobs:arcanelaserstormscepter, Arcane Laser Storm Scepter
-mountainmobs:yalemeatraw, Raw Yale Meat
-mountainmobs:yalemeatcooked, Cooked Yale Meat
-mountainmobs:peakskebab, Peaks Kebab
-mountainmobs:barghesttreat, Barghest Treat
-plainsmobs:makameatraw, Raw Maka Meat
-plainsmobs:makameatcooked, Cooked Maka Meat
-plainsmobs:bulwarkburger, Bulwark Burger
-plainsmobs:ventoraptortreat, Ventoraptor Treat
-saltwatermobs:ikameatraw, Raw Ika Meat
-saltwatermobs:ikameatcooked, Cooked Ika Meat
-saltwatermobs:seashellmaki, Seashell Maki
-shadowmobs:soulstoneshadow, Shadow Soulstone
-shadowmobs:spectralboltcharge, Spectral Bolt Charge
-shadowmobs:spectralboltscepter, Spectral Bolt Scepter
-shadowmobs:bloodleechcharge, Bloodleech Charge
-shadowmobs:bloodleechscepter, Bloodleech Scepter
-shadowmobs:chupacabrameatraw, Raw Chupacabra Meat
-shadowmobs:chupacabrameatcooked, Cooked Chupacabra Meat
-shadowmobs:bloodchili, Blood Chili
-shadowmobs:geistliver, Geist Liver
-shadowmobs:chupacabratreat, Chupacabra Treat
-shadowmobs:shadetreat, Shade Treat
-swampmobs:aspidmeatraw, Raw Aspid Meat
-swampmobs:aspidmeatcooked, Cooked Aspid Meat
-swampmobs:mosspie, Moss Pie
-swampmobs:lurkertreat, Lurker Treat
-swampmobs:eyewigtreat, Eyewig Treat
-swampmobs:poisongland, Poison Gland
-swampmobs:poisonrayscepter, Poison Ray Scepter
-swampmobs:venomshotscepter, Venom Shot Scepter
-swampmobs:venomaxeblade, Venom Axeblade
-swampmobs:goldenvenomaxeblade, Golden Venom Axeblade
-swampmobs:verdantvenomaxeblade, Verdant Venom Axeblade
 mcheli:rangefinder, Laser Rangefinder
 mcheli:wrench, Wrench
 mcheli:fuel, Fuel
@@ -18348,25 +17916,6 @@ ThermalDynamics:cover:0, ic2.fluidDistilledWater Cover
 ThermalDynamics:cover:0, ic2.fluidSuperheatedSteam Cover
 ThermalDynamics:cover:0, ic2.fluidSteam Cover
 ThermalDynamics:cover:0, ic2.fluidHotWater Cover
-ThermalDynamics:cover:0, Ooze Cover
-ThermalDynamics:cover:0, Frostweb Cover
-ThermalDynamics:cover:0, Frostcloud Cover
-ThermalDynamics:cover:0, Frostfire Cover
-ThermalDynamics:cover:0, Icefire Cover
-ThermalDynamics:cover:0, Demonic Soulcube Cover
-ThermalDynamics:cover:0, Hellfire Cover
-ThermalDynamics:cover:0, Demon Stone Cover
-ThermalDynamics:cover:0, Demon Brick Cover
-ThermalDynamics:cover:0, Demon Tile Cover
-ThermalDynamics:cover:0, Demon Crystal Cover
-ThermalDynamics:cover:0, Pure Lava Cover
-ThermalDynamics:cover:0, Scorchfire Cover
-ThermalDynamics:cover:0, Quickweb Cover
-ThermalDynamics:cover:0, Poop Cloud Cover
-ThermalDynamics:cover:0, Propolis Cover
-ThermalDynamics:cover:0, Veswax Cover
-ThermalDynamics:cover:0, Shadowfire Cover
-ThermalDynamics:cover:0, Poison Cloud Cover
 ThermalDynamics:cover:0, Osmium Block Cover
 ThermalDynamics:cover:0, Bronze Block Cover
 ThermalDynamics:cover:0, Refined Obsidian Cover
@@ -19046,39 +18595,6 @@ ThermalDynamics:cover:0, Holystone Brick Slab Cover
 ThermalDynamics:cover:0, Aerogel Slab Cover
 ThermalDynamics:cover:0, Skyroot Bookshelf Cover
 ThermalDynamics:cover:0, Skyroot Bed Cover
-ThermalDynamics:cover:0, Mage Light Cover
-ThermalDynamics:cover:0, Vinteum Ore Cover
-ThermalDynamics:cover:0, Chimerite Ore Cover
-ThermalDynamics:cover:0, Blue Topaz Ore Cover
-ThermalDynamics:cover:0, Moonstone Ore Cover
-ThermalDynamics:cover:0, Sunstone Ore Cover
-ThermalDynamics:cover:0, Moonstone Block Cover
-ThermalDynamics:cover:0, Vinteum Block Cover
-ThermalDynamics:cover:0, Blue Topaz Block Cover
-ThermalDynamics:cover:0, Sunstone Block Cover
-ThermalDynamics:cover:0, Chimerite Block Cover
-ThermalDynamics:cover:0, Cerublossom Cover
-ThermalDynamics:cover:0, Desert Nova Cover
-ThermalDynamics:cover:0, Magic Wall Cover
-ThermalDynamics:cover:0, Vinteum Torch Cover
-ThermalDynamics:cover:0, tile.arsmagica2:invisibleUtility.name Cover
-ThermalDynamics:cover:0, Aum Cover
-ThermalDynamics:cover:0, Tarma Root Cover
-ThermalDynamics:cover:0, Witchwood Log Cover
-ThermalDynamics:cover:0, Witchwood Leaves Cover
-ThermalDynamics:cover:0, Liquid Etherium Cover
-ThermalDynamics:cover:0, Redstone Inlay Cover
-ThermalDynamics:cover:0, Iron Inlay Cover
-ThermalDynamics:cover:0, Gold Inlay Cover
-ThermalDynamics:cover:0, Witchwood Planks Cover
-ThermalDynamics:cover:0, Witchwood Stairs Cover
-ThermalDynamics:cover:0, Witchwood Sapling Cover
-ThermalDynamics:cover:0, Wizard's Chalk Rune Cover
-ThermalDynamics:cover:0, Wakebloom Cover
-ThermalDynamics:cover:0, Witchwood Slab Cover
-ThermalDynamics:cover:0, Witchwood Slab Cover
-ThermalDynamics:cover:0, Illusion Block Cover
-ThermalDynamics:cover:0, Ethereal Illusion Block Cover
 ThermalDynamics:retriever:0, Retriever
 ThermalDynamics:retriever:1, Hardened Retriever
 ThermalDynamics:retriever:2, Reinforced Retriever

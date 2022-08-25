@@ -4,6 +4,8 @@
 /astralsorcery/
 /craftpresence/
 /crash-reports/
+/compendiumunlocks/
+/compendiumUpdates/
 /downloads/
 /fonts/
 /journeymap/
@@ -19,6 +21,7 @@
 /config/brandon3055/ProjectIntelligence/ModDocs/
 /config/brandon3055/ProjectIntelligence/DocUpdater/
 /config/brandon3055/ResourceCache/
+/config/NEI/bookmarks.ini
 /config/jei/bookmarks.ini
 /config/jei/worldSettings.cfg
 /tv-cache/
