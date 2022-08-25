@@ -250,11 +250,15 @@ minecraft:log2:0, Acacia Wood
 minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
-appliedenergistics2:tile.OreQuartz, Certus Quartz Ore
-appliedenergistics2:tile.OreQuartzCharged, Charged Certus Quartz Ore
-appliedenergistics2:tile.BlockMatrixFrame, Matrix Frame
-appliedenergistics2:tile.BlockQuartz, Certus Quartz Block
-appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
+BuildCraft|Core:eternalSpring:0, Water Spring
+BuildCraft|Core:eternalSpring:1, Oil Spring
+BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
+BuildCraft|Core:engineBlock:0, Redstone Engine
+BuildCraft|Core:engineBlock:1, Stirling Engine
+BuildCraft|Core:engineBlock:2, Combustion Engine
+BuildCraft|Core:engineBlock:3, Creative Engine
+BuildCraft|Core:markerBlock, Land Mark
+BuildCraft|Core:pathMarkerBlock, Path Mark
 minecraft:hay_block, Hay Bale
 minecraft:carpet:0, Carpet
 minecraft:carpet:1, Orange Carpet
@@ -281,156 +285,133 @@ minecraft:double_plant:2, Double Tallgrass
 minecraft:double_plant:3, Large Fern
 minecraft:double_plant:4, Rose Bush
 minecraft:double_plant:5, Peony
-appliedenergistics2:tile.BlockQuartzChiseled, Chiseled Certus Quartz Block
-appliedenergistics2:tile.BlockQuartzGlass, Quartz Glass
-appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
-appliedenergistics2:tile.BlockQuartzTorch, Charged Quartz Fixture
-appliedenergistics2:tile.BlockFluix, Fluix Block
-appliedenergistics2:tile.BlockSkyStone:0, Sky Stone
-appliedenergistics2:tile.BlockSkyStone:1, Sky Stone Block
-appliedenergistics2:tile.BlockSkyStone:2, Sky Stone Brick
-appliedenergistics2:tile.BlockSkyStone:3, Sky Stone Small Brick
-appliedenergistics2:tile.BlockSkyChest:0, Sky Stone Chest
-appliedenergistics2:tile.BlockSkyChest:1, Sky Stone Block Chest
-appliedenergistics2:tile.BlockSkyCompass, Meteorite Compass
-appliedenergistics2:tile.BlockGrinder, Quartz Grindstone
-appliedenergistics2:tile.BlockCrank, Wooden Crank
-appliedenergistics2:tile.BlockInscriber, Inscriber
-appliedenergistics2:tile.BlockWireless, ME Wireless Access Point
-appliedenergistics2:tile.BlockCharger, Charger
-appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
-appliedenergistics2:tile.BlockSecurity, ME Security Terminal
-appliedenergistics2:tile.BlockQuantumRing, ME Quantum Ring
-appliedenergistics2:tile.BlockQuantumLinkChamber, ME Quantum Link Chamber
-appliedenergistics2:tile.BlockSpatialPylon, Spatial Pylon
-appliedenergistics2:tile.BlockSpatialIOPort, Spatial IO Port
-appliedenergistics2:tile.BlockCableBus, AE2 Cable and/or Bus
-appliedenergistics2:tile.BlockController, ME Controller
-appliedenergistics2:tile.BlockDrive, ME Drive
-appliedenergistics2:tile.BlockChest, ME Chest
-appliedenergistics2:tile.BlockInterface, ME Interface
-appliedenergistics2:tile.BlockCellWorkbench, Cell Workbench
-appliedenergistics2:tile.BlockIOPort, ME IO Port
-appliedenergistics2:tile.BlockCondenser, Matter Condenser
-appliedenergistics2:tile.BlockEnergyAcceptor, Energy Acceptor
-appliedenergistics2:tile.BlockVibrationChamber, Vibration Chamber
-appliedenergistics2:tile.BlockQuartzGrowthAccelerator, Crystal Growth Accelerator
-appliedenergistics2:tile.BlockEnergyCell, Energy Cell
-appliedenergistics2:tile.BlockDenseEnergyCell, Dense Energy Cell
-appliedenergistics2:tile.BlockCreativeEnergyCell, Creative Energy Cell
-appliedenergistics2:tile.BlockCraftingUnit:0, Crafting Unit
-appliedenergistics2:tile.BlockCraftingUnit:1, Crafting Co-Processing Unit
-appliedenergistics2:tile.BlockCraftingStorage:0, 1k Crafting Storage
-appliedenergistics2:tile.BlockCraftingStorage:1, 4k Crafting Storage
-appliedenergistics2:tile.BlockCraftingStorage:2, 16k Crafting Storage
-appliedenergistics2:tile.BlockCraftingStorage:3, 64k Crafting Storage
-appliedenergistics2:tile.BlockCraftingMonitor:0, Crafting Monitor
-appliedenergistics2:tile.BlockMolecularAssembler, Molecular Assembler
-appliedenergistics2:tile.BlockLightDetector, Light Detecting Fixture
-appliedenergistics2:tile.BlockPaint, tile.appliedenergistics2.BlockPaint.name
-appliedenergistics2:tile.SkyStoneStairBlock, Sky Stone Stairs
-appliedenergistics2:tile.SkyStoneBlockStairBlock, Sky Stone Block Stairs
-appliedenergistics2:tile.SkyStoneBrickStairBlock, Sky Stone Brick Stairs
-appliedenergistics2:tile.SkyStoneSmallBrickStairBlock, Sky Stone Small Brick Stairs
-appliedenergistics2:tile.FluixStairBlock, Fluix Stairs
-appliedenergistics2:tile.QuartzStairBlock, Certus Quartz Stairs
-appliedenergistics2:tile.ChiseledQuartzStairBlock, Chiseled Certus Quartz Stairs
-appliedenergistics2:tile.QuartzPillarStairBlock, Certus Quartz Pillar Stairs
-appliedenergistics2:tile.SkyStoneSlabBlock:0, Sky Stone Slabs
-appliedenergistics2:tile.SkyStoneSlabBlock.double:0, Sky Stone Slabs
-appliedenergistics2:tile.SkyStoneBlockSlabBlock:0, Sky Stone Block Slabs
-appliedenergistics2:tile.SkyStoneBlockSlabBlock.double:0, Sky Stone Block Slabs
-appliedenergistics2:tile.SkyStoneBrickSlabBlock:0, Sky Stone Brick Slabs
-appliedenergistics2:tile.SkyStoneBrickSlabBlock.double:0, Sky Stone Brick Slabs
-appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock:0, Sky Stone Small Brick Slabs
-appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock.double:0, Sky Stone Small Brick Slabs
-appliedenergistics2:tile.FluixSlabBlock:0, Fluix Slabs
-appliedenergistics2:tile.FluixSlabBlock.double:0, Fluix Slabs
-appliedenergistics2:tile.QuartzSlabBlock:0, Certus Quartz Slabs
-appliedenergistics2:tile.QuartzSlabBlock.double:0, Certus Quartz Slabs
-appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
-appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
-appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
-appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
-BiomesOPlenty:mud:0, Mud
-BiomesOPlenty:mud:1, Quicksand
-BiomesOPlenty:driedDirt, Dried Dirt
-BiomesOPlenty:rocks:0, Limestone
-BiomesOPlenty:rocks:1, Polished Limestone
-BiomesOPlenty:rocks:2, Siltstone
-BiomesOPlenty:rocks:3, Polished Siltstone
-BiomesOPlenty:rocks:4, Shale
-BiomesOPlenty:rocks:5, Polished Shale
-BiomesOPlenty:ash, Ash Block
-BiomesOPlenty:flesh, Flesh
-BiomesOPlenty:plants:0, Dead Grass
-BiomesOPlenty:plants:1, Desert Grass
-BiomesOPlenty:plants:2, Desert Sprouts
-BiomesOPlenty:plants:3, Dune Grass
-BiomesOPlenty:plants:4, Spectral Fern
-BiomesOPlenty:plants:5, Thorns
-BiomesOPlenty:plants:6, Wild Rice
-BiomesOPlenty:plants:7, Cattail
-BiomesOPlenty:plants:8, River Cane
-BiomesOPlenty:plants:12, Tiny Cactus
-BiomesOPlenty:plants:13, Wither Wart
-BiomesOPlenty:plants:14, Reed
-BiomesOPlenty:plants:15, Root
-BiomesOPlenty:flowers:0, Clover
-BiomesOPlenty:flowers:1, Swampflower
-BiomesOPlenty:flowers:2, Deathbloom
-BiomesOPlenty:flowers:3, Glowflower
-BiomesOPlenty:flowers:4, Blue Hydrangea
-BiomesOPlenty:flowers:5, Orange Cosmos
-BiomesOPlenty:flowers:6, Pink Daffodil
-BiomesOPlenty:flowers:7, Wildflower
-BiomesOPlenty:flowers:8, Violet
-BiomesOPlenty:flowers:9, White Anemone
-BiomesOPlenty:flowers:10, Waterlily
-BiomesOPlenty:flowers:11, Enderlotus
-BiomesOPlenty:flowers:12, Bromeliad
-BiomesOPlenty:flowers:13, Eyebulb
-BiomesOPlenty:flowers:15, Dandelion Puff
-BiomesOPlenty:flowers2:0, Pink Hibiscus
-BiomesOPlenty:flowers2:1, Lily of the Valley
-BiomesOPlenty:flowers2:2, Burning Blossom
-BiomesOPlenty:flowers2:3, Lavender
-BiomesOPlenty:flowers2:4, Goldenrod
-BiomesOPlenty:flowers2:5, Bluebells
-BiomesOPlenty:flowers2:6, Miner's Delight
-BiomesOPlenty:flowers2:7, Icy Iris
-BiomesOPlenty:flowers2:8, Rose
-BiomesOPlenty:stoneFormations:0, Stalagmite
-BiomesOPlenty:stoneFormations:1, Stalactite
-BiomesOPlenty:mushrooms:0, Toadstool
-BiomesOPlenty:mushrooms:1, Portobello
-BiomesOPlenty:mushrooms:2, Blue Milk Cap
-BiomesOPlenty:mushrooms:3, Glowshroom
-BiomesOPlenty:mushrooms:4, Flat Mushroom
-BiomesOPlenty:mushrooms:5, Shadow Shroom
-BiomesOPlenty:willow, Willow
-BiomesOPlenty:ivy, Ivy
-BiomesOPlenty:treeMoss, Tree Moss
-BiomesOPlenty:flowerVine, Flowering Vines
-BiomesOPlenty:wisteria, Wisteria
-BiomesOPlenty:lilyBop:0, Medium Lily Pad
-BiomesOPlenty:lilyBop:1, Small Lily Pad
-BiomesOPlenty:lilyBop:2, Tiny Lily Pad
-BiomesOPlenty:foliage:0, Duckweed
-BiomesOPlenty:foliage:1, Short Grass
-BiomesOPlenty:foliage:2, Medium Grass
-BiomesOPlenty:foliage:3, Flax
-BiomesOPlenty:foliage:4, Bush
-BiomesOPlenty:foliage:5, Sprout
-BiomesOPlenty:foliage:7, Poison Ivy
-BiomesOPlenty:foliage:8, Berry Bush
-BiomesOPlenty:foliage:9, Shrub
-BiomesOPlenty:foliage:10, Wheat Grass
-BiomesOPlenty:foliage:11, Damp Grass
-BiomesOPlenty:foliage:12, Koru
-BiomesOPlenty:foliage:13, Clover Patch
-BiomesOPlenty:foliage:14, Leaf Pile
-BiomesOPlenty:foliage:15, Dead Leaf Pile
+BuildCraft|Energy:blockOil, Oil
+BuildCraft|Energy:blockFuel, Fuel
+BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
+ActuallyAdditions:blockFireworkBox, Firework Box
+ActuallyAdditions:blockMiner, Vertical Digger
+ActuallyAdditions:blockBookStand, Manual Stand
+ActuallyAdditions:blockAtomicReconstructor, Atomic Reconstructor
+ActuallyAdditions:blockCrystal:0, Restonia Crystal Block
+ActuallyAdditions:blockCrystal:1, Palis Crystal Block
+ActuallyAdditions:blockCrystal:2, Diamatine Crystal Block
+ActuallyAdditions:blockCrystal:3, Void Crystal Block
+ActuallyAdditions:blockCrystal:4, Emeradic Crystal Block
+ActuallyAdditions:blockCrystal:5, Enori Crystal Block
+ActuallyAdditions:blockBlackLotus, Black Lotus
+ActuallyAdditions:blockLaserRelay, Laser Relay
+ActuallyAdditions:blockRangedCollector, Ranged Collector
+ActuallyAdditions:blockDirectionalBreaker, Long-Range Breaker
+ActuallyAdditions:blockLeafGenerator, Leaf-Eating Generator
+ActuallyAdditions:blockSmileyCloud, Smiley Cloud
+ActuallyAdditions:blockXPSolidifier, Experience Solidifier
+ActuallyAdditions:blockTestifiBucksGreenWall, Ethetic Green Block
+ActuallyAdditions:blockTestifiBucksWhiteWall, Ethetic Quartz
+ActuallyAdditions:blockTestifiBucksGreenStairs, Ethetic Green Stairs
+ActuallyAdditions:blockTestifiBucksWhiteStairs, Ethetic Quartz Stairs
+ActuallyAdditions:blockTestifiBucksGreenSlab, Ethetic Green Slab
+ActuallyAdditions:blockTestifiBucksWhiteSlab, Ethetic Quartz Slab
+ActuallyAdditions:blockTestifiBucksGreenFence, Ethetic Green Wall
+ActuallyAdditions:blockTestifiBucksWhiteFence, Ethetic Quartz Wall
+ActuallyAdditions:blockColoredLamp:0, White Lamp
+ActuallyAdditions:blockColoredLamp:1, Orange Lamp
+ActuallyAdditions:blockColoredLamp:2, Magenta Lamp
+ActuallyAdditions:blockColoredLamp:3, Light Blue Lamp
+ActuallyAdditions:blockColoredLamp:4, Yellow Lamp
+ActuallyAdditions:blockColoredLamp:5, Lime Lamp
+ActuallyAdditions:blockColoredLamp:6, Pink Lamp
+ActuallyAdditions:blockColoredLamp:7, Gray Lamp
+ActuallyAdditions:blockColoredLamp:8, Light Gray Lamp
+ActuallyAdditions:blockColoredLamp:9, Cyan Lamp
+ActuallyAdditions:blockColoredLamp:10, Purple Lamp
+ActuallyAdditions:blockColoredLamp:11, Blue Lamp
+ActuallyAdditions:blockColoredLamp:12, Brown Lamp
+ActuallyAdditions:blockColoredLamp:13, Green Lamp
+ActuallyAdditions:blockColoredLamp:14, Red Lamp
+ActuallyAdditions:blockColoredLamp:15, Black Lamp
+ActuallyAdditions:blockColoredLampOn:0, White Lamp (On)
+ActuallyAdditions:blockColoredLampOn:1, Orange Lamp (On)
+ActuallyAdditions:blockColoredLampOn:2, Magenta Lamp (On)
+ActuallyAdditions:blockColoredLampOn:3, Light Blue Lamp (On)
+ActuallyAdditions:blockColoredLampOn:4, Yellow Lamp (On)
+ActuallyAdditions:blockColoredLampOn:5, Lime Lamp (On)
+ActuallyAdditions:blockColoredLampOn:6, Pink Lamp (On)
+ActuallyAdditions:blockColoredLampOn:7, Gray Lamp (On)
+ActuallyAdditions:blockColoredLampOn:8, Light Gray Lamp (On)
+ActuallyAdditions:blockColoredLampOn:9, Cyan Lamp (On)
+ActuallyAdditions:blockColoredLampOn:10, Purple Lamp (On)
+ActuallyAdditions:blockColoredLampOn:11, Blue Lamp (On)
+ActuallyAdditions:blockColoredLampOn:12, Brown Lamp (On)
+ActuallyAdditions:blockColoredLampOn:13, Green Lamp (On)
+ActuallyAdditions:blockColoredLampOn:14, Red Lamp (On)
+ActuallyAdditions:blockColoredLampOn:15, Black Lamp (On)
+ActuallyAdditions:blockLampPowerer, Lamp Controller
+ActuallyAdditions:blockTreasureChest, Treasure Chest
+ActuallyAdditions:blockEnergizer, Energizer
+ActuallyAdditions:blockEnervator, Enervator
+ActuallyAdditions:blockLavaFactoryController, Lava Factory Controller
+ActuallyAdditions:blockCanolaPress, Canola Press
+ActuallyAdditions:blockPhantomface, Phantomface
+ActuallyAdditions:blockPhantomPlacer, Phantom Placer
+ActuallyAdditions:blockPhantomLiquiface, Phantom Liquiface
+ActuallyAdditions:blockPhantomEnergyface, Phantom Energyface
+ActuallyAdditions:blockPhantomBreaker, Phantom Breaker
+ActuallyAdditions:blockCoalGenerator, Coal Generator
+ActuallyAdditions:blockOilGenerator, Oil Generator
+ActuallyAdditions:blockFermentingBarrel, Fermenting Barrel
+ActuallyAdditions:blockRice, Rice Plant
+ActuallyAdditions:blockCanola, Canola Plant
+ActuallyAdditions:blockFlax, Flax Plant
+ActuallyAdditions:blockCoffee, Coffee Plant
+ActuallyAdditions:blockCompost, Compost
+ActuallyAdditions:blockMisc:0, Pillar of Black Quartz
+ActuallyAdditions:blockMisc:1, Chiseled Block of Black Quartz
+ActuallyAdditions:blockMisc:2, Block of Black Quartz
+ActuallyAdditions:blockMisc:3, Black Quartz Ore
+ActuallyAdditions:blockMisc:4, Wood Casing
+ActuallyAdditions:blockMisc:5, Block of Charcoal
+ActuallyAdditions:blockMisc:6, Block of Enderpearl
+ActuallyAdditions:blockMisc:7, Casing
+ActuallyAdditions:blockMisc:8, Ender Casing
+ActuallyAdditions:blockMisc:9, Iron Casing
+ActuallyAdditions:blockFeeder, Automatic Feeder
+ActuallyAdditions:blockGiantChest, Storage Crate
+ActuallyAdditions:blockGrinder, Crusher
+ActuallyAdditions:blockGrinderDouble, Double Crusher
+ActuallyAdditions:blockFurnaceDouble, Double Furnace
+ActuallyAdditions:blockInputter, ESD
+ActuallyAdditions:blockInputterAdvanced, Advanced ESD
+ActuallyAdditions:blockFishingNet, Fishing Net
+ActuallyAdditions:blockFurnaceSolar, Solar Panel
+ActuallyAdditions:blockHeatCollector, Heat Collector
+ActuallyAdditions:blockItemRepairer, Item Repairer
+ActuallyAdditions:blockGreenhouseGlass, Greenhouse Glass
+ActuallyAdditions:blockBreaker, Auto-Breaker
+ActuallyAdditions:blockPlacer, Auto-Placer
+ActuallyAdditions:blockDropper, Automatic Precision Dropper
+ActuallyAdditions:blockFluidPlacer, Fluid Placer
+ActuallyAdditions:blockFluidCollector, Fluid Collector
+ActuallyAdditions:blockCoffeeMachine, Coffee Machine
+ActuallyAdditions:blockPhantomBooster, Phantom Booster
+ActuallyAdditions:blockWild:0, Wild Canola
+ActuallyAdditions:blockWild:1, Wild Flax
+ActuallyAdditions:blockWild:2, Wild Rice
+ActuallyAdditions:blockWild:3, Wild Coffee
+ActuallyAdditions:blockQuartzWall, Black Quartz Wall
+ActuallyAdditions:blockChiseledQuartzWall, Chiseled Black Quartz Wall
+ActuallyAdditions:blockPillarQuartzWall, Black Quartz Pillar Wall
+ActuallyAdditions:blockQuartzStair, Black Quartz Stairs
+ActuallyAdditions:blockChiseledQuartzStair, Chiseled Black Quartz Stairs
+ActuallyAdditions:blockPillarQuartzStair, Black Quartz Pillar Stairs
+ActuallyAdditions:blockQuartzSlab, Black Quartz Slab
+ActuallyAdditions:blockChiseledQuartzSlab, Chiseled Black Quartz Slab
+ActuallyAdditions:blockPillarQuartzSlab, Black Quartz Pillar Slab
+ActuallyAdditions:blockCanolaOil, Canola Oil
+appliedenergistics2:tile.OreQuartz, Certus Quartz Ore
+appliedenergistics2:tile.OreQuartzCharged, Charged Certus Quartz Ore
+appliedenergistics2:tile.BlockMatrixFrame, Matrix Frame
+appliedenergistics2:tile.BlockQuartz, Certus Quartz Block
+appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -728,6 +709,162 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, Minecart with TNT
 minecraft:hopper_minecart, Minecart with Hopper
+appliedenergistics2:tile.BlockQuartzChiseled, Chiseled Certus Quartz Block
+appliedenergistics2:tile.BlockQuartzGlass, Quartz Glass
+appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
+appliedenergistics2:tile.BlockQuartzTorch, Charged Quartz Fixture
+appliedenergistics2:tile.BlockFluix, Fluix Block
+appliedenergistics2:tile.BlockSkyStone:0, Sky Stone
+appliedenergistics2:tile.BlockSkyStone:1, Sky Stone Block
+appliedenergistics2:tile.BlockSkyStone:2, Sky Stone Brick
+appliedenergistics2:tile.BlockSkyStone:3, Sky Stone Small Brick
+appliedenergistics2:tile.BlockSkyChest:0, Sky Stone Chest
+appliedenergistics2:tile.BlockSkyChest:1, Sky Stone Block Chest
+appliedenergistics2:tile.BlockSkyCompass, Meteorite Compass
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
+appliedenergistics2:tile.BlockGrinder, Quartz Grindstone
+appliedenergistics2:tile.BlockCrank, Wooden Crank
+appliedenergistics2:tile.BlockInscriber, Inscriber
+appliedenergistics2:tile.BlockWireless, ME Wireless Access Point
+appliedenergistics2:tile.BlockCharger, Charger
+appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
+appliedenergistics2:tile.BlockSecurity, ME Security Terminal
+appliedenergistics2:tile.BlockQuantumRing, ME Quantum Ring
+appliedenergistics2:tile.BlockQuantumLinkChamber, ME Quantum Link Chamber
+appliedenergistics2:tile.BlockSpatialPylon, Spatial Pylon
+appliedenergistics2:tile.BlockSpatialIOPort, Spatial IO Port
+appliedenergistics2:tile.BlockCableBus, AE2 Cable and/or Bus
+appliedenergistics2:tile.BlockController, ME Controller
+appliedenergistics2:tile.BlockDrive, ME Drive
+appliedenergistics2:tile.BlockChest, ME Chest
+appliedenergistics2:tile.BlockInterface, ME Interface
+appliedenergistics2:tile.BlockCellWorkbench, Cell Workbench
+appliedenergistics2:tile.BlockIOPort, ME IO Port
+appliedenergistics2:tile.BlockCondenser, Matter Condenser
+appliedenergistics2:tile.BlockEnergyAcceptor, Energy Acceptor
+appliedenergistics2:tile.BlockVibrationChamber, Vibration Chamber
+appliedenergistics2:tile.BlockQuartzGrowthAccelerator, Crystal Growth Accelerator
+appliedenergistics2:tile.BlockEnergyCell, Energy Cell
+appliedenergistics2:tile.BlockDenseEnergyCell, Dense Energy Cell
+appliedenergistics2:tile.BlockCreativeEnergyCell, Creative Energy Cell
+appliedenergistics2:tile.BlockCraftingUnit:0, Crafting Unit
+appliedenergistics2:tile.BlockCraftingUnit:1, Crafting Co-Processing Unit
+appliedenergistics2:tile.BlockCraftingStorage:0, 1k Crafting Storage
+appliedenergistics2:tile.BlockCraftingStorage:1, 4k Crafting Storage
+appliedenergistics2:tile.BlockCraftingStorage:2, 16k Crafting Storage
+appliedenergistics2:tile.BlockCraftingStorage:3, 64k Crafting Storage
+appliedenergistics2:tile.BlockCraftingMonitor:0, Crafting Monitor
+appliedenergistics2:tile.BlockMolecularAssembler, Molecular Assembler
+appliedenergistics2:tile.BlockLightDetector, Light Detecting Fixture
+appliedenergistics2:tile.BlockPaint, tile.appliedenergistics2.BlockPaint.name
+appliedenergistics2:tile.SkyStoneStairBlock, Sky Stone Stairs
+appliedenergistics2:tile.SkyStoneBlockStairBlock, Sky Stone Block Stairs
+appliedenergistics2:tile.SkyStoneBrickStairBlock, Sky Stone Brick Stairs
+appliedenergistics2:tile.SkyStoneSmallBrickStairBlock, Sky Stone Small Brick Stairs
+appliedenergistics2:tile.FluixStairBlock, Fluix Stairs
+appliedenergistics2:tile.QuartzStairBlock, Certus Quartz Stairs
+appliedenergistics2:tile.ChiseledQuartzStairBlock, Chiseled Certus Quartz Stairs
+appliedenergistics2:tile.QuartzPillarStairBlock, Certus Quartz Pillar Stairs
+appliedenergistics2:tile.SkyStoneSlabBlock:0, Sky Stone Slabs
+appliedenergistics2:tile.SkyStoneSlabBlock.double:0, Sky Stone Slabs
+appliedenergistics2:tile.SkyStoneBlockSlabBlock:0, Sky Stone Block Slabs
+appliedenergistics2:tile.SkyStoneBlockSlabBlock.double:0, Sky Stone Block Slabs
+appliedenergistics2:tile.SkyStoneBrickSlabBlock:0, Sky Stone Brick Slabs
+appliedenergistics2:tile.SkyStoneBrickSlabBlock.double:0, Sky Stone Brick Slabs
+appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock:0, Sky Stone Small Brick Slabs
+appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock.double:0, Sky Stone Small Brick Slabs
+appliedenergistics2:tile.FluixSlabBlock:0, Fluix Slabs
+appliedenergistics2:tile.FluixSlabBlock.double:0, Fluix Slabs
+appliedenergistics2:tile.QuartzSlabBlock:0, Certus Quartz Slabs
+appliedenergistics2:tile.QuartzSlabBlock.double:0, Certus Quartz Slabs
+appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
+appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
+appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
+appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
+BiomesOPlenty:mud:0, Mud
+BiomesOPlenty:mud:1, Quicksand
+BiomesOPlenty:driedDirt, Dried Dirt
+BiomesOPlenty:rocks:0, Limestone
+BiomesOPlenty:rocks:1, Polished Limestone
+BiomesOPlenty:rocks:2, Siltstone
+BiomesOPlenty:rocks:3, Polished Siltstone
+BiomesOPlenty:rocks:4, Shale
+BiomesOPlenty:rocks:5, Polished Shale
+BiomesOPlenty:ash, Ash Block
+BiomesOPlenty:flesh, Flesh
+BiomesOPlenty:plants:0, Dead Grass
+BiomesOPlenty:plants:1, Desert Grass
+BiomesOPlenty:plants:2, Desert Sprouts
+BiomesOPlenty:plants:3, Dune Grass
+BiomesOPlenty:plants:4, Spectral Fern
+BiomesOPlenty:plants:5, Thorns
+BiomesOPlenty:plants:6, Wild Rice
+BiomesOPlenty:plants:7, Cattail
+BiomesOPlenty:plants:8, River Cane
+BiomesOPlenty:plants:12, Tiny Cactus
+BiomesOPlenty:plants:13, Wither Wart
+BiomesOPlenty:plants:14, Reed
+BiomesOPlenty:plants:15, Root
+BiomesOPlenty:flowers:0, Clover
+BiomesOPlenty:flowers:1, Swampflower
+BiomesOPlenty:flowers:2, Deathbloom
+BiomesOPlenty:flowers:3, Glowflower
+BiomesOPlenty:flowers:4, Blue Hydrangea
+BiomesOPlenty:flowers:5, Orange Cosmos
+BiomesOPlenty:flowers:6, Pink Daffodil
+BiomesOPlenty:flowers:7, Wildflower
+BiomesOPlenty:flowers:8, Violet
+BiomesOPlenty:flowers:9, White Anemone
+BiomesOPlenty:flowers:10, Waterlily
+BiomesOPlenty:flowers:11, Enderlotus
+BiomesOPlenty:flowers:12, Bromeliad
+BiomesOPlenty:flowers:13, Eyebulb
+BiomesOPlenty:flowers:15, Dandelion Puff
+BiomesOPlenty:flowers2:0, Pink Hibiscus
+BiomesOPlenty:flowers2:1, Lily of the Valley
+BiomesOPlenty:flowers2:2, Burning Blossom
+BiomesOPlenty:flowers2:3, Lavender
+BiomesOPlenty:flowers2:4, Goldenrod
+BiomesOPlenty:flowers2:5, Bluebells
+BiomesOPlenty:flowers2:6, Miner's Delight
+BiomesOPlenty:flowers2:7, Icy Iris
+BiomesOPlenty:flowers2:8, Rose
+BiomesOPlenty:stoneFormations:0, Stalagmite
+BiomesOPlenty:stoneFormations:1, Stalactite
+BiomesOPlenty:mushrooms:0, Toadstool
+BiomesOPlenty:mushrooms:1, Portobello
+BiomesOPlenty:mushrooms:2, Blue Milk Cap
+BiomesOPlenty:mushrooms:3, Glowshroom
+BiomesOPlenty:mushrooms:4, Flat Mushroom
+BiomesOPlenty:mushrooms:5, Shadow Shroom
+BiomesOPlenty:willow, Willow
+BiomesOPlenty:ivy, Ivy
+BiomesOPlenty:treeMoss, Tree Moss
+BiomesOPlenty:flowerVine, Flowering Vines
+BiomesOPlenty:wisteria, Wisteria
+BiomesOPlenty:lilyBop:0, Medium Lily Pad
+BiomesOPlenty:lilyBop:1, Small Lily Pad
+BiomesOPlenty:lilyBop:2, Tiny Lily Pad
+BiomesOPlenty:foliage:0, Duckweed
+BiomesOPlenty:foliage:1, Short Grass
+BiomesOPlenty:foliage:2, Medium Grass
+BiomesOPlenty:foliage:3, Flax
+BiomesOPlenty:foliage:4, Bush
+BiomesOPlenty:foliage:5, Sprout
+BiomesOPlenty:foliage:7, Poison Ivy
+BiomesOPlenty:foliage:8, Berry Bush
+BiomesOPlenty:foliage:9, Shrub
+BiomesOPlenty:foliage:10, Wheat Grass
+BiomesOPlenty:foliage:11, Damp Grass
+BiomesOPlenty:foliage:12, Koru
+BiomesOPlenty:foliage:13, Clover Patch
+BiomesOPlenty:foliage:14, Leaf Pile
+BiomesOPlenty:foliage:15, Dead Leaf Pile
 BiomesOPlenty:turnip, Turnip
 BiomesOPlenty:coral1:11, Kelp
 BiomesOPlenty:coral1:12, Pink Coral
@@ -739,12 +876,6 @@ BiomesOPlenty:ashStone, Ash Stone
 BiomesOPlenty:hardIce, Hardened Ice
 BiomesOPlenty:appleLeaves:0, Apple Leaves
 BiomesOPlenty:persimmonLeaves:0, Persimmon Leaves
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
 BiomesOPlenty:moss, Moss
 BiomesOPlenty:bamboo, Bamboo
 BiomesOPlenty:mudBricks, Mud Bricks
@@ -1731,15 +1862,6 @@ Botania:pavement4Slab:0, Yellow Portuguese Pavement Slab
 Botania:pavement4SlabFull:0, Yellow Portuguese Pavement Slab
 Botania:pavement5Slab:0, Green Portuguese Pavement Slab
 Botania:pavement5SlabFull:0, Green Portuguese Pavement Slab
-BuildCraft|Core:eternalSpring:0, Water Spring
-BuildCraft|Core:eternalSpring:1, Oil Spring
-BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
-BuildCraft|Core:engineBlock:0, Redstone Engine
-BuildCraft|Core:engineBlock:1, Stirling Engine
-BuildCraft|Core:engineBlock:2, Combustion Engine
-BuildCraft|Core:engineBlock:3, Creative Engine
-BuildCraft|Core:markerBlock, Land Mark
-BuildCraft|Core:pathMarkerBlock, Path Mark
 BuildCraft|Builders:machineBlock, Quarry
 BuildCraft|Builders:fillerBlock, Filler
 BuildCraft|Builders:frameBlock, Frame
@@ -1757,9 +1879,6 @@ BuildCraft|Silicon:laserTableBlock:3, Charging Table
 BuildCraft|Silicon:laserTableBlock:4, Programming Table
 BuildCraft|Silicon:laserTableBlock:5, Stamping Table
 BuildCraft|Silicon:packagerBlock, Recipe Packager
-BuildCraft|Energy:blockOil, Oil
-BuildCraft|Energy:blockFuel, Fuel
-BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
 BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
 BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 BuildCraft|Factory:miningWellBlock, Mining Well
@@ -3640,7 +3759,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
+ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -4652,6 +4771,14 @@ IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
 IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
 IC2:fluidSteam, ic2.fluidSteam.name
 IC2:fluidHotWater, ic2.fluidHotWater.name
+IronChest:BlockIronChest:0, Iron Chest
+IronChest:BlockIronChest:1, Gold Chest
+IronChest:BlockIronChest:2, Diamond Chest
+IronChest:BlockIronChest:3, Copper Chest
+IronChest:BlockIronChest:4, Silver Chest
+IronChest:BlockIronChest:5, Crystal Chest
+IronChest:BlockIronChest:6, Obsidian Chest
+IronChest:BlockIronChest:7, DirtChest 9000!
 mcheli:drafting_table, Drafting Table
 mcheli:lit_drafting_table, tile.lit_drafting_table.name
 Mekanism:BasicBlock:0, Osmium Block
@@ -5199,6 +5326,52 @@ rivalrebels:rivalrebelsblock73, tile.rivalrebels.blocks.74.name
 rivalrebels:rivalrebelsblock74, tile.rivalrebels.blocks.75.name
 rivalrebels:rivalrebelsblock75, tile.rivalrebels.blocks.76.name
 rivalrebels:rivalrebelsblock76, tile.rivalrebels.blocks.77.name
+StorageDrawers:fullDrawers1:0, Oak Drawer
+StorageDrawers:fullDrawers1:1, Spruce Drawer
+StorageDrawers:fullDrawers1:2, Birch Drawer
+StorageDrawers:fullDrawers1:3, Jungle Drawer
+StorageDrawers:fullDrawers1:4, Acacia Drawer
+StorageDrawers:fullDrawers1:5, Dark Oak Drawer
+StorageDrawers:fullDrawers2:0, Oak Drawers 1x2
+StorageDrawers:fullDrawers2:1, Spruce Drawers 1x2
+StorageDrawers:fullDrawers2:2, Birch Drawers 1x2
+StorageDrawers:fullDrawers2:3, Jungle Drawers 1x2
+StorageDrawers:fullDrawers2:4, Acacia Drawers 1x2
+StorageDrawers:fullDrawers2:5, Dark Oak Drawers 1x2
+StorageDrawers:fullDrawers4:0, Oak Drawers 2x2
+StorageDrawers:fullDrawers4:1, Spruce Drawers 2x2
+StorageDrawers:fullDrawers4:2, Birch Drawers 2x2
+StorageDrawers:fullDrawers4:3, Jungle Drawers 2x2
+StorageDrawers:fullDrawers4:4, Acacia Drawers 2x2
+StorageDrawers:fullDrawers4:5, Dark Oak Drawers 2x2
+StorageDrawers:halfDrawers2:0, Compact Oak Drawers 1x2
+StorageDrawers:halfDrawers2:1, Compact Spruce Drawers 1x2
+StorageDrawers:halfDrawers2:2, Compact Birch Drawers 1x2
+StorageDrawers:halfDrawers2:3, Compact Jungle Drawers 1x2
+StorageDrawers:halfDrawers2:4, Compact Acacia Drawers 1x2
+StorageDrawers:halfDrawers2:5, Compact Dark Oak Drawers 1x2
+StorageDrawers:halfDrawers4:0, Compact Oak Drawers 2x2
+StorageDrawers:halfDrawers4:1, Compact Spruce Drawers 2x2
+StorageDrawers:halfDrawers4:2, Compact Birch Drawers 2x2
+StorageDrawers:halfDrawers4:3, Compact Jungle Drawers 2x2
+StorageDrawers:halfDrawers4:4, Compact Acacia Drawers 2x2
+StorageDrawers:halfDrawers4:5, Compact Dark Oak Drawers 2x2
+StorageDrawers:compDrawers, Compacting Drawer
+StorageDrawers:controller, Drawer Controller
+StorageDrawers:controllerSlave, Controller Slave
+StorageDrawers:trim:0, Oak Trim
+StorageDrawers:trim:1, Spruce Trim
+StorageDrawers:trim:2, Birch Trim
+StorageDrawers:trim:3, Jungle Trim
+StorageDrawers:trim:4, Acacia Trim
+StorageDrawers:trim:5, Dark Oak Trim
+StorageDrawers:framingTable, Framing Table
+StorageDrawers:fullCustom1, Framed Drawer
+StorageDrawers:fullCustom2, Framed Drawers 1x2
+StorageDrawers:fullCustom4, Framed Drawers 2x2
+StorageDrawers:halfCustom2, Framed Drawers 1x2
+StorageDrawers:halfCustom4, Framed Drawers 2x2
+StorageDrawers:trimCustom, Framed Trim
 Techguns:BioBlobSmall, tile.Bioblob.name
 Techguns:camoNetPane:0, Camo Net (Woodland)
 Techguns:camoNetPane:1, Camo Net (Snow)
@@ -5363,6 +5536,18 @@ witchery:crittersnare:0, Critter Snare
 witchery:grassper, Grassper
 witchery:bloodrose, Blood Poppy
 witchery:somniancotton, Wispy Cotton
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 witchery:web, Web
 witchery:vine, Vine
 witchery:cactus, Cactus
@@ -5498,18 +5683,6 @@ witchery:circleglyphinfernal, Infernal Glyph
 witchery:spiritflowing, Flowing Spirit
 witchery:hollowtears, Flowing Spirit
 witchery:disease, Disease
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 witchery:brew, tile.witchery:brew.name
 witchery:brewgas, tile.witchery:brewgas.name
 witchery:brewliquid, tile.witchery:brewliquid.name
@@ -5614,6 +5787,279 @@ aether_legacy:holystone_brick_slab:0, Holystone Brick Slab
 aether_legacy:aerogel_slab:0, Aerogel Slab
 aether_legacy:skyroot_bookshelf, Skyroot Bookshelf
 aether_legacy:skyroot_bed, Skyroot Bed
+BuildCraft|Core:wrenchItem, Wrench
+BuildCraft|Core:mapLocation, Map Location
+BuildCraft|Core:list:0, List
+BuildCraft|Core:list:1, List
+BuildCraft|Core:debugger, Debugger
+BuildCraft|Core:woodenGearItem, Wood Gear
+BuildCraft|Core:stoneGearItem, Stone Gear
+BuildCraft|Core:ironGearItem, Iron Gear
+BuildCraft|Core:goldGearItem, Gold Gear
+BuildCraft|Core:diamondGearItem, Diamond Gear
+BuildCraft|Core:paintbrush, Paintbrush
+BuildCraft|Energy:bucketOil, Oil Bucket
+BuildCraft|Energy:bucketFuel, Fuel Bucket
+ActuallyAdditions:itemMisc:0, Paper Cone
+ActuallyAdditions:itemMisc:1, Mashed Food
+ActuallyAdditions:itemMisc:2, Knife Blade
+ActuallyAdditions:itemMisc:3, Knife Handle
+ActuallyAdditions:itemMisc:4, Dough
+ActuallyAdditions:itemMisc:5, Black Quartz
+ActuallyAdditions:itemMisc:6, Ring
+ActuallyAdditions:itemMisc:7, Basic Coil
+ActuallyAdditions:itemMisc:8, Advanced Coil
+ActuallyAdditions:itemMisc:9, Rice Dough
+ActuallyAdditions:itemMisc:10, Tiny Coal
+ActuallyAdditions:itemMisc:11, Tiny Charcoal
+ActuallyAdditions:itemMisc:12, Rice Slimeball
+ActuallyAdditions:itemMisc:13, Canola
+ActuallyAdditions:itemMisc:14, Empty Cup
+ActuallyAdditions:itemMisc:15, Bat's Wing
+ActuallyAdditions:itemMisc:16, Drill Core
+ActuallyAdditions:itemMisc:17, Black Dye
+ActuallyAdditions:itemMisc:18, Lens
+ActuallyAdditions:itemCrateKeeper, Storage Crate Keeper
+ActuallyAdditions:itemColorLens, Lens of Color
+ActuallyAdditions:itemExplosionLens, Lens of Detonation
+ActuallyAdditions:itemDamageLens, Lens of Certain Death
+ActuallyAdditions:itemCrystal:0, Restonia Crystal
+ActuallyAdditions:itemCrystal:1, Palis Crystal
+ActuallyAdditions:itemCrystal:2, Diamatine Crystal
+ActuallyAdditions:itemCrystal:3, Void Crystal
+ActuallyAdditions:itemCrystal:4, Emeradic Crystal
+ActuallyAdditions:itemCrystal:5, Enori Crystal
+ActuallyAdditions:itemLaserWrench, Laser Wrench
+ActuallyAdditions:itemChestToCrateUpgrade, Chest To Storage Crate Upgrade
+ActuallyAdditions:itemBooklet, Actually Additions Manual
+ActuallyAdditions:itemGrowthRing:0, Ring of Growth
+ActuallyAdditions:itemGrowthRing:0, Ring of Growth
+ActuallyAdditions:itemSuctionRing:0, Ring of Magnetizing
+ActuallyAdditions:itemSuctionRing:0, Ring of Magnetizing
+ActuallyAdditions:itemWaterRemovalRing:0, Ring of Liquid Banning
+ActuallyAdditions:itemWaterRemovalRing:0, Ring of Liquid Banning
+ActuallyAdditions:itemHelmEmerald, Emerald Helmet
+ActuallyAdditions:itemChestEmerald, Emerald Chestplate
+ActuallyAdditions:itemPantsEmerald, Emerald Pants
+ActuallyAdditions:itemBootsEmerald, Emerald Boots
+ActuallyAdditions:itemHelmObsidian, Obsidian Helmet
+ActuallyAdditions:itemChestObsidian, Obsidian Chestplate
+ActuallyAdditions:itemPantsObsidian, Obsidian Pants
+ActuallyAdditions:itemBootsObsidian, Obsidian Boots
+ActuallyAdditions:itemHelmQuartz, Black Quartz Helmet
+ActuallyAdditions:itemChestQuartz, Black Quartz Chestplate
+ActuallyAdditions:itemPantsQuartz, Black Quartz Pants
+ActuallyAdditions:itemBootsQuartz, Black Quartz Boots
+ActuallyAdditions:itemTeleStaff:0, Teleport Staff
+ActuallyAdditions:itemTeleStaff:0, Teleport Staff
+ActuallyAdditions:itemWingsOfTheBats, Wings Of The Bats
+ActuallyAdditions:itemDrill:0, Drill
+ActuallyAdditions:itemDrill:0, Drill
+ActuallyAdditions:itemDrill:1, Drill
+ActuallyAdditions:itemDrill:1, Drill
+ActuallyAdditions:itemDrill:2, Drill
+ActuallyAdditions:itemDrill:2, Drill
+ActuallyAdditions:itemDrill:3, Drill
+ActuallyAdditions:itemDrill:3, Drill
+ActuallyAdditions:itemDrill:4, Drill
+ActuallyAdditions:itemDrill:4, Drill
+ActuallyAdditions:itemDrill:5, Drill
+ActuallyAdditions:itemDrill:5, Drill
+ActuallyAdditions:itemDrill:6, Drill
+ActuallyAdditions:itemDrill:6, Drill
+ActuallyAdditions:itemDrill:7, Drill
+ActuallyAdditions:itemDrill:7, Drill
+ActuallyAdditions:itemDrill:8, Drill
+ActuallyAdditions:itemDrill:8, Drill
+ActuallyAdditions:itemDrill:9, Drill
+ActuallyAdditions:itemDrill:9, Drill
+ActuallyAdditions:itemDrill:10, Drill
+ActuallyAdditions:itemDrill:10, Drill
+ActuallyAdditions:itemDrill:11, Drill
+ActuallyAdditions:itemDrill:11, Drill
+ActuallyAdditions:itemDrill:12, Drill
+ActuallyAdditions:itemDrill:12, Drill
+ActuallyAdditions:itemDrill:13, Drill
+ActuallyAdditions:itemDrill:13, Drill
+ActuallyAdditions:itemDrill:14, Drill
+ActuallyAdditions:itemDrill:14, Drill
+ActuallyAdditions:itemDrill:15, Drill
+ActuallyAdditions:itemDrill:15, Drill
+ActuallyAdditions:itemBattery:0, Single Battery
+ActuallyAdditions:itemBattery:0, Single Battery
+ActuallyAdditions:itemBatteryDouble:0, Double Battery
+ActuallyAdditions:itemBatteryDouble:0, Double Battery
+ActuallyAdditions:itemBatteryTriple:0, Triple Battery
+ActuallyAdditions:itemBatteryTriple:0, Triple Battery
+ActuallyAdditions:itemBatteryQuadruple:0, Quadruple Battery
+ActuallyAdditions:itemBatteryQuadruple:0, Quadruple Battery
+ActuallyAdditions:itemBatteryQuintuple:0, Quintuple Battery
+ActuallyAdditions:itemBatteryQuintuple:0, Quintuple Battery
+ActuallyAdditions:itemDrillUpgradeSpeed, Drill Speed Augment I
+ActuallyAdditions:itemDrillUpgradeSpeedII, Drill Speed Augment II
+ActuallyAdditions:itemDrillUpgradeSpeedIII, Drill Speed Augment III
+ActuallyAdditions:itemDrillUpgradeSilkTouch, Drill Silk Touch Augment
+ActuallyAdditions:itemDrillUpgradeFortune, Drill Fortune Augment I
+ActuallyAdditions:itemDrillUpgradeFortuneII, Drill Fortune Augment II (Gives Fortune III!)
+ActuallyAdditions:itemDrillUpgradeThreeByThree, Drill Mining Augment I
+ActuallyAdditions:itemDrillUpgradeFiveByFive, Drill Mining Augment II
+ActuallyAdditions:itemDrillUpgradeBlockPlacing, Drill Block Placing Augment
+ActuallyAdditions:itemBucketOil, Oil Bucket
+ActuallyAdditions:itemBucketCanolaOil, Canola Oil Bucket
+ActuallyAdditions:itemFertilizer, Fertilizer
+ActuallyAdditions:itemCoffee, Cup with Coffee
+ActuallyAdditions:itemPhantomConnector, Phantom Connector
+ActuallyAdditions:itemResonantRice, Resonant Rice
+ActuallyAdditions:itemFood:0, Cheese
+ActuallyAdditions:itemFood:1, Pumpkin Stew
+ActuallyAdditions:itemFood:2, Carrot Juice
+ActuallyAdditions:itemFood:3, Fish 'N' Chips
+ActuallyAdditions:itemFood:4, French Fries
+ActuallyAdditions:itemFood:5, French Fry
+ActuallyAdditions:itemFood:6, Spaghetti
+ActuallyAdditions:itemFood:7, Noodle
+ActuallyAdditions:itemFood:8, Chocolate Cake
+ActuallyAdditions:itemFood:9, Chocolate
+ActuallyAdditions:itemFood:10, Toast
+ActuallyAdditions:itemFood:11, Submarine Sandwich
+ActuallyAdditions:itemFood:12, Big Cookie
+ActuallyAdditions:itemFood:13, Hamburger
+ActuallyAdditions:itemFood:14, Pizza
+ActuallyAdditions:itemFood:15, Baguette
+ActuallyAdditions:itemFood:16, Rice
+ActuallyAdditions:itemFood:17, Rice Bread
+ActuallyAdditions:itemFood:18, Doughnut
+ActuallyAdditions:itemFood:19, Toast o' Chocolate
+ActuallyAdditions:itemFood:20, Bacon
+ActuallyAdditions:itemJam:0, CuBaRa-Jam
+ActuallyAdditions:itemJam:1, GraKiBa-Jam
+ActuallyAdditions:itemJam:2, PlApLe-Jam
+ActuallyAdditions:itemJam:3, ChApCi-Jam
+ActuallyAdditions:itemJam:4, HoMeKi-Jam
+ActuallyAdditions:itemJam:5, PiCo-Jam
+ActuallyAdditions:itemJam:6, HoMeCo-Jam
+ActuallyAdditions:itemKnife, Knife
+ActuallyAdditions:itemCrafterOnAStick, Crafting Table On A Stick
+ActuallyAdditions:itemDust:0, Crushed Iron
+ActuallyAdditions:itemDust:1, Crushed Gold
+ActuallyAdditions:itemDust:2, Crushed Diamond
+ActuallyAdditions:itemDust:3, Crushed Emerald
+ActuallyAdditions:itemDust:4, Crushed Lapis
+ActuallyAdditions:itemDust:5, Crushed Quartz
+ActuallyAdditions:itemDust:6, Crushed Coal
+ActuallyAdditions:itemDust:7, Crushed Black Quartz
+ActuallyAdditions:itemSolidifiedExperience, Solidified Experience
+ActuallyAdditions:itemLeafBlower, Leaf Blower
+ActuallyAdditions:itemLeafBlowerAdvanced, Advanced Leaf Blower
+ActuallyAdditions:itemPotionRing:0, Ring of Speed
+ActuallyAdditions:itemPotionRing:1, Ring of Haste
+ActuallyAdditions:itemPotionRing:2, Ring of Strength
+ActuallyAdditions:itemPotionRing:3, Ring of Jump Boost
+ActuallyAdditions:itemPotionRing:4, Ring of Regeneration
+ActuallyAdditions:itemPotionRing:5, Ring of Resistance
+ActuallyAdditions:itemPotionRing:6, Ring of Fire Resistance
+ActuallyAdditions:itemPotionRing:7, Ring of Water Breathing
+ActuallyAdditions:itemPotionRing:8, Ring of Invisibility
+ActuallyAdditions:itemPotionRing:9, Ring of Night Vision
+ActuallyAdditions:itemPotionRingAdvanced:0, Advanced Ring of Speed
+ActuallyAdditions:itemPotionRingAdvanced:1, Advanced Ring of Haste
+ActuallyAdditions:itemPotionRingAdvanced:2, Advanced Ring of Strength
+ActuallyAdditions:itemPotionRingAdvanced:3, Advanced Ring of Jump Boost
+ActuallyAdditions:itemPotionRingAdvanced:4, Advanced Ring of Regeneration
+ActuallyAdditions:itemPotionRingAdvanced:5, Advanced Ring of Resistance
+ActuallyAdditions:itemPotionRingAdvanced:6, Advanced Ring of Fire Resistance
+ActuallyAdditions:itemPotionRingAdvanced:7, Advanced Ring of Water Breathing
+ActuallyAdditions:itemPotionRingAdvanced:8, Advanced Ring of Invisibility
+ActuallyAdditions:itemPotionRingAdvanced:9, Advanced Ring of Night Vision
+ActuallyAdditions:itemHairyBall, Ball of Fur
+ActuallyAdditions:itemCoffeeBeans, Coffee Beans
+ActuallyAdditions:itemRiceSeed, Rice Seeds
+ActuallyAdditions:itemCanolaSeed, Canola Seeds
+ActuallyAdditions:itemFlaxSeed, Flax Seeds
+ActuallyAdditions:itemCoffeeSeed, Coffee Seeds
+ActuallyAdditions:itemPickaxeEmerald, Emerald Pickaxe
+ActuallyAdditions:itemAxeEmerald, Emerald Axe
+ActuallyAdditions:itemShovelEmerald, Emerald Shovel
+ActuallyAdditions:itemSwordEmerald, Emerald Sword
+ActuallyAdditions:itemHoeEmerald, Emerald Hoe
+ActuallyAdditions:itemPickaxeObsidian, Obsidian Pickaxe
+ActuallyAdditions:itemAxeObsidian, Obsidian Axe
+ActuallyAdditions:itemShovelObsidian, Obsidian Shovel
+ActuallyAdditions:itemSwordObsidian, Obsidian Sword
+ActuallyAdditions:itemHoeObsidian, Obsidian Hoe
+ActuallyAdditions:itemPickaxeQuartz, Black Quartz Pickaxe
+ActuallyAdditions:itemAxeQuartz, Black Quartz Axe
+ActuallyAdditions:itemShovelQuartz, Black Quartz Shovel
+ActuallyAdditions:itemSwordQuartz, Black Quartz Sword
+ActuallyAdditions:itemHoeQuartz, Black Quartz Hoe
+ActuallyAdditions:woodenPaxel, Wooden AIOT
+ActuallyAdditions:stonePaxel, Stone AIOT
+ActuallyAdditions:ironPaxel, Iron AIOT
+ActuallyAdditions:goldPaxel, Golden AIOT
+ActuallyAdditions:diamondPaxel, Diamond AIOT
+ActuallyAdditions:emeraldPaxel, Emerald AIOT
+ActuallyAdditions:obsidianPaxel, Obsidian AIOT
+ActuallyAdditions:quartzPaxel, Black Quartz AIOT
+ActuallyAdditions:itemPickaxeCrystalRed, Restonia Crystal Pickaxe
+ActuallyAdditions:itemAxeCrystalRed, Restonia Crystal Axe
+ActuallyAdditions:itemShovelCrystalRed, Restonia Crystal Shovel
+ActuallyAdditions:itemSwordCrystalRed, Restonia Crystal Sword
+ActuallyAdditions:itemHoeCrystalRed, Restonia Crystal Hoe
+ActuallyAdditions:itemHelmCrystalRed, Restonia Crystal Helmet
+ActuallyAdditions:itemChestCrystalRed, Restonia Crystal Chestplate
+ActuallyAdditions:itemPantsCrystalRed, Restonia Crystal Pants
+ActuallyAdditions:itemBootsCrystalRed, Restonia Crystal Boots
+ActuallyAdditions:itemPaxelCrystalRed, Restonia Crystal AIOT
+ActuallyAdditions:itemPickaxeCrystalBlue, Palis Crystal Pickaxe
+ActuallyAdditions:itemAxeCrystalBlue, Palis Crystal Axe
+ActuallyAdditions:itemShovelCrystalBlue, Palis Crystal Shovel
+ActuallyAdditions:itemSwordCrystalBlue, Palis Crystal Sword
+ActuallyAdditions:itemHoeCrystalBlue, Palis Crystal Hoe
+ActuallyAdditions:itemHelmCrystalBlue, Palis Crystal Helmet
+ActuallyAdditions:itemChestCrystalBlue, Palis Crystal Chestplate
+ActuallyAdditions:itemPantsCrystalBlue, Palis Crystal Pants
+ActuallyAdditions:itemBootsCrystalBlue, Palis Crystal Boots
+ActuallyAdditions:itemPaxelCrystalBlue, Palis Crystal AIOT
+ActuallyAdditions:itemPickaxeCrystalLightBlue, Diamatine Crystal Pickaxe
+ActuallyAdditions:itemAxeCrystalLightBlue, Diamatine Crystal Axe
+ActuallyAdditions:itemShovelCrystalLightBlue, Diamatine Crystal Shovel
+ActuallyAdditions:itemSwordCrystalLightBlue, Diamatine Crystal Sword
+ActuallyAdditions:itemHoeCrystalLightBlue, Diamatine Crystal Hoe
+ActuallyAdditions:itemHelmCrystalLightBlue, Diamatine Crystal Helmet
+ActuallyAdditions:itemChestCrystalLightBlue, Diamatine Crystal Chestplate
+ActuallyAdditions:itemPantsCrystalLightBlue, Diamatine Crystal Pants
+ActuallyAdditions:itemBootsCrystalLightBlue, Diamatine Crystal Boots
+ActuallyAdditions:itemPaxelCrystalLightBlue, Diamatine Crystal AIOT
+ActuallyAdditions:itemPickaxeCrystalBlack, Void Crystal Pickaxe
+ActuallyAdditions:itemAxeCrystalBlack, Void Crystal Axe
+ActuallyAdditions:itemShovelCrystalBlack, Void Crystal Shovel
+ActuallyAdditions:itemSwordCrystalBlack, Void Crystal Sword
+ActuallyAdditions:itemHoeCrystalBlack, Void Crystal Hoe
+ActuallyAdditions:itemHelmCrystalBlack, Void Crystal Helmet
+ActuallyAdditions:itemChestCrystalBlack, Void Crystal Chestplate
+ActuallyAdditions:itemPantsCrystalBlack, Void Crystal Pants
+ActuallyAdditions:itemBootsCrystalBlack, Void Crystal Boots
+ActuallyAdditions:itemPaxelCrystalBlack, Void Crystal AIOT
+ActuallyAdditions:itemPickaxeCrystalGreen, Emeradic Crystal Pickaxe
+ActuallyAdditions:itemAxeCrystalGreen, Emeradic Crystal Axe
+ActuallyAdditions:itemShovelCrystalGreen, Emeradic Crystal Shovel
+ActuallyAdditions:itemSwordCrystalGreen, Emeradic Crystal Sword
+ActuallyAdditions:itemHoeCrystalGreen, Emeradic Crystal Hoe
+ActuallyAdditions:itemHelmCrystalGreen, Emeradic Crystal Helmet
+ActuallyAdditions:itemChestCrystalGreen, Emeradic Crystal Chest
+ActuallyAdditions:itemPantsCrystalGreen, Emeradic Crystal Pants
+ActuallyAdditions:itemBootsCrystalGreen, Emeradic Crystal Boots
+ActuallyAdditions:itemPaxelCrystalGreen, Emeradic Crystal AIOT
+ActuallyAdditions:itemPickaxeCrystalWhite, Enori Crystal Pickaxe
+ActuallyAdditions:itemAxeCrystalWhite, Enori Crystal Axe
+ActuallyAdditions:itemShovelCrystalWhite, Enori Crystal Shovel
+ActuallyAdditions:itemSwordCrystalWhite, Enori Crystal Sword
+ActuallyAdditions:itemHoeCrystalWhite, Enori Crystal Hoe
+ActuallyAdditions:itemHelmCrystalWhite, Enori Crystal Helmet
+ActuallyAdditions:itemChestCrystalWhite, Enori Crystal Chest
+ActuallyAdditions:itemPantsCrystalWhite, Enori Crystal Pants
+ActuallyAdditions:itemBootsCrystalWhite, Enori Crystal Boots
+ActuallyAdditions:itemPaxelCrystalWhite, Enori Crystal AIOT
 appliedenergistics2:item.ToolCertusQuartzAxe, Certus Quartz Axe
 appliedenergistics2:item.ToolCertusQuartzHoe, Certus Quartz Hoe
 appliedenergistics2:item.ToolCertusQuartzSpade, Certus Quartz Shovel
@@ -5761,12 +6207,64 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Acacia Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hay Bale
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Packed Ice
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Restonia Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palis Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Diamatine Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Void Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Emeradic Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Enori Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethetic Green Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethetic Quartz
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Blue Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gray Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Gray Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Lamp
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Blue Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gray Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Gray Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Lamp (On)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lamp Controller
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar of Black Quartz
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Block of Black Quartz
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Black Quartz
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Quartz Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Wood Casing
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Enderpearl
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Casing
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Casing
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Casing
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sky Stone
@@ -6106,7 +6604,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Portuguese Pavement S
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Portuguese Pavement Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Portuguese Pavement Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Portuguese Pavement Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Twilight Oak Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Canopy Tree Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood
@@ -7867,6 +8364,12 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.rivalrebels.blocks.67
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.rivalrebels.blocks.68.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.rivalrebels.blocks.69.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.rivalrebels.blocks.73.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Oak Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Spruce Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Birch Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jungle Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Acacia Trim
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Radar Screen
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Control Panel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ore Cluster (Iron)
@@ -9051,17 +9554,6 @@ Botania:gaiaHead, item.gaiaHead.name
 Botania:sextant, item.sextant.name
 Botania:speedUpBelt, item.speedUpBelt.name
 Botania:baubleBox, item.baubleBox.name
-BuildCraft|Core:wrenchItem, Wrench
-BuildCraft|Core:mapLocation, Map Location
-BuildCraft|Core:list:0, List
-BuildCraft|Core:list:1, List
-BuildCraft|Core:debugger, Debugger
-BuildCraft|Core:woodenGearItem, Wood Gear
-BuildCraft|Core:stoneGearItem, Stone Gear
-BuildCraft|Core:ironGearItem, Iron Gear
-BuildCraft|Core:goldGearItem, Gold Gear
-BuildCraft|Core:diamondGearItem, Diamond Gear
-BuildCraft|Core:paintbrush, Paintbrush
 BuildCraft|Builders:templateItem, Template
 BuildCraft|Builders:blueprintItem, Blueprint
 BuildCraft|Robotics:robot, Robot
@@ -9077,8 +9569,6 @@ BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
 BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
 BuildCraft|Silicon:package, Package
 BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
-BuildCraft|Energy:bucketOil, Oil Bucket
-BuildCraft|Energy:bucketFuel, Fuel Bucket
 BuildCraft|Transport:pipeWaterproof, Pipe Sealant
 BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Wooden Transport Pipe
 BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Emerald Transport Pipe
@@ -13098,6 +13588,43 @@ IC2:itemSteamTurbineBlade, ic2.itemSteamTurbineBlade.name
 IC2:itemIronBlockCuttingBlade, ic2.itemIronBlockCuttingBlade.name
 IC2:itemAdvIronBlockCuttingBlade, ic2.itemAdvIronBlockCuttingBlade.name
 IC2:itemDiamondBlockCuttingBlade, ic2.itemDiamondBlockCuttingBlade.name
+ironbackpacks:basicBackpack, Basic Backpack
+ironbackpacks:ironBackpack, Iron Backpack
+ironbackpacks:goldBackpack, Gold Backpack
+ironbackpacks:diamondBackpack, Diamond Backpack
+ironbackpacks:buttonUpgrade, Button Upgrade
+ironbackpacks:nestingUpgrade, Nesting Upgrade
+ironbackpacks:damageBarUpgrade, Damage Bar Upgrade
+ironbackpacks:filterBasicUpgrade, Basic Filter Upgrade
+ironbackpacks:hopperUpgrade, Restocking Upgrade
+ironbackpacks:condenserUpgrade, Crafting Upgrade
+ironbackpacks:condenserSmallUpgrade, Small Crafting Upgrade
+ironbackpacks:condenserTinyUpgrade, Tiny Crafting Upgrade
+ironbackpacks:keepOnDeathUpgrade, Eternity Upgrade
+ironbackpacks:filterModSpecificUpgrade, Mod Specific Filter Upgrade
+ironbackpacks:additionalUpgradeSlotsUpgrade, Additional Upgrade Points Upgrade
+ironbackpacks:filterFuzzyUpgrade, Fuzzy Filter Upgrade
+ironbackpacks:filterOreDictUpgrade, Ore Dictionary Filter Upgrade
+ironbackpacks:quickDepositUpgrade, Quick Deposit Upgrade
+ironbackpacks:quickDepositPreciseUpgrade, Precise Quick Deposit Upgrade
+ironbackpacks:filterAdvancedUpgrade, Advanced Filter Upgrade
+ironbackpacks:nestingAdvancedUpgrade, Advanced Nesting Upgrade
+ironbackpacks:depthUpgrade, Depth Upgrade
+ironbackpacks:filterMiningUpgrade, Mining Filter Upgrade
+ironbackpacks:filterVoidUpgrade, Void Filter Upgrade
+ironbackpacks:nest, Nest
+ironbackpacks:upgradeCore, Upgrade Core
+ironbackpacks:jeweledFeather, Golden Feather
+ironbackpacks:treatedLeather, Treated Leather
+IronChest:ironGoldUpgrade, Iron to Gold Chest Upgrade
+IronChest:goldDiamondUpgrade, Gold to Diamond Chest Upgrade
+IronChest:copperSilverUpgrade, Copper to Silver Chest Upgrade
+IronChest:silverGoldUpgrade, Silver to Gold Chest Upgrade
+IronChest:copperIronUpgrade, Copper to Iron Chest Upgrade
+IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
+IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
+IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
+IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
 mcheli:rangefinder, Laser Rangefinder
 mcheli:wrench, Wrench
 mcheli:fuel, Fuel
@@ -13402,6 +13929,11 @@ MutantCreatures:item.skeleArmorHead, Mutant Skeleton Helmet
 MutantCreatures:item.skeleArmorChest, Mutant Skeleton Chestplate
 MutantCreatures:item.skeleArmorLegs, Mutant Skeleton Leggings
 MutantCreatures:item.skeleArmorBoots, Mutant Skeleton Boots
+ae2wct:infinityBoosterCard, Infinity Booster Card
+ae2wct:infinityBoosterIcon, item.null.name
+ae2wct:wirelessCraftingTerminal, Wireless Crafting Terminal
+ae2wct:magnetCard, Magnet Card
+ae2wct:boosterBG, item.boosterBG.name
 OpenBlocks:hangglider, Hang Glider
 OpenBlocks:generic:0, Glider Wing
 OpenBlocks:generic:1, Beam
@@ -14099,6 +14631,25 @@ rivalrebels:rivalrebelsarmor36, item.rivalrebelsarmor36.name
 rivalrebels:rivalrebelsarmor37, item.rivalrebelsarmor37.name
 rivalrebels:rivalrebelsarmor38, item.rivalrebelsarmor38.name
 rivalrebels:rivalrebelsarmor39, item.rivalrebelsarmor39.name
+StorageDrawers:upgradeTemplate, Upgrade Template
+StorageDrawers:upgrade:2, Storage Upgrade (II)
+StorageDrawers:upgrade:3, Storage Upgrade (III)
+StorageDrawers:upgrade:4, Storage Upgrade (IV)
+StorageDrawers:upgrade:5, Storage Upgrade (V)
+StorageDrawers:upgrade:6, Storage Upgrade (VI)
+StorageDrawers:upgradeStatus:1, Status Upgrade (I)
+StorageDrawers:upgradeStatus:2, Status Upgrade (II)
+StorageDrawers:upgradeVoid, Void Upgrade
+StorageDrawers:upgradeCreative:0, Creative Storage Upgrade
+StorageDrawers:upgradeCreative:1, Creative Vending Upgrade
+StorageDrawers:upgradeRedstone:0, Redstone Upgrade
+StorageDrawers:upgradeRedstone:1, Redstone Max Upgrade
+StorageDrawers:upgradeRedstone:2, Redstone Min Upgrade
+StorageDrawers:upgradeLock, Drawer Key
+StorageDrawers:shroudKey, Concealment Key
+StorageDrawers:personalKey:0, Personal Key
+StorageDrawers:personalKey:1, Personal Key (CoFH)
+StorageDrawers:tape, Packing Tape
 Techguns:TechgunsAmmo:0, Stone Bullet
 Techguns:TechgunsAmmo:1, 9mm Bullets
 Techguns:TechgunsAmmo:2, 9mm Pistol Magazine
@@ -14604,10 +15155,9 @@ ThermalDynamics:cover:0, Acacia Wood Cover
 ThermalDynamics:cover:0, Dark Oak Wood Cover
 ThermalDynamics:cover:0, Acacia Wood Stairs Cover
 ThermalDynamics:cover:0, Dark Oak Wood Stairs Cover
-ThermalDynamics:cover:0, Certus Quartz Ore Cover
-ThermalDynamics:cover:0, Charged Certus Quartz Ore Cover
-ThermalDynamics:cover:0, Certus Quartz Block Cover
-ThermalDynamics:cover:0, Certus Quartz Pillar Cover
+ThermalDynamics:cover:0, Water Spring Cover
+ThermalDynamics:cover:0, Oil Spring Cover
+ThermalDynamics:cover:0, tile.buildToolBlock.name Cover
 ThermalDynamics:cover:0, Hay Bale Cover
 ThermalDynamics:cover:0, Carpet Cover
 ThermalDynamics:cover:0, Orange Carpet Cover
@@ -14634,6 +15184,90 @@ ThermalDynamics:cover:0, Double Tallgrass Cover
 ThermalDynamics:cover:0, Large Fern Cover
 ThermalDynamics:cover:0, Rose Bush Cover
 ThermalDynamics:cover:0, Peony Cover
+ThermalDynamics:cover:0, Oil Cover
+ThermalDynamics:cover:0, Fuel Cover
+ThermalDynamics:cover:0, tile.blockRedPlasma.name Cover
+ThermalDynamics:cover:0, Restonia Crystal Block Cover
+ThermalDynamics:cover:0, Palis Crystal Block Cover
+ThermalDynamics:cover:0, Diamatine Crystal Block Cover
+ThermalDynamics:cover:0, Void Crystal Block Cover
+ThermalDynamics:cover:0, Emeradic Crystal Block Cover
+ThermalDynamics:cover:0, Enori Crystal Block Cover
+ThermalDynamics:cover:0, Black Lotus Cover
+ThermalDynamics:cover:0, Ethetic Green Block Cover
+ThermalDynamics:cover:0, Ethetic Quartz Cover
+ThermalDynamics:cover:0, Ethetic Green Stairs Cover
+ThermalDynamics:cover:0, Ethetic Quartz Stairs Cover
+ThermalDynamics:cover:0, Ethetic Green Slab Cover
+ThermalDynamics:cover:0, Ethetic Quartz Slab Cover
+ThermalDynamics:cover:0, Ethetic Green Wall Cover
+ThermalDynamics:cover:0, Ethetic Quartz Wall Cover
+ThermalDynamics:cover:0, White Lamp Cover
+ThermalDynamics:cover:0, Orange Lamp Cover
+ThermalDynamics:cover:0, Magenta Lamp Cover
+ThermalDynamics:cover:0, Light Blue Lamp Cover
+ThermalDynamics:cover:0, Yellow Lamp Cover
+ThermalDynamics:cover:0, Lime Lamp Cover
+ThermalDynamics:cover:0, Pink Lamp Cover
+ThermalDynamics:cover:0, Gray Lamp Cover
+ThermalDynamics:cover:0, Light Gray Lamp Cover
+ThermalDynamics:cover:0, Cyan Lamp Cover
+ThermalDynamics:cover:0, Purple Lamp Cover
+ThermalDynamics:cover:0, Blue Lamp Cover
+ThermalDynamics:cover:0, Brown Lamp Cover
+ThermalDynamics:cover:0, Green Lamp Cover
+ThermalDynamics:cover:0, Red Lamp Cover
+ThermalDynamics:cover:0, Black Lamp Cover
+ThermalDynamics:cover:0, White Lamp (On) Cover
+ThermalDynamics:cover:0, Orange Lamp (On) Cover
+ThermalDynamics:cover:0, Magenta Lamp (On) Cover
+ThermalDynamics:cover:0, Light Blue Lamp (On) Cover
+ThermalDynamics:cover:0, Yellow Lamp (On) Cover
+ThermalDynamics:cover:0, Lime Lamp (On) Cover
+ThermalDynamics:cover:0, Pink Lamp (On) Cover
+ThermalDynamics:cover:0, Gray Lamp (On) Cover
+ThermalDynamics:cover:0, Light Gray Lamp (On) Cover
+ThermalDynamics:cover:0, Cyan Lamp (On) Cover
+ThermalDynamics:cover:0, Purple Lamp (On) Cover
+ThermalDynamics:cover:0, Blue Lamp (On) Cover
+ThermalDynamics:cover:0, Brown Lamp (On) Cover
+ThermalDynamics:cover:0, Green Lamp (On) Cover
+ThermalDynamics:cover:0, Red Lamp (On) Cover
+ThermalDynamics:cover:0, Black Lamp (On) Cover
+ThermalDynamics:cover:0, Lamp Controller Cover
+ThermalDynamics:cover:0, Treasure Chest Cover
+ThermalDynamics:cover:0, Rice Plant Cover
+ThermalDynamics:cover:0, Canola Plant Cover
+ThermalDynamics:cover:0, Flax Plant Cover
+ThermalDynamics:cover:0, Coffee Plant Cover
+ThermalDynamics:cover:0, Pillar of Black Quartz Cover
+ThermalDynamics:cover:0, Chiseled Block of Black Quartz Cover
+ThermalDynamics:cover:0, Block of Black Quartz Cover
+ThermalDynamics:cover:0, Black Quartz Ore Cover
+ThermalDynamics:cover:0, Wood Casing Cover
+ThermalDynamics:cover:0, Block of Charcoal Cover
+ThermalDynamics:cover:0, Block of Enderpearl Cover
+ThermalDynamics:cover:0, Casing Cover
+ThermalDynamics:cover:0, Ender Casing Cover
+ThermalDynamics:cover:0, Iron Casing Cover
+ThermalDynamics:cover:0, Wild Canola Cover
+ThermalDynamics:cover:0, Wild Flax Cover
+ThermalDynamics:cover:0, Wild Rice Cover
+ThermalDynamics:cover:0, Wild Coffee Cover
+ThermalDynamics:cover:0, Black Quartz Wall Cover
+ThermalDynamics:cover:0, Chiseled Black Quartz Wall Cover
+ThermalDynamics:cover:0, Black Quartz Pillar Wall Cover
+ThermalDynamics:cover:0, Black Quartz Stairs Cover
+ThermalDynamics:cover:0, Chiseled Black Quartz Stairs Cover
+ThermalDynamics:cover:0, Black Quartz Pillar Stairs Cover
+ThermalDynamics:cover:0, Black Quartz Slab Cover
+ThermalDynamics:cover:0, Chiseled Black Quartz Slab Cover
+ThermalDynamics:cover:0, Black Quartz Pillar Slab Cover
+ThermalDynamics:cover:0, Canola Oil Cover
+ThermalDynamics:cover:0, Certus Quartz Ore Cover
+ThermalDynamics:cover:0, Charged Certus Quartz Ore Cover
+ThermalDynamics:cover:0, Certus Quartz Block Cover
+ThermalDynamics:cover:0, Certus Quartz Pillar Cover
 ThermalDynamics:cover:0, Chiseled Certus Quartz Block Cover
 ThermalDynamics:cover:0, Quartz Glass Cover
 ThermalDynamics:cover:0, Vibrant Quartz Glass Cover
@@ -15505,13 +16139,7 @@ ThermalDynamics:cover:0, Yellow Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Yellow Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Green Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Green Portuguese Pavement Slab Cover
-ThermalDynamics:cover:0, Water Spring Cover
-ThermalDynamics:cover:0, Oil Spring Cover
-ThermalDynamics:cover:0, tile.buildToolBlock.name Cover
 ThermalDynamics:cover:0, Frame Cover
-ThermalDynamics:cover:0, Oil Cover
-ThermalDynamics:cover:0, Fuel Cover
-ThermalDynamics:cover:0, tile.blockRedPlasma.name Cover
 ThermalDynamics:cover:0, Mining Pipe Cover
 ThermalDynamics:cover:0, Twilight Oak Wood Cover
 ThermalDynamics:cover:0, Canopy Tree Wood Cover
@@ -18316,6 +18944,12 @@ ThermalDynamics:cover:0, tile.rivalrebels.blocks.68.name Cover
 ThermalDynamics:cover:0, tile.rivalrebels.blocks.69.name Cover
 ThermalDynamics:cover:0, tile.rivalrebels.blocks.70.name Cover
 ThermalDynamics:cover:0, tile.rivalrebels.blocks.73.name Cover
+ThermalDynamics:cover:0, Oak Trim Cover
+ThermalDynamics:cover:0, Spruce Trim Cover
+ThermalDynamics:cover:0, Birch Trim Cover
+ThermalDynamics:cover:0, Jungle Trim Cover
+ThermalDynamics:cover:0, Acacia Trim Cover
+ThermalDynamics:cover:0, Dark Oak Trim Cover
 ThermalDynamics:cover:0, Camo Net (Woodland) Cover
 ThermalDynamics:cover:0, Camo Net (Snow) Cover
 ThermalDynamics:cover:0, Camo Net (Desert) Cover
