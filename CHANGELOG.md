@@ -8,19 +8,27 @@ Total Mods: TODO
 **Changes**
 
 - Fix recipe conflict of Pliers
+- Add 4 different recipes
 
 **Added mods**
 - Apple Core
 - Crafting Tweaks
 - Inventory Tweaks
 - Actually Additions
+- AE2 Stuff
+- Avaritia
+- BdLib
+- Computer Craft
 - Cooking for Blockheads
 - Craft Tweaker
 - Iron Chest
 - Iron Backpacks
+- McJtyLib
 - P455w0rdslib
+- Rftools
 - Storage Drawers
 - Wireless Crafting Terminal
+- Zoom
 
 **Changed Mod**
 - Rivalrebels-yo

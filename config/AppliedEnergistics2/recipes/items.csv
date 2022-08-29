@@ -786,274 +786,10 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
-BiomesOPlenty:mud:0, Mud
-BiomesOPlenty:mud:1, Quicksand
-BiomesOPlenty:driedDirt, Dried Dirt
-BiomesOPlenty:rocks:0, Limestone
-BiomesOPlenty:rocks:1, Polished Limestone
-BiomesOPlenty:rocks:2, Siltstone
-BiomesOPlenty:rocks:3, Polished Siltstone
-BiomesOPlenty:rocks:4, Shale
-BiomesOPlenty:rocks:5, Polished Shale
-BiomesOPlenty:ash, Ash Block
-BiomesOPlenty:flesh, Flesh
-BiomesOPlenty:plants:0, Dead Grass
-BiomesOPlenty:plants:1, Desert Grass
-BiomesOPlenty:plants:2, Desert Sprouts
-BiomesOPlenty:plants:3, Dune Grass
-BiomesOPlenty:plants:4, Spectral Fern
-BiomesOPlenty:plants:5, Thorns
-BiomesOPlenty:plants:6, Wild Rice
-BiomesOPlenty:plants:7, Cattail
-BiomesOPlenty:plants:8, River Cane
-BiomesOPlenty:plants:12, Tiny Cactus
-BiomesOPlenty:plants:13, Wither Wart
-BiomesOPlenty:plants:14, Reed
-BiomesOPlenty:plants:15, Root
-BiomesOPlenty:flowers:0, Clover
-BiomesOPlenty:flowers:1, Swampflower
-BiomesOPlenty:flowers:2, Deathbloom
-BiomesOPlenty:flowers:3, Glowflower
-BiomesOPlenty:flowers:4, Blue Hydrangea
-BiomesOPlenty:flowers:5, Orange Cosmos
-BiomesOPlenty:flowers:6, Pink Daffodil
-BiomesOPlenty:flowers:7, Wildflower
-BiomesOPlenty:flowers:8, Violet
-BiomesOPlenty:flowers:9, White Anemone
-BiomesOPlenty:flowers:10, Waterlily
-BiomesOPlenty:flowers:11, Enderlotus
-BiomesOPlenty:flowers:12, Bromeliad
-BiomesOPlenty:flowers:13, Eyebulb
-BiomesOPlenty:flowers:15, Dandelion Puff
-BiomesOPlenty:flowers2:0, Pink Hibiscus
-BiomesOPlenty:flowers2:1, Lily of the Valley
-BiomesOPlenty:flowers2:2, Burning Blossom
-BiomesOPlenty:flowers2:3, Lavender
-BiomesOPlenty:flowers2:4, Goldenrod
-BiomesOPlenty:flowers2:5, Bluebells
-BiomesOPlenty:flowers2:6, Miner's Delight
-BiomesOPlenty:flowers2:7, Icy Iris
-BiomesOPlenty:flowers2:8, Rose
-BiomesOPlenty:stoneFormations:0, Stalagmite
-BiomesOPlenty:stoneFormations:1, Stalactite
-BiomesOPlenty:mushrooms:0, Toadstool
-BiomesOPlenty:mushrooms:1, Portobello
-BiomesOPlenty:mushrooms:2, Blue Milk Cap
-BiomesOPlenty:mushrooms:3, Glowshroom
-BiomesOPlenty:mushrooms:4, Flat Mushroom
-BiomesOPlenty:mushrooms:5, Shadow Shroom
-BiomesOPlenty:willow, Willow
-BiomesOPlenty:ivy, Ivy
-BiomesOPlenty:treeMoss, Tree Moss
-BiomesOPlenty:flowerVine, Flowering Vines
-BiomesOPlenty:wisteria, Wisteria
-BiomesOPlenty:lilyBop:0, Medium Lily Pad
-BiomesOPlenty:lilyBop:1, Small Lily Pad
-BiomesOPlenty:lilyBop:2, Tiny Lily Pad
-BiomesOPlenty:foliage:0, Duckweed
-BiomesOPlenty:foliage:1, Short Grass
-BiomesOPlenty:foliage:2, Medium Grass
-BiomesOPlenty:foliage:3, Flax
-BiomesOPlenty:foliage:4, Bush
-BiomesOPlenty:foliage:5, Sprout
-BiomesOPlenty:foliage:7, Poison Ivy
-BiomesOPlenty:foliage:8, Berry Bush
-BiomesOPlenty:foliage:9, Shrub
-BiomesOPlenty:foliage:10, Wheat Grass
-BiomesOPlenty:foliage:11, Damp Grass
-BiomesOPlenty:foliage:12, Koru
-BiomesOPlenty:foliage:13, Clover Patch
-BiomesOPlenty:foliage:14, Leaf Pile
-BiomesOPlenty:foliage:15, Dead Leaf Pile
-BiomesOPlenty:turnip, Turnip
-BiomesOPlenty:coral1:11, Kelp
-BiomesOPlenty:coral1:12, Pink Coral
-BiomesOPlenty:coral1:13, Orange Coral
-BiomesOPlenty:coral1:14, Blue Coral
-BiomesOPlenty:coral1:15, Glowing Coral
-BiomesOPlenty:coral2:8, Algae
-BiomesOPlenty:ashStone, Ash Stone
-BiomesOPlenty:hardIce, Hardened Ice
-BiomesOPlenty:appleLeaves:0, Apple Leaves
-BiomesOPlenty:persimmonLeaves:0, Persimmon Leaves
-BiomesOPlenty:moss, Moss
-BiomesOPlenty:bamboo, Bamboo
-BiomesOPlenty:mudBricks, Mud Bricks
-BiomesOPlenty:originGrass, Origin Grass Block
-BiomesOPlenty:longGrass, Long Grass Block
-BiomesOPlenty:overgrownNetherrack, Overgrown Netherrack
-BiomesOPlenty:bopGrass:0, Spectral Moss
-BiomesOPlenty:bopGrass:1, Smoldering Grass Block
-BiomesOPlenty:newBopGrass:0, Loamy Grass Block
-BiomesOPlenty:newBopGrass:1, Sandy Grass Block
-BiomesOPlenty:newBopGrass:2, Silty Grass Block
-BiomesOPlenty:newBopDirt:0, Loamy Dirt
-BiomesOPlenty:newBopDirt:1, Coarse Loamy Dirt
-BiomesOPlenty:newBopDirt:2, Sandy Dirt
-BiomesOPlenty:newBopDirt:3, Coarse Sandy Dirt
-BiomesOPlenty:newBopDirt:4, Silty Dirt
-BiomesOPlenty:newBopDirt:5, Coarse Silty Dirt
-BiomesOPlenty:newBopFarmland:0, Loamy Farmland
-BiomesOPlenty:newBopFarmland:1, Loamy Farmland
-BiomesOPlenty:newBopFarmland:2, Sandy Farmland
-BiomesOPlenty:newBopFarmland:3, Loamy Farmland
-BiomesOPlenty:newBopFarmland:4, Loamy Farmland
-BiomesOPlenty:newBopFarmland:5, Loamy Farmland
-BiomesOPlenty:logs1:0, Sacred Oak Wood
-BiomesOPlenty:logs1:1, Cherry Wood
-BiomesOPlenty:logs1:2, Dark Wood
-BiomesOPlenty:logs1:3, Fir Wood
-BiomesOPlenty:logs2:0, Ethereal Wood
-BiomesOPlenty:logs2:1, Magic Wood
-BiomesOPlenty:logs2:2, Mangrove Wood
-BiomesOPlenty:logs2:3, Palm Wood
-BiomesOPlenty:logs3:0, Redwood Wood
-BiomesOPlenty:logs3:1, Willow Wood
-BiomesOPlenty:logs3:2, Dead Wood
-BiomesOPlenty:logs3:3, Giant Flower Stem
-BiomesOPlenty:logs4:0, Pine Wood
-BiomesOPlenty:logs4:1, Hellbark Wood
-BiomesOPlenty:logs4:2, Jacaranda Wood
-BiomesOPlenty:logs4:3, Mahogany Wood
-BiomesOPlenty:leaves1:0, Yellow Autumn Leaves
-BiomesOPlenty:leaves1:1, Bamboo Leaves
-BiomesOPlenty:leaves1:2, Magic Leaves
-BiomesOPlenty:leaves1:3, Dark Leaves
-BiomesOPlenty:leaves2:0, Dying Leaves
-BiomesOPlenty:leaves2:1, Fir Leaves
-BiomesOPlenty:leaves2:2, Ethereal Leaves
-BiomesOPlenty:leaves2:3, Orange Autumn Leaves
-BiomesOPlenty:leaves3:0, Origin Leaves
-BiomesOPlenty:leaves3:1, Pink Cherry Leaves
-BiomesOPlenty:leaves3:2, Maple Leaves
-BiomesOPlenty:leaves3:3, White Cherry Leaves
-BiomesOPlenty:leaves4:0, Hellbark Leaves
-BiomesOPlenty:leaves4:1, Jacaranda Leaves
-BiomesOPlenty:petals:0, Giant Red Flower
-BiomesOPlenty:petals:1, Giant Yellow Flower
-BiomesOPlenty:saplings:0, Apple Sapling
-BiomesOPlenty:saplings:1, Yellow Autumn Sapling
-BiomesOPlenty:saplings:2, Bamboo Sapling
-BiomesOPlenty:saplings:3, Magic Sapling
-BiomesOPlenty:saplings:4, Dark Sapling
-BiomesOPlenty:saplings:5, Dying Sapling
-BiomesOPlenty:saplings:6, Fir Sapling
-BiomesOPlenty:saplings:7, Ethereal Sapling
-BiomesOPlenty:saplings:8, Orange Autumn Sapling
-BiomesOPlenty:saplings:9, Origin Sapling
-BiomesOPlenty:saplings:10, Pink Cherry Sapling
-BiomesOPlenty:saplings:11, Maple Sapling
-BiomesOPlenty:saplings:12, White Cherry Sapling
-BiomesOPlenty:saplings:13, Hellbark Sapling
-BiomesOPlenty:saplings:14, Jacaranda Sapling
-BiomesOPlenty:saplings:15, Persimmon Sapling
-BiomesOPlenty:colorizedSaplings:0, Sacred Oak Sapling
-BiomesOPlenty:colorizedSaplings:1, Mangrove Sapling
-BiomesOPlenty:colorizedSaplings:2, Palm Sapling
-BiomesOPlenty:colorizedSaplings:3, Redwood Sapling
-BiomesOPlenty:colorizedSaplings:4, Willow Sapling
-BiomesOPlenty:colorizedSaplings:5, Pine Sapling
-BiomesOPlenty:colorizedSaplings:6, Mahogany Sapling
-BiomesOPlenty:colorizedSaplings:7, Flowering Oak Sapling
-BiomesOPlenty:hardSand, Hardened Sand
-BiomesOPlenty:hardDirt, Hardened Dirt
-BiomesOPlenty:biomeBlock, Biome Essence Ore
-BiomesOPlenty:crystal, Celestial Crystal
-BiomesOPlenty:gemOre:0, Ender Amethyst Ore
-BiomesOPlenty:gemOre:1, Block of Amethyst
-BiomesOPlenty:gemOre:2, Ruby Ore
-BiomesOPlenty:gemOre:3, Block of Ruby
-BiomesOPlenty:gemOre:4, Peridot Ore
-BiomesOPlenty:gemOre:5, Block of Peridot
-BiomesOPlenty:gemOre:6, Topaz Ore
-BiomesOPlenty:gemOre:7, Block of Topaz
-BiomesOPlenty:gemOre:8, Tanzanite Ore
-BiomesOPlenty:gemOre:9, Block of Tanzanite
-BiomesOPlenty:gemOre:10, Malachite Ore
-BiomesOPlenty:gemOre:11, Block of Malachite
-BiomesOPlenty:gemOre:12, Sapphire Ore
-BiomesOPlenty:gemOre:13, Block of Sapphire
-BiomesOPlenty:gemOre:14, Amber Ore
-BiomesOPlenty:gemOre:15, Block of Amber
-BiomesOPlenty:cragRock, Crag Rock
-BiomesOPlenty:hive:0, Honeycomb Block
-BiomesOPlenty:hive:1, Hive Block
-BiomesOPlenty:hive:2, Empty Honeycomb Block
-BiomesOPlenty:hive:3, Filled Honeycomb Block
-BiomesOPlenty:honeyBlock, Honey Block
-BiomesOPlenty:bones:0, Small Bone Segment
-BiomesOPlenty:bones:1, Medium Bone Segment
-BiomesOPlenty:bones:2, Large Bone Segment
-BiomesOPlenty:grave:0, Gravestone
-BiomesOPlenty:planks:0, Sacred Oak Wood Planks
-BiomesOPlenty:planks:1, Cherry Wood Planks
-BiomesOPlenty:planks:2, Dark Wood Planks
-BiomesOPlenty:planks:3, Fir Wood Planks
-BiomesOPlenty:planks:4, Ethereal Wood Planks
-BiomesOPlenty:planks:5, Magic Wood Planks
-BiomesOPlenty:planks:6, Mangrove Wood Planks
-BiomesOPlenty:planks:7, Palm Wood Planks
-BiomesOPlenty:planks:8, Redwood Wood Planks
-BiomesOPlenty:planks:9, Willow Wood Planks
-BiomesOPlenty:planks:10, Bamboo Thatching
-BiomesOPlenty:planks:11, Pine Wood Planks
-BiomesOPlenty:planks:12, Hellbark Wood Planks
-BiomesOPlenty:planks:13, Jacaranda Wood Planks
-BiomesOPlenty:planks:14, Mahogany Wood Planks
-BiomesOPlenty:woodenSingleSlab1:0, Sacred Oak Wood Slab
-BiomesOPlenty:woodenSingleSlab1:1, Cherry Wood Slab
-BiomesOPlenty:woodenSingleSlab1:2, Dark Wood Slab
-BiomesOPlenty:woodenSingleSlab1:3, Fir Wood Slab
-BiomesOPlenty:woodenSingleSlab1:4, Ethereal Wood Slab
-BiomesOPlenty:woodenSingleSlab1:5, Magic Wood Slab
-BiomesOPlenty:woodenSingleSlab1:6, Mangrove Wood Slab
-BiomesOPlenty:woodenSingleSlab1:7, Palm Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:0, Sacred Oak Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:1, Cherry Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:2, Dark Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:3, Fir Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:4, Ethereal Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:5, Magic Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:6, Mangrove Wood Slab
-BiomesOPlenty:woodenDoubleSlab1:7, Palm Wood Slab
-BiomesOPlenty:woodenSingleSlab2:0, Redwood Wood Slab
-BiomesOPlenty:woodenSingleSlab2:1, Willow Wood Slab
-BiomesOPlenty:woodenSingleSlab2:2, Pine Wood Slab
-BiomesOPlenty:woodenSingleSlab2:3, Hellbark Wood Slab
-BiomesOPlenty:woodenSingleSlab2:4, Jacaranda Wood Slab
-BiomesOPlenty:woodenDoubleSlab2:0, Redwood Wood Slab
-BiomesOPlenty:woodenDoubleSlab2:1, Willow Wood Slab
-BiomesOPlenty:woodenDoubleSlab2:2, Pine Wood Slab
-BiomesOPlenty:woodenDoubleSlab2:3, Hellbark Wood Slab
-BiomesOPlenty:woodenDoubleSlab2:4, Jacaranda Wood Slab
-BiomesOPlenty:stoneSingleSlab:0, Mud Bricks Slab
-BiomesOPlenty:stoneDoubleSlab:0, Mud Bricks Slab
-BiomesOPlenty:sacredoakStairs, Sacred Oak Wood Stairs
-BiomesOPlenty:cherryStairs, Cherry Wood Stairs
-BiomesOPlenty:darkStairs, Dark Wood Stairs
-BiomesOPlenty:firStairs, Fir Wood Stairs
-BiomesOPlenty:etherealStairs, Ethereal Wood Stairs
-BiomesOPlenty:magicStairs, Magic Wood Stairs
-BiomesOPlenty:mangroveStairs, Mangrove Wood Stairs
-BiomesOPlenty:palmStairs, Palm Wood Stairs
-BiomesOPlenty:redwoodStairs, Redwood Wood Stairs
-BiomesOPlenty:willowStairs, Willow Wood Stairs
-BiomesOPlenty:pineStairs, Pine Wood Stairs
-BiomesOPlenty:hellBarkStairs, Hellbark Wood Stairs
-BiomesOPlenty:jacarandaStairs, Jacaranda Wood Stairs
-BiomesOPlenty:mahoganyStairs, Mahogany Wood Stairs
-BiomesOPlenty:mudBricksStairs, Mud Bricks Stairs
-BiomesOPlenty:colorizedLeaves1:0, Sacred Oak Leaves
-BiomesOPlenty:colorizedLeaves1:1, Mangrove Leaves
-BiomesOPlenty:colorizedLeaves1:2, Palm Leaves
-BiomesOPlenty:colorizedLeaves1:3, Redwood Leaves
-BiomesOPlenty:colorizedLeaves2:0, Willow Leaves
-BiomesOPlenty:colorizedLeaves2:1, Pine Leaves
-BiomesOPlenty:colorizedLeaves2:2, Mahogany Leaves
-BiomesOPlenty:colorizedLeaves2:3, Flowering Oak Leaves
-BiomesOPlenty:poison, Poison
-BiomesOPlenty:hell_blood, Blood
-BiomesOPlenty:honey, Honey
+ae2stuff:Encoder, Pattern Encoder
+ae2stuff:Grower, Crystal Growth Chamber
+ae2stuff:Inscriber, Advanced Inscriber
+ae2stuff:Wireless, Wireless Connector
 AWWayofTime:Altar, Blood Altar
 AWWayofTime:AlchemicalWizardrybloodRune:0, Blood Rune
 AWWayofTime:AlchemicalWizardrybloodRune:1, Rune of Augmented Capacity
@@ -1862,10 +1598,286 @@ Botania:pavement4Slab:0, Yellow Portuguese Pavement Slab
 Botania:pavement4SlabFull:0, Yellow Portuguese Pavement Slab
 Botania:pavement5Slab:0, Green Portuguese Pavement Slab
 Botania:pavement5SlabFull:0, Green Portuguese Pavement Slab
+Avaritia:Double_Craft, Compressed Crafting Table
+Avaritia:Triple_Craft, Double Compressed Crafting Table
+Avaritia:Dire_Crafting, Dire Crafting Table
+Avaritia:Crystal_Matrix, Crystal Matrix
+Avaritia:Resource_Block:0, Neutronium Block
+Avaritia:Resource_Block:1, Infinity Block
+Avaritia:Neutron_Collector, Neutron Collector
+Avaritia:Neutronium_Compressor, Neutronium Compressor
+BiomesOPlenty:mud:0, Mud
+BiomesOPlenty:mud:1, Quicksand
+BiomesOPlenty:driedDirt, Dried Dirt
+BiomesOPlenty:rocks:0, Limestone
+BiomesOPlenty:rocks:1, Polished Limestone
+BiomesOPlenty:rocks:2, Siltstone
+BiomesOPlenty:rocks:3, Polished Siltstone
+BiomesOPlenty:rocks:4, Shale
+BiomesOPlenty:rocks:5, Polished Shale
+BiomesOPlenty:ash, Ash Block
+BiomesOPlenty:flesh, Flesh
+BiomesOPlenty:plants:0, Dead Grass
+BiomesOPlenty:plants:1, Desert Grass
+BiomesOPlenty:plants:2, Desert Sprouts
+BiomesOPlenty:plants:3, Dune Grass
+BiomesOPlenty:plants:4, Spectral Fern
+BiomesOPlenty:plants:5, Thorns
+BiomesOPlenty:plants:6, Wild Rice
+BiomesOPlenty:plants:7, Cattail
+BiomesOPlenty:plants:8, River Cane
+BiomesOPlenty:plants:12, Tiny Cactus
+BiomesOPlenty:plants:13, Wither Wart
+BiomesOPlenty:plants:14, Reed
+BiomesOPlenty:plants:15, Root
+BiomesOPlenty:flowers:0, Clover
+BiomesOPlenty:flowers:1, Swampflower
+BiomesOPlenty:flowers:2, Deathbloom
+BiomesOPlenty:flowers:3, Glowflower
+BiomesOPlenty:flowers:4, Blue Hydrangea
+BiomesOPlenty:flowers:5, Orange Cosmos
+BiomesOPlenty:flowers:6, Pink Daffodil
+BiomesOPlenty:flowers:7, Wildflower
+BiomesOPlenty:flowers:8, Violet
+BiomesOPlenty:flowers:9, White Anemone
+BiomesOPlenty:flowers:10, Waterlily
+BiomesOPlenty:flowers:11, Enderlotus
+BiomesOPlenty:flowers:12, Bromeliad
+BiomesOPlenty:flowers:13, Eyebulb
+BiomesOPlenty:flowers:15, Dandelion Puff
+BiomesOPlenty:flowers2:0, Pink Hibiscus
+BiomesOPlenty:flowers2:1, Lily of the Valley
+BiomesOPlenty:flowers2:2, Burning Blossom
+BiomesOPlenty:flowers2:3, Lavender
+BiomesOPlenty:flowers2:4, Goldenrod
+BiomesOPlenty:flowers2:5, Bluebells
+BiomesOPlenty:flowers2:6, Miner's Delight
+BiomesOPlenty:flowers2:7, Icy Iris
+BiomesOPlenty:flowers2:8, Rose
+BiomesOPlenty:stoneFormations:0, Stalagmite
+BiomesOPlenty:stoneFormations:1, Stalactite
+BiomesOPlenty:mushrooms:0, Toadstool
+BiomesOPlenty:mushrooms:1, Portobello
+BiomesOPlenty:mushrooms:2, Blue Milk Cap
+BiomesOPlenty:mushrooms:3, Glowshroom
+BiomesOPlenty:mushrooms:4, Flat Mushroom
+BiomesOPlenty:mushrooms:5, Shadow Shroom
+BiomesOPlenty:willow, Willow
+BiomesOPlenty:ivy, Ivy
+BiomesOPlenty:treeMoss, Tree Moss
+BiomesOPlenty:flowerVine, Flowering Vines
+BiomesOPlenty:wisteria, Wisteria
+BiomesOPlenty:lilyBop:0, Medium Lily Pad
+BiomesOPlenty:lilyBop:1, Small Lily Pad
+BiomesOPlenty:lilyBop:2, Tiny Lily Pad
+BiomesOPlenty:foliage:0, Duckweed
+BiomesOPlenty:foliage:1, Short Grass
+BiomesOPlenty:foliage:2, Medium Grass
+BiomesOPlenty:foliage:3, Flax
+BiomesOPlenty:foliage:4, Bush
+BiomesOPlenty:foliage:5, Sprout
+BiomesOPlenty:foliage:7, Poison Ivy
+BiomesOPlenty:foliage:8, Berry Bush
+BiomesOPlenty:foliage:9, Shrub
+BiomesOPlenty:foliage:10, Wheat Grass
+BiomesOPlenty:foliage:11, Damp Grass
+BiomesOPlenty:foliage:12, Koru
+BiomesOPlenty:foliage:13, Clover Patch
+BiomesOPlenty:foliage:14, Leaf Pile
+BiomesOPlenty:foliage:15, Dead Leaf Pile
+BiomesOPlenty:turnip, Turnip
+BiomesOPlenty:coral1:11, Kelp
+BiomesOPlenty:coral1:12, Pink Coral
+BiomesOPlenty:coral1:13, Orange Coral
+BiomesOPlenty:coral1:14, Blue Coral
+BiomesOPlenty:coral1:15, Glowing Coral
+BiomesOPlenty:coral2:8, Algae
+BiomesOPlenty:ashStone, Ash Stone
+BiomesOPlenty:hardIce, Hardened Ice
+BiomesOPlenty:appleLeaves:0, Apple Leaves
+BiomesOPlenty:persimmonLeaves:0, Persimmon Leaves
+BiomesOPlenty:moss, Moss
+BiomesOPlenty:bamboo, Bamboo
+BiomesOPlenty:mudBricks, Mud Bricks
+BiomesOPlenty:originGrass, Origin Grass Block
+BiomesOPlenty:longGrass, Long Grass Block
+BiomesOPlenty:overgrownNetherrack, Overgrown Netherrack
+BiomesOPlenty:bopGrass:0, Spectral Moss
+BiomesOPlenty:bopGrass:1, Smoldering Grass Block
+BiomesOPlenty:newBopGrass:0, Loamy Grass Block
+BiomesOPlenty:newBopGrass:1, Sandy Grass Block
+BiomesOPlenty:newBopGrass:2, Silty Grass Block
+BiomesOPlenty:newBopDirt:0, Loamy Dirt
+BiomesOPlenty:newBopDirt:1, Coarse Loamy Dirt
+BiomesOPlenty:newBopDirt:2, Sandy Dirt
+BiomesOPlenty:newBopDirt:3, Coarse Sandy Dirt
+BiomesOPlenty:newBopDirt:4, Silty Dirt
+BiomesOPlenty:newBopDirt:5, Coarse Silty Dirt
+BiomesOPlenty:newBopFarmland:0, Loamy Farmland
+BiomesOPlenty:newBopFarmland:1, Loamy Farmland
+BiomesOPlenty:newBopFarmland:2, Sandy Farmland
+BiomesOPlenty:newBopFarmland:3, Loamy Farmland
+BiomesOPlenty:newBopFarmland:4, Loamy Farmland
+BiomesOPlenty:newBopFarmland:5, Loamy Farmland
+BiomesOPlenty:logs1:0, Sacred Oak Wood
+BiomesOPlenty:logs1:1, Cherry Wood
+BiomesOPlenty:logs1:2, Dark Wood
+BiomesOPlenty:logs1:3, Fir Wood
+BiomesOPlenty:logs2:0, Ethereal Wood
+BiomesOPlenty:logs2:1, Magic Wood
+BiomesOPlenty:logs2:2, Mangrove Wood
+BiomesOPlenty:logs2:3, Palm Wood
+BiomesOPlenty:logs3:0, Redwood Wood
+BiomesOPlenty:logs3:1, Willow Wood
+BiomesOPlenty:logs3:2, Dead Wood
+BiomesOPlenty:logs3:3, Giant Flower Stem
+BiomesOPlenty:logs4:0, Pine Wood
+BiomesOPlenty:logs4:1, Hellbark Wood
+BiomesOPlenty:logs4:2, Jacaranda Wood
+BiomesOPlenty:logs4:3, Mahogany Wood
+BiomesOPlenty:leaves1:0, Yellow Autumn Leaves
+BiomesOPlenty:leaves1:1, Bamboo Leaves
+BiomesOPlenty:leaves1:2, Magic Leaves
+BiomesOPlenty:leaves1:3, Dark Leaves
+BiomesOPlenty:leaves2:0, Dying Leaves
+BiomesOPlenty:leaves2:1, Fir Leaves
+BiomesOPlenty:leaves2:2, Ethereal Leaves
+BiomesOPlenty:leaves2:3, Orange Autumn Leaves
+BiomesOPlenty:leaves3:0, Origin Leaves
+BiomesOPlenty:leaves3:1, Pink Cherry Leaves
+BiomesOPlenty:leaves3:2, Maple Leaves
+BiomesOPlenty:leaves3:3, White Cherry Leaves
+BiomesOPlenty:leaves4:0, Hellbark Leaves
+BiomesOPlenty:leaves4:1, Jacaranda Leaves
+BiomesOPlenty:petals:0, Giant Red Flower
+BiomesOPlenty:petals:1, Giant Yellow Flower
+BiomesOPlenty:saplings:0, Apple Sapling
+BiomesOPlenty:saplings:1, Yellow Autumn Sapling
+BiomesOPlenty:saplings:2, Bamboo Sapling
+BiomesOPlenty:saplings:3, Magic Sapling
+BiomesOPlenty:saplings:4, Dark Sapling
+BiomesOPlenty:saplings:5, Dying Sapling
+BiomesOPlenty:saplings:6, Fir Sapling
+BiomesOPlenty:saplings:7, Ethereal Sapling
+BiomesOPlenty:saplings:8, Orange Autumn Sapling
+BiomesOPlenty:saplings:9, Origin Sapling
+BiomesOPlenty:saplings:10, Pink Cherry Sapling
+BiomesOPlenty:saplings:11, Maple Sapling
+BiomesOPlenty:saplings:12, White Cherry Sapling
+BiomesOPlenty:saplings:13, Hellbark Sapling
+BiomesOPlenty:saplings:14, Jacaranda Sapling
+BiomesOPlenty:saplings:15, Persimmon Sapling
+BiomesOPlenty:colorizedSaplings:0, Sacred Oak Sapling
+BiomesOPlenty:colorizedSaplings:1, Mangrove Sapling
+BiomesOPlenty:colorizedSaplings:2, Palm Sapling
+BiomesOPlenty:colorizedSaplings:3, Redwood Sapling
+BiomesOPlenty:colorizedSaplings:4, Willow Sapling
+BiomesOPlenty:colorizedSaplings:5, Pine Sapling
+BiomesOPlenty:colorizedSaplings:6, Mahogany Sapling
+BiomesOPlenty:colorizedSaplings:7, Flowering Oak Sapling
+BiomesOPlenty:hardSand, Hardened Sand
+BiomesOPlenty:hardDirt, Hardened Dirt
+BiomesOPlenty:biomeBlock, Biome Essence Ore
+BiomesOPlenty:crystal, Celestial Crystal
+BiomesOPlenty:gemOre:0, Ender Amethyst Ore
+BiomesOPlenty:gemOre:1, Block of Amethyst
+BiomesOPlenty:gemOre:2, Ruby Ore
+BiomesOPlenty:gemOre:3, Block of Ruby
+BiomesOPlenty:gemOre:4, Peridot Ore
+BiomesOPlenty:gemOre:5, Block of Peridot
+BiomesOPlenty:gemOre:6, Topaz Ore
+BiomesOPlenty:gemOre:7, Block of Topaz
+BiomesOPlenty:gemOre:8, Tanzanite Ore
+BiomesOPlenty:gemOre:9, Block of Tanzanite
+BiomesOPlenty:gemOre:10, Malachite Ore
+BiomesOPlenty:gemOre:11, Block of Malachite
+BiomesOPlenty:gemOre:12, Sapphire Ore
+BiomesOPlenty:gemOre:13, Block of Sapphire
+BiomesOPlenty:gemOre:14, Amber Ore
+BiomesOPlenty:gemOre:15, Block of Amber
+BiomesOPlenty:cragRock, Crag Rock
+BiomesOPlenty:hive:0, Honeycomb Block
+BiomesOPlenty:hive:1, Hive Block
+BiomesOPlenty:hive:2, Empty Honeycomb Block
+BiomesOPlenty:hive:3, Filled Honeycomb Block
+BiomesOPlenty:honeyBlock, Honey Block
+BiomesOPlenty:bones:0, Small Bone Segment
+BiomesOPlenty:bones:1, Medium Bone Segment
+BiomesOPlenty:bones:2, Large Bone Segment
+BiomesOPlenty:grave:0, Gravestone
+BiomesOPlenty:planks:0, Sacred Oak Wood Planks
+BiomesOPlenty:planks:1, Cherry Wood Planks
+BiomesOPlenty:planks:2, Dark Wood Planks
+BiomesOPlenty:planks:3, Fir Wood Planks
+BiomesOPlenty:planks:4, Ethereal Wood Planks
+BiomesOPlenty:planks:5, Magic Wood Planks
+BiomesOPlenty:planks:6, Mangrove Wood Planks
+BiomesOPlenty:planks:7, Palm Wood Planks
+BiomesOPlenty:planks:8, Redwood Wood Planks
+BiomesOPlenty:planks:9, Willow Wood Planks
+BiomesOPlenty:planks:10, Bamboo Thatching
+BiomesOPlenty:planks:11, Pine Wood Planks
+BiomesOPlenty:planks:12, Hellbark Wood Planks
+BiomesOPlenty:planks:13, Jacaranda Wood Planks
+BiomesOPlenty:planks:14, Mahogany Wood Planks
+BiomesOPlenty:woodenSingleSlab1:0, Sacred Oak Wood Slab
+BiomesOPlenty:woodenSingleSlab1:1, Cherry Wood Slab
+BiomesOPlenty:woodenSingleSlab1:2, Dark Wood Slab
+BiomesOPlenty:woodenSingleSlab1:3, Fir Wood Slab
+BiomesOPlenty:woodenSingleSlab1:4, Ethereal Wood Slab
+BiomesOPlenty:woodenSingleSlab1:5, Magic Wood Slab
+BiomesOPlenty:woodenSingleSlab1:6, Mangrove Wood Slab
+BiomesOPlenty:woodenSingleSlab1:7, Palm Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:0, Sacred Oak Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:1, Cherry Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:2, Dark Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:3, Fir Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:4, Ethereal Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:5, Magic Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:6, Mangrove Wood Slab
+BiomesOPlenty:woodenDoubleSlab1:7, Palm Wood Slab
+BiomesOPlenty:woodenSingleSlab2:0, Redwood Wood Slab
+BiomesOPlenty:woodenSingleSlab2:1, Willow Wood Slab
+BiomesOPlenty:woodenSingleSlab2:2, Pine Wood Slab
+BiomesOPlenty:woodenSingleSlab2:3, Hellbark Wood Slab
+BiomesOPlenty:woodenSingleSlab2:4, Jacaranda Wood Slab
+BiomesOPlenty:woodenDoubleSlab2:0, Redwood Wood Slab
+BiomesOPlenty:woodenDoubleSlab2:1, Willow Wood Slab
+BiomesOPlenty:woodenDoubleSlab2:2, Pine Wood Slab
+BiomesOPlenty:woodenDoubleSlab2:3, Hellbark Wood Slab
+BiomesOPlenty:woodenDoubleSlab2:4, Jacaranda Wood Slab
+BiomesOPlenty:stoneSingleSlab:0, Mud Bricks Slab
+BiomesOPlenty:stoneDoubleSlab:0, Mud Bricks Slab
+BiomesOPlenty:sacredoakStairs, Sacred Oak Wood Stairs
+BiomesOPlenty:cherryStairs, Cherry Wood Stairs
+BiomesOPlenty:darkStairs, Dark Wood Stairs
+BiomesOPlenty:firStairs, Fir Wood Stairs
+BiomesOPlenty:etherealStairs, Ethereal Wood Stairs
+BiomesOPlenty:magicStairs, Magic Wood Stairs
+BiomesOPlenty:mangroveStairs, Mangrove Wood Stairs
+BiomesOPlenty:palmStairs, Palm Wood Stairs
+BiomesOPlenty:redwoodStairs, Redwood Wood Stairs
+BiomesOPlenty:willowStairs, Willow Wood Stairs
+BiomesOPlenty:pineStairs, Pine Wood Stairs
+BiomesOPlenty:hellBarkStairs, Hellbark Wood Stairs
+BiomesOPlenty:jacarandaStairs, Jacaranda Wood Stairs
+BiomesOPlenty:mahoganyStairs, Mahogany Wood Stairs
+BiomesOPlenty:mudBricksStairs, Mud Bricks Stairs
+BiomesOPlenty:colorizedLeaves1:0, Sacred Oak Leaves
+BiomesOPlenty:colorizedLeaves1:1, Mangrove Leaves
+BiomesOPlenty:colorizedLeaves1:2, Palm Leaves
+BiomesOPlenty:colorizedLeaves1:3, Redwood Leaves
+BiomesOPlenty:colorizedLeaves2:0, Willow Leaves
+BiomesOPlenty:colorizedLeaves2:1, Pine Leaves
+BiomesOPlenty:colorizedLeaves2:2, Mahogany Leaves
+BiomesOPlenty:colorizedLeaves2:3, Flowering Oak Leaves
+BiomesOPlenty:poison, Poison
+BiomesOPlenty:hell_blood, Blood
+BiomesOPlenty:honey, Honey
 BuildCraft|Builders:machineBlock, Quarry
 BuildCraft|Builders:fillerBlock, Filler
 BuildCraft|Builders:frameBlock, Frame
-BuildCraft|Builders:builderBlock, Builder
+BuildCraft|Builders:builderBlock, Builder Block
 BuildCraft|Builders:architectBlock, Architect Table
 BuildCraft|Builders:libraryBlock, Electronic Library
 BuildCraft|Builders:constructionMarkerBlock, Construction Mark
@@ -3418,6 +3430,32 @@ chisel:woolen_clay:12, Woolen Clay
 chisel:woolen_clay:13, Woolen Clay
 chisel:woolen_clay:14, Woolen Clay
 chisel:woolen_clay:15, Woolen Clay
+ComputerCraft:CC-Computer:0, Computer
+ComputerCraft:CC-Computer:16384, Advanced Computer
+ComputerCraft:CC-Peripheral:0, Disk Drive
+ComputerCraft:CC-Peripheral:3, Printer
+ComputerCraft:CC-Peripheral:2, Monitor
+ComputerCraft:CC-Peripheral:4, Advanced Monitor
+ComputerCraft:CC-Peripheral:1, Wireless Modem
+ComputerCraft:CC-Cable:1, Wired Modem
+ComputerCraft:CC-Cable:0, Networking Cable
+ComputerCraft:command_computer:0, Command Computer
+ComputerCraft:CC-Turtle:0, Turtle
+ComputerCraft:CC-Turtle:1, Mining Turtle
+ComputerCraft:CC-TurtleExpanded:0, Wireless Turtle
+ComputerCraft:CC-TurtleExpanded:0, Crafty Turtle
+ComputerCraft:CC-TurtleExpanded:0, Melee Turtle
+ComputerCraft:CC-TurtleExpanded:0, Digging Turtle
+ComputerCraft:CC-TurtleExpanded:0, Felling Turtle
+ComputerCraft:CC-TurtleExpanded:0, Farming Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Wireless Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Crafty Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Melee Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Digging Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Mining Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Felling Turtle
+ComputerCraft:CC-TurtleAdvanced:0, Advanced Farming Turtle
 ThermalFoundation:Ore:0, Copper Ore
 ThermalFoundation:Ore:1, Tin Ore
 ThermalFoundation:Ore:2, Silver Ore
@@ -3759,7 +3797,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
+ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -5249,6 +5287,84 @@ xreliquary:apothecary_mortar, Apothecary Mortar
 xreliquary:lilypad, Lilypad of Fertility
 xreliquary:interdiction_torch, {{!colors.yellow}}Interdiction Torch
 xreliquary:wraith_node, Wraith Node
+rftools:machineFrame, Machine Frame
+rftools:machineBase, Machine Base
+rftools:rfMonitorBlock, RF Monitor
+rftools:liquidMonitorBlock, Liquid Monitor
+rftools:crafterBlock1, Crafter Tier 1
+rftools:crafterBlock2, Crafter Tier 2
+rftools:crafterBlock3, Crafter Tier 3
+rftools:relayBlock, Power Relay
+rftools:itemFilterBlock, Item Filter
+rftools:dimletFilterBlock, Dimlet Filter
+rftools:storageScannerBlock, Storage Scanner
+rftools:machineInfuserBlock, Machine Infuser
+rftools:environmentalControllerBlock, Environmental Controller
+rftools:spawnerBlock, Spawner
+rftools:matterBeamerBlock, Matter Beamer
+rftools:volcanicCoreBlock, Volcanic Core
+rftools:volcanicBlock, Volcanic Block
+rftools:screenBlock, Screen
+rftools:screenHitBlock, Screen
+rftools:screenControllerBlock, Screen Controller
+rftools:dimletResearcherBlock, Dimlet Researcher
+rftools:dimletScramblerBlock, Dimlet Scrambler
+rftools:dimensionEnscriberBlock, Dimension Enscriber
+rftools:dimensionBuilderBlock, Dimension Builder
+rftools:creativeDimensionBuilderBlock, Creative Dimension Builder
+rftools:dimensionEditorBlock, Dimension Editor
+rftools:dimensionMonitorBlock, Dimension Monitor
+rftools:dimensionalShardBlock, Dimensional Shard Ore
+rftools:dimensionalBlankBlock, Dimensional Blank Block
+rftools:dimensionalBlock, Dimensional Block
+rftools:dimensionalSmallBlocks, Dimensional Small Blocks
+rftools:dimensionalCrossBlock, Dimensional Cross Block
+rftools:dimensionalCross2Block, Dimensional Cross 2 Block
+rftools:dimensionalPattern1Block, Dimensional Pattern 1 Block
+rftools:dimensionalPattern2Block, Dimensional Pattern 2 Block
+rftools:activityProbeBlock, Activity Probe
+rftools:energyExtractorBlock, Energy Extractor
+rftools:matterTransmitterBlock, Matter Transmitter
+rftools:matterReceiverBlock, Matter Receiver
+rftools:dialingDeviceBlock, Dialing Device
+rftools:simpleDialerBlock, Simple Dialer
+rftools:destinationAnalyzerBlock, Destination Analyzer
+rftools:matterBoosterBlock, Matter Booster
+rftools:endergenicBlock, Endergenic Generator
+rftools:pearlInjectorBlock, Pearl Injector
+rftools:enderMonitorBlock, Ender Monitor
+rftools:sequencerBlock, Sequencer
+rftools:timerBlock, Timer
+rftools:counterBlock, Counter
+rftools:redstoneTransmitterBlock, Redstone Transmitter
+rftools:redstoneReceiverBlock, Redstone Receiver
+rftools:shieldBlock, Shield Projector Tier 1
+rftools:shieldBlock2, Shield Projector Tier 2
+rftools:shieldBlock3, Shield Projector Tier 3
+rftools:shieldBlock4, Shield Projector Tier 4
+rftools:invisibleShieldBlock, Invisible Shield Block
+rftools:noTickInvisibleShieldBlock, Invisible Shield Block
+rftools:solidShieldBlock, Solid Shield Block
+rftools:noTickolidShieldBlock, Solid Shield Block
+rftools:shieldTemplateBlock:0, Shield Template
+rftools:shieldTemplateBlock:1, Shield Template
+rftools:shieldTemplateBlock:2, Shield Template
+rftools:shieldTemplateBlock:3, Shield Template
+rftools:dimletWorkbenchBlock, Dimlet Workbench
+rftools:biomeAbsorberBlock, Biome Absorber
+rftools:materialAbsorberBlock, Material Absorber
+rftools:liquidAbsorberBlock, Liquid Absorber
+rftools:timeAbsorberBlock, Time Absorber
+rftools:proxyBlock, Proxy Block
+rftools:spaceChamberBlock, Space Chamber Corner Block
+rftools:spaceChamberControllerBlock, Space Chamber Controller Block
+rftools:spaceProjectorBlock, Space Projector Block (WIP)
+rftools:builderBlock, Builder Block
+rftools:supportBlock, Support Block
+rftools:blockProtectorBlock, Block Protector
+rftools:modularStorageBlock, Modular Storage
+rftools:remoteStorageBlock, Remote Storage
+rftools:securityManagerBlock, Security Manager
 rivalrebels:rivalrebelsblock0, tile.rivalrebels.blocks.0.name
 rivalrebels:rivalrebelsblock1, tile.rivalrebels.blocks.1.name
 rivalrebels:rivalrebelsblock2, tile.rivalrebels.blocks.2.name
@@ -5312,6 +5428,18 @@ rivalrebels:rivalrebelsblock59, tile.rivalrebels.blocks.59.name
 rivalrebels:rivalrebelsblock60, tile.rivalrebels.blocks.60.name
 rivalrebels:rivalrebelsblock61, tile.rivalrebels.blocks.61.name
 rivalrebels:rivalrebelsblock62, tile.rivalrebels.blocks.63.name
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 rivalrebels:rivalrebelsblock63, tile.rivalrebels.blocks.72.name
 rivalrebels:rivalrebelsblock64, tile.rivalrebels.blocks.64.name
 rivalrebels:rivalrebelsblock65, tile.rivalrebels.blocks.65.name
@@ -5536,18 +5664,6 @@ witchery:crittersnare:0, Critter Snare
 witchery:grassper, Grassper
 witchery:bloodrose, Blood Poppy
 witchery:somniancotton, Wispy Cotton
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 witchery:web, Web
 witchery:vine, Vine
 witchery:cactus, Cactus
@@ -5693,100 +5809,6 @@ witchery:cstonepressureplate, Pressure Plate
 witchery:csnowpressureplate, Snow Pressure Plate
 witchery:cbuttonwood, Button
 witchery:cbuttonstone, Button
-aether_legacy:aether_grass:0, Aether Grass
-aether_legacy:enchanted_aether_grass, Enchanted Aether Grass
-aether_legacy:aether_dirt:0, Aether Dirt
-aether_legacy:holystone:0, Holystone
-aether_legacy:mossy_holystone:0, Mossy Holystone
-aether_legacy:holystone_brick, Holystone Brick
-aether_legacy:aercloud:0, Cold Aercloud
-aether_legacy:aercloud:1, Blue Aercloud
-aether_legacy:aercloud:2, Golden Aercloud
-aether_legacy:aerogel, Aerogel
-aether_legacy:quicksoil:0, Quicksoil
-aether_legacy:icestone, Icestone
-aether_legacy:ambrosium_ore, Ambrosium Ore
-aether_legacy:zanite_ore, Zanite Ore
-aether_legacy:gravitite_ore, Gravitite Ore
-aether_legacy:enchanted_gravitite, Enchanted Gravitite
-aether_legacy:zanite_block, Zanite Block
-aether_legacy:skyroot_leaves, Skyroot Leaves
-aether_legacy:golden_oak_leaves, Golden Oak Leaves
-aether_legacy:crystal_leaves, Crystal Leaves
-aether_legacy:crystal_fruit_leaves, Crystal Fruit Leaves
-aether_legacy:holiday_leaves, Holiday Leaves
-aether_legacy:decorated_holiday_leaves, Decorated Holiday Leaves
-aether_legacy:present, Present
-aether_legacy:skyroot_log:0, Skyroot Log
-aether_legacy:golden_oak_log:0, Golden Oak Log
-aether_legacy:skyroot_planks, Skyroot Planks
-aether_legacy:quicksoil_glass, Quicksoil Glass
-aether_legacy:ambrosium_torch, Ambrosium Torch
-aether_legacy:berry_bush_stem, Berry Bush Stem
-aether_legacy:berry_bush, Berry Bush
-aether_legacy:purple_flower, Purple Flower
-aether_legacy:white_flower, White Flower
-aether_legacy:skyroot_sapling, Skyroot Sapling
-aether_legacy:golden_oak_sapling, Golden Oak Sapling
-aether_legacy:enchanter:0, Altar of Light
-aether_legacy:freezer:0, Freezer
-aether_legacy:incubator:0, Incubator
-aether_legacy:sun_altar, Sun Altar
-aether_legacy:chest_mimic, Chest Mimic
-aether_legacy:treasure_chest, Treasure Chest
-aether_legacy:aether_portal, Aether Portal
-aether_legacy:pillar, Pillar
-aether_legacy:pillar_top, Pillar Top
-aether_legacy:carved_stone, Carved Stone
-aether_legacy:sentry_stone, Sentry Stone
-aether_legacy:angelic_stone, Angelic Stone
-aether_legacy:light_angelic_stone, Light Angelic Stone
-aether_legacy:hellfire_stone, Hellfire Stone
-aether_legacy:light_hellfire_stone, Light Hellfire Stone
-aether_legacy:locked_carved_stone, Carved Stone
-aether_legacy:locked_sentry_stone, Sentry Stone
-aether_legacy:locked_angelic_stone, Angelic Stone
-aether_legacy:locked_light_angelic_stone, Light Angelic Stone
-aether_legacy:locked_hellfire_stone, Hellfire Stone
-aether_legacy:locked_light_hellfire_stone, Light Hellfire Stone
-aether_legacy:carved_trap, Carved Stone
-aether_legacy:angelic_trap, Angelic Stone
-aether_legacy:hellfire_trap, Hellfire Stone
-aether_legacy:skyroot_fence, Skyroot Fence
-aether_legacy:skyroot_fence_gate, Skyroot Fence Gate
-aether_legacy:carved_wall, Carved Wall
-aether_legacy:angelic_wall, Angelic Wall
-aether_legacy:hellfire_wall, Hellfire Wall
-aether_legacy:holystone_wall, Holystone Wall
-aether_legacy:holystone_brick_wall, Holystone Brick Wall
-aether_legacy:mossy_holystone_wall, Mossy Holystone Wall
-aether_legacy:aerogel_wall, Aerogel Wall
-aether_legacy:carved_stairs, Carved Stairs
-aether_legacy:angelic_stairs, Angelic Stairs
-aether_legacy:hellfire_stairs, Hellfire Stairs
-aether_legacy:skyroot_stairs, Skyroot Stairs
-aether_legacy:holystone_stairs, Holystone Stairs
-aether_legacy:holystone_brick_stairs, Holystone Brick Stairs
-aether_legacy:mossy_holystone_stairs, Mossy Holystone Stairs
-aether_legacy:aerogel_stairs, Aerogel Stairs
-aether_legacy:skyroot_double_slab, Skyroot Double Slab
-aether_legacy:carved_double_slab, Carved Double Slab
-aether_legacy:angelic_double_slab, Angelic Double Slab
-aether_legacy:hellfire_double_slab, Hellfire Double Slab
-aether_legacy:holystone_double_slab, Holystone Double Slab
-aether_legacy:mossy_holystone_double_slab, Mossy Holystone Double Slab
-aether_legacy:holystone_brick_double_slab, Holystone Brick Double Slab
-aether_legacy:aerogel_double_slab, Aerogel Double Slab
-aether_legacy:skyroot_slab:0, Skyroot Slab
-aether_legacy:carved_slab:0, Carved Slab
-aether_legacy:angelic_slab:0, Angelic Slab
-aether_legacy:hellfire_slab:0, Hellfire Slab
-aether_legacy:holystone_slab:0, Holystone Slab
-aether_legacy:mossy_holystone_slab:0, Mossy Holystone Slab
-aether_legacy:holystone_brick_slab:0, Holystone Brick Slab
-aether_legacy:aerogel_slab:0, Aerogel Slab
-aether_legacy:skyroot_bookshelf, Skyroot Bookshelf
-aether_legacy:skyroot_bed, Skyroot Bed
 BuildCraft|Core:wrenchItem, Wrench
 BuildCraft|Core:mapLocation, Map Location
 BuildCraft|Core:list:0, List
@@ -6279,96 +6301,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Quicksand
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dried Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Limestone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Limestone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Siltstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Siltstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Shale
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Shale
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ash Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Flesh
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ash Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Ice
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud Bricks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Loamy Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Coarse Loamy Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sandy Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Coarse Sandy Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Silty Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Coarse Silty Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dead Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Giant Flower Stem
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Sand
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Biome Essence Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Celestial Crystal
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Amethyst Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Amethyst
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ruby Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Ruby
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Peridot Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Peridot
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Topaz Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Topaz
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Tanzanite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tanzanite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Malachite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Malachite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sapphire Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Sapphire
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Amber Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Amber
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Crag Rock
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Honeycomb Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hive Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Empty Honeycomb Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Filled Honeycomb Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Bamboo Thatching
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud Bricks Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Augmented Capacity
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Dislocation
@@ -6604,6 +6536,101 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Portuguese Pavement S
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Portuguese Pavement Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Portuguese Pavement Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Portuguese Pavement Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Crafting Table
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Crafting Table
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Crystal Matrix
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Neutronium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Infinity Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quicksand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dried Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Limestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Limestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Siltstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Siltstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Shale
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Shale
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ash Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Flesh
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ash Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Ice
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud Bricks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Loamy Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coarse Loamy Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sandy Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coarse Sandy Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silty Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coarse Silty Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dead Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Giant Flower Stem
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Biome Essence Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Celestial Crystal
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Amethyst Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Amethyst
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ruby Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Ruby
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Peridot Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Peridot
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Topaz Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Topaz
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Tanzanite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tanzanite
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Malachite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Malachite
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sapphire Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Sapphire
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Amber Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Amber
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Crag Rock
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Honeycomb Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hive Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Empty Honeycomb Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Filled Honeycomb Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Bamboo Thatching
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mahogany Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sacred Oak Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cherry Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fir Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ethereal Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magic Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palm Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Redwood Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Willow Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pine Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellbark Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Jacaranda Wood Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud Bricks Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Twilight Oak Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Canopy Tree Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood
@@ -8324,6 +8351,19 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.oreamethyst.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.skytreelog.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockenderpearl.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockeyeofender.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Machine Frame
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Machine Base
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Shard Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Blank Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Small Blocks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Cross Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Cross 2 Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Pattern 1 Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Pattern 2 Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Activity Probe
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Destination Analyzer
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Matter Booster
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.rivalrebels.blocks.0.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.rivalrebels.blocks.2.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.rivalrebels.blocks.3.name
@@ -8426,46 +8466,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Snow Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood-stained Wool
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mirror Surface
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Torment Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Enchanted Aether Grass
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Aether Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mossy Holystone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Quicksoil
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ambrosium Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Zanite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Zanite Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Present
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Golden Oak Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sun Altar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Top
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Carved Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sentry Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Angelic Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Angelic Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellfire Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Hellfire Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Carved Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sentry Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Angelic Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Angelic Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellfire Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Hellfire Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Carved Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Angelic Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellfire Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Carved Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Angelic Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hellfire Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mossy Holystone Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Brick Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Aerogel Double Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Bookshelf
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -8653,92 +8653,8 @@ appliedenergistics2:item.ItemMultiPart:220, ME Storage Bus
 appliedenergistics2:item.ItemMultiPart:400, ME Storage Monitor
 appliedenergistics2:item.ItemMultiPart:380, ME Terminal
 appliedenergistics2:item.ItemMultiPart:80, ME Toggle Bus
-BiomesOPlenty:food:0, Berry
-BiomesOPlenty:food:1, Shroom Powder
-BiomesOPlenty:food:2, Wild Carrots
-BiomesOPlenty:food:3, Peach
-BiomesOPlenty:food:4, Fruit Salad
-BiomesOPlenty:food:5, Veggie Salad
-BiomesOPlenty:food:6, Shroom Salad
-BiomesOPlenty:food:8, Persimmon
-BiomesOPlenty:food:9, Filled Honeycomb
-BiomesOPlenty:food:10, Ambrosia
-BiomesOPlenty:food:11, Turnip
-BiomesOPlenty:food:12, Pear
-BiomesOPlenty:food:13, Bowl of Rice
-BiomesOPlenty:turnipSeeds, Turnip Seeds
-BiomesOPlenty:misc:0, Mud Brick
-BiomesOPlenty:misc:1, Pile of Ashes
-BiomesOPlenty:misc:2, Empty Honeycomb
-BiomesOPlenty:misc:3, Chunk of Flesh
-BiomesOPlenty:misc:4, Celestial Crystal Shard
-BiomesOPlenty:misc:5, Blue Dye
-BiomesOPlenty:misc:6, Brown Dye
-BiomesOPlenty:misc:7, Green Dye
-BiomesOPlenty:misc:8, White Dye
-BiomesOPlenty:misc:9, Black Dye
-BiomesOPlenty:misc:10, Ghastly Soul
-BiomesOPlenty:misc:11, Pixie Dust
-BiomesOPlenty:misc:12, Ichor
-BiomesOPlenty:misc:13, Pinecone
-BiomesOPlenty:gems:0, Ender Amethyst
-BiomesOPlenty:gems:1, Ruby
-BiomesOPlenty:gems:2, Peridot
-BiomesOPlenty:gems:3, Topaz
-BiomesOPlenty:gems:4, Tanzanite
-BiomesOPlenty:gems:5, Malachite
-BiomesOPlenty:gems:6, Sapphire
-BiomesOPlenty:gems:7, Amber
-BiomesOPlenty:mudball, Mud Ball
-BiomesOPlenty:jarEmpty, Empty Jar
-BiomesOPlenty:jarFilled:0, Honey Jar
-BiomesOPlenty:jarFilled:1, Poison Extract Jar
-BiomesOPlenty:jarFilled:2, Pixie Jar
-BiomesOPlenty:dartBlower, Dart Blower
-BiomesOPlenty:dart:0, Dart
-BiomesOPlenty:dart:1, Poison Dart
-BiomesOPlenty:ancientStaff:0, Ancient Staff
-BiomesOPlenty:ancientStaff:1, Ancient Staff Handle
-BiomesOPlenty:ancientStaff:2, Ancient Staff Pole
-BiomesOPlenty:ancientStaff:3, Ancient Staff Topper
-BiomesOPlenty:ancientStaff:4, Depleted Ancient Staff
-BiomesOPlenty:enderporter, Enderporter
-BiomesOPlenty:bopBucket, item.bopBucket.name
-BiomesOPlenty:record_wanderer, Music Disc
-BiomesOPlenty:record_corruption, Music Disc
-BiomesOPlenty:biomeFinder, Biome Radar
-BiomesOPlenty:biomeEssence, Biome Essence
-BiomesOPlenty:swordMud, Muddy Sword
-BiomesOPlenty:shovelMud, Muddy Shovel
-BiomesOPlenty:pickaxeMud, Muddy Pickaxe
-BiomesOPlenty:axeMud, Muddy Axe
-BiomesOPlenty:hoeMud, Muddy Hoe
-BiomesOPlenty:swordAmethyst, Amethyst Sword
-BiomesOPlenty:shovelAmethyst, Amethyst Shovel
-BiomesOPlenty:pickaxeAmethyst, Amethyst Pickaxe
-BiomesOPlenty:axeAmethyst, Amethyst Axe
-BiomesOPlenty:hoeAmethyst, Amethyst Hoe
-BiomesOPlenty:scytheWood, Wooden Scythe
-BiomesOPlenty:scytheStone, Stone Scythe
-BiomesOPlenty:scytheIron, Iron Scythe
-BiomesOPlenty:scytheGold, Golden Scythe
-BiomesOPlenty:scytheDiamond, Diamond Scythe
-BiomesOPlenty:scytheMud, Mud Scythe
-BiomesOPlenty:scytheAmethyst, Amethyst Scythe
-BiomesOPlenty:helmetMud, Muddy Helmet
-BiomesOPlenty:chestplateMud, Muddy Chestplate
-BiomesOPlenty:leggingsMud, Muddy Leggings
-BiomesOPlenty:bootsMud, Muddy Boots
-BiomesOPlenty:helmetAmethyst, Amethyst Helmet
-BiomesOPlenty:chestplateAmethyst, Amethyst Chestplate
-BiomesOPlenty:leggingsAmethyst, Amethyst Leggings
-BiomesOPlenty:bootsAmethyst, Amethyst Boots
-BiomesOPlenty:flowerBand:0, Dull Flower Band
-BiomesOPlenty:flowerBand:1, Plain Flower Band
-BiomesOPlenty:flowerBand:2, Lush Flower Band
-BiomesOPlenty:flowerBand:3, Exotic Flower Band
-BiomesOPlenty:flippers, Flippers
-BiomesOPlenty:wadingBoots, Wading Boots
+ae2stuff:WirelessKit, Wireless Setup Kit
+ae2stuff:Visualiser, Network Visualisation Tool
 AWWayofTime:weakBloodOrb, Weak Blood Orb
 AWWayofTime:apprenticeBloodOrb, Apprentice Blood Orb
 AWWayofTime:magicianBloodOrb, Magician's Blood Orb
@@ -9554,6 +9470,127 @@ Botania:gaiaHead, item.gaiaHead.name
 Botania:sextant, item.sextant.name
 Botania:speedUpBelt, item.speedUpBelt.name
 Botania:baubleBox, item.baubleBox.name
+Avaritia:Resource:0, Diamond Lattice
+Avaritia:Resource:1, Crystal Matrix Ingot
+Avaritia:Resource:2, Pile of Neutrons
+Avaritia:Resource:3, Neutronium Nugget
+Avaritia:Resource:4, Neutronium Ingot
+Avaritia:Resource:5, Infinity Catalyst
+Avaritia:Resource:6, Infinity Ingot
+Avaritia:Resource:7, Record Fragment
+Avaritia:Resource:8, Star Fuel
+Avaritia:Resource:9, Neutronium Gear
+Avaritia:Singularity:0, Iron Singularity
+Avaritia:Singularity:1, Golden Singularity
+Avaritia:Singularity:2, Lapis Singularity
+Avaritia:Singularity:3, Redstone Singularity
+Avaritia:Singularity:4, Nether Quartz Singularity
+Avaritia:Singularity:5, Copper Singularity
+Avaritia:Singularity:6, Tin Singularity
+Avaritia:Singularity:7, Leaden Singularity
+Avaritia:Singularity:8, Silver Singularity
+Avaritia:Singularity:9, Nickel Singularity
+Avaritia:Singularity:10, Clay Singularity
+Avaritia:Infinity_Pickaxe, World Breaker
+Avaritia:Infinity_Sword, Sword of the Cosmos
+Avaritia:Skull_Sword, Skullfire Sword
+Avaritia:Ultimate_Stew, Ultimate Stew
+Avaritia:Cosmic_Meatballs, Cosmic Meatballs
+Avaritia:Endest_Pearl, Endest Pearl
+Avaritia:Infinity_Helm, Infinity Helmet
+Avaritia:Infinity_Chest, Infinity Breastplate
+Avaritia:Infinity_Pants, Infinity Pants
+Avaritia:Infinity_Shoes, Infinity Boots
+Avaritia:Matter_Cluster, Matter Cluster
+Avaritia:Infinity_Bow, Longbow of the Heavens
+Avaritia:Infinity_Shovel, Planet Eater
+Avaritia:Infinity_Axe, Nature's Ruin
+BiomesOPlenty:food:0, Berry
+BiomesOPlenty:food:1, Shroom Powder
+BiomesOPlenty:food:2, Wild Carrots
+BiomesOPlenty:food:3, Peach
+BiomesOPlenty:food:4, Fruit Salad
+BiomesOPlenty:food:5, Veggie Salad
+BiomesOPlenty:food:6, Shroom Salad
+BiomesOPlenty:food:8, Persimmon
+BiomesOPlenty:food:9, Filled Honeycomb
+BiomesOPlenty:food:10, Ambrosia
+BiomesOPlenty:food:11, Turnip
+BiomesOPlenty:food:12, Pear
+BiomesOPlenty:food:13, Bowl of Rice
+BiomesOPlenty:turnipSeeds, Turnip Seeds
+BiomesOPlenty:misc:0, Mud Brick
+BiomesOPlenty:misc:1, Pile of Ashes
+BiomesOPlenty:misc:2, Empty Honeycomb
+BiomesOPlenty:misc:3, Chunk of Flesh
+BiomesOPlenty:misc:4, Celestial Crystal Shard
+BiomesOPlenty:misc:5, Blue Dye
+BiomesOPlenty:misc:6, Brown Dye
+BiomesOPlenty:misc:7, Green Dye
+BiomesOPlenty:misc:8, White Dye
+BiomesOPlenty:misc:9, Black Dye
+BiomesOPlenty:misc:10, Ghastly Soul
+BiomesOPlenty:misc:11, Pixie Dust
+BiomesOPlenty:misc:12, Ichor
+BiomesOPlenty:misc:13, Pinecone
+BiomesOPlenty:gems:0, Ender Amethyst
+BiomesOPlenty:gems:1, Ruby
+BiomesOPlenty:gems:2, Peridot
+BiomesOPlenty:gems:3, Topaz
+BiomesOPlenty:gems:4, Tanzanite
+BiomesOPlenty:gems:5, Malachite
+BiomesOPlenty:gems:6, Sapphire
+BiomesOPlenty:gems:7, Amber
+BiomesOPlenty:mudball, Mud Ball
+BiomesOPlenty:jarEmpty, Empty Jar
+BiomesOPlenty:jarFilled:0, Honey Jar
+BiomesOPlenty:jarFilled:1, Poison Extract Jar
+BiomesOPlenty:jarFilled:2, Pixie Jar
+BiomesOPlenty:dartBlower, Dart Blower
+BiomesOPlenty:dart:0, Dart
+BiomesOPlenty:dart:1, Poison Dart
+BiomesOPlenty:ancientStaff:0, Ancient Staff
+BiomesOPlenty:ancientStaff:1, Ancient Staff Handle
+BiomesOPlenty:ancientStaff:2, Ancient Staff Pole
+BiomesOPlenty:ancientStaff:3, Ancient Staff Topper
+BiomesOPlenty:ancientStaff:4, Depleted Ancient Staff
+BiomesOPlenty:enderporter, Enderporter
+BiomesOPlenty:bopBucket, item.bopBucket.name
+BiomesOPlenty:record_wanderer, Music Disc
+BiomesOPlenty:record_corruption, Music Disc
+BiomesOPlenty:biomeFinder, Biome Radar
+BiomesOPlenty:biomeEssence, Biome Essence
+BiomesOPlenty:swordMud, Muddy Sword
+BiomesOPlenty:shovelMud, Muddy Shovel
+BiomesOPlenty:pickaxeMud, Muddy Pickaxe
+BiomesOPlenty:axeMud, Muddy Axe
+BiomesOPlenty:hoeMud, Muddy Hoe
+BiomesOPlenty:swordAmethyst, Amethyst Sword
+BiomesOPlenty:shovelAmethyst, Amethyst Shovel
+BiomesOPlenty:pickaxeAmethyst, Amethyst Pickaxe
+BiomesOPlenty:axeAmethyst, Amethyst Axe
+BiomesOPlenty:hoeAmethyst, Amethyst Hoe
+BiomesOPlenty:scytheWood, Wooden Scythe
+BiomesOPlenty:scytheStone, Stone Scythe
+BiomesOPlenty:scytheIron, Iron Scythe
+BiomesOPlenty:scytheGold, Golden Scythe
+BiomesOPlenty:scytheDiamond, Diamond Scythe
+BiomesOPlenty:scytheMud, Mud Scythe
+BiomesOPlenty:scytheAmethyst, Amethyst Scythe
+BiomesOPlenty:helmetMud, Muddy Helmet
+BiomesOPlenty:chestplateMud, Muddy Chestplate
+BiomesOPlenty:leggingsMud, Muddy Leggings
+BiomesOPlenty:bootsMud, Muddy Boots
+BiomesOPlenty:helmetAmethyst, Amethyst Helmet
+BiomesOPlenty:chestplateAmethyst, Amethyst Chestplate
+BiomesOPlenty:leggingsAmethyst, Amethyst Leggings
+BiomesOPlenty:bootsAmethyst, Amethyst Boots
+BiomesOPlenty:flowerBand:0, Dull Flower Band
+BiomesOPlenty:flowerBand:1, Plain Flower Band
+BiomesOPlenty:flowerBand:2, Lush Flower Band
+BiomesOPlenty:flowerBand:3, Exotic Flower Band
+BiomesOPlenty:flippers, Flippers
+BiomesOPlenty:wadingBoots, Wading Boots
 BuildCraft|Builders:templateItem, Template
 BuildCraft|Builders:blueprintItem, Blueprint
 BuildCraft|Robotics:robot, Robot
@@ -9772,6 +9809,29 @@ chisel:diamondChisel, item.null.name
 chisel:obsidianChisel, item.null.name
 chisel:cloudinabottle, Cloud In A Bottle
 chisel:smashingrock, Smashing Rock
+ComputerCraft:disk:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:diskExpanded:0, Floppy Disk
+ComputerCraft:printout:0, Printed Page
+ComputerCraft:printout:1, Printed Pages
+ComputerCraft:printout:2, Printed Book
+ComputerCraft:pocketComputer:0, Pocket Computer
+ComputerCraft:pocketComputer:0, Wireless Pocket Computer
+ComputerCraft:pocketComputer:1, Advanced Pocket Computer
+ComputerCraft:pocketComputer:1, Advanced Wireless Pocket Computer
 ThermalFoundation:lexicon, item.thermalfoundation.tome.name
 ThermalFoundation:bucket:0, Destabilized Redstone Bucket
 ThermalFoundation:bucket:1, Energized Glowstone Bucket
@@ -14559,6 +14619,114 @@ xreliquary:void_tear_empty, Empty Void Tear
 xreliquary:witch_hat, {{!colors.yellow}}Witch Hat
 xreliquary:witherless_rose, Witherless Rose
 xreliquary:potion, Condensed Potion
+rftools:shapeCardItem:0, Shape Card
+rftools:shapeCardItem:1, Shape Card (Void)
+rftools:shapeCardItem:2, Shape Card (Quarry)
+rftools:shapeCardItem:3, Shape Card (Silk Quarry)
+rftools:shapeCardItem:4, Shape Card (Fortune Quarry)
+rftools:shapeCardItem:5, Shape Card (Clearing Quarry)
+rftools:shapeCardItem:6, Shape Card (Clearing Silk Quarry)
+rftools:shapeCardItem:7, Shape Card (Clearing Fortune Quarry)
+rftools:smartWrenchItem, Smart Wrench
+rftools:networkMonitorItem, RF Network Monitor
+rftools:rfToolsManualItem, RFTools Manual
+rftools:rfToolsManualDimensionItem, RFTools Dimension Manual
+rftools:developersDelightItem, Developers Delight
+rftools:shardWandItem, Shard Wand
+rftools:spaceChamberCardItem, Space Chamber Card
+rftools:teleportProbeItem, Teleporter Probe
+rftools:chargedPorterItem, Charged Porter
+rftools:advancedChargedPorterItem, Advanced Charged Porter
+rftools:regenerationEModuleItem, Regeneration Module
+rftools:regenerationPlusEModuleItem, Regeneration Plus Module
+rftools:speedEModuleItem, Speed Module
+rftools:speedPlusEModuleItem, Speed Plus Module
+rftools:hasteEModuleItem, Haste Module
+rftools:hastePlusEModuleItem, Haste Plus Module
+rftools:saturationEModuleItem, Saturation Module
+rftools:saturationPlusEModuleItem, Saturation Plus Module
+rftools:featherFallingEModuleItem, Feather Falling Module
+rftools:featherFallingPlusEModuleItem, Feather Falling Plus Module
+rftools:flightEModuleItem, Flight Module
+rftools:peacefulEModuleItem, Peaceful Module
+rftools:waterBreathingEModuleItem, Water Breathing Module
+rftools:nightVisionEModuleItem, Night Vision Module
+rftools:blindnessEModuleItem, Blindness Module
+rftools:weaknessEModuleItem, Weakness Module
+rftools:poisonEModuleItem, Poison Module
+rftools:slownessEModuleItem, Slowness Module
+rftools:textModuleItem, Text Module
+rftools:inventoryModuleItem, Inventory Module
+rftools:inventoryPlusModuleItem, Inventory Plus Module
+rftools:energyModuleItem, Energy Module
+rftools:energyPlusModuleItem, Energy Plus Module
+rftools:dimensionModuleItem, Dimension Module
+rftools:clockModuleItem, Clock Module
+rftools:fluidModuleItem, Fluid Module
+rftools:fluidPlusModuleItem, Fluid Plus Module
+rftools:counterModuleItem, Counter Module
+rftools:counterPlusModuleItem, Counter Plus Module
+rftools:redstoneModuleItem, Redstone Module
+rftools:machineInformationModuleItem, Machine Information Module
+rftools:computerModuleItem, Computer Module
+rftools:buttonModuleItem, Button Module
+rftools:unknownDimlet, Unknown Dimlet
+rftools:dimletTemplate, Dimlet Template
+rftools:emptyDimensionTab, Empty Dimension Tab
+rftools:realizedDimensionTab, Realized Dimension Tab
+rftools:dimensionMonitorItem, Dimension Monitor
+rftools:phasedFieldGeneratorItem, Phased Field Generator
+rftools:dimensionalShardItem, Dimensional Shard
+rftools:infusedDiamondItem, Infused Diamond
+rftools:dimletBaseItem, Dimlet Base Part
+rftools:dimletControlCircuitItem:0, Dimlet Control Circuit Rarity 0
+rftools:dimletControlCircuitItem:1, Dimlet Control Circuit Rarity 1
+rftools:dimletControlCircuitItem:2, Dimlet Control Circuit Rarity 2
+rftools:dimletControlCircuitItem:3, Dimlet Control Circuit Rarity 3
+rftools:dimletControlCircuitItem:4, Dimlet Control Circuit Rarity 4
+rftools:dimletControlCircuitItem:5, Dimlet Control Circuit Rarity 5
+rftools:dimletControlCircuitItem:6, Dimlet Control Circuit Rarity 6
+rftools:dimletEnergyModuleItem:0, Dimlet Basic Energy Module
+rftools:dimletEnergyModuleItem:1, Dimlet Regular Energy Module
+rftools:dimletEnergyModuleItem:2, Dimlet Advanced Energy Module
+rftools:dimletMemoryUnitItem:0, Dimlet Basic Memory Unit
+rftools:dimletMemoryUnitItem:1, Dimlet Regular Memory Unit
+rftools:dimletMemoryUnitItem:2, Dimlet Advanced Memory Unit
+rftools:dimletTypeControllerItem:0, Dimlet Biome Type Controller
+rftools:dimletTypeControllerItem:2, Dimlet Liquid Type Controller
+rftools:dimletTypeControllerItem:3, Dimlet Material Type Controller
+rftools:dimletTypeControllerItem:4, Dimlet Mob Type Controller
+rftools:dimletTypeControllerItem:5, Dimlet Sky Type Controller
+rftools:dimletTypeControllerItem:6, Dimlet Structure Type Controller
+rftools:dimletTypeControllerItem:7, Dimlet Terrain Type Controller
+rftools:dimletTypeControllerItem:8, Dimlet Feature Type Controller
+rftools:dimletTypeControllerItem:9, Dimlet Time Type Controller
+rftools:dimletTypeControllerItem:11, Dimlet Effect Type Controller
+rftools:dimletTypeControllerItem:12, Dimlet Special Type Controller
+rftools:dimletTypeControllerItem:13, Dimlet Controller Type Controller
+rftools:dimletTypeControllerItem:14, Dimlet Weather Type Controller
+rftools:dimletTypeControllerItem:15, item.DimletTypeControllerPatreon.name
+rftools:syringeItem, Syringe
+rftools:peaceEssenceItem, Peace Essence
+rftools:efficiencyEssenceItem, Efficiency Essence
+rftools:mediocreEfficiencyEssenceItem, Mediocre Efficiency Essence
+rftools:structureEssenceItem:1, Structure Village Essence
+rftools:structureEssenceItem:2, Structure Stronghold Essence
+rftools:structureEssenceItem:3, Structure Dungeon Essence
+rftools:structureEssenceItem:4, Structure Fortress Essence
+rftools:structureEssenceItem:5, Structure Mineshaft Essence
+rftools:structureEssenceItem:6, Structure Scattered Essence
+rftools:storageModuleTabletItem, Storage Module Tablet
+rftools:storageModuleItem:0, Storage Module Tier 1
+rftools:storageModuleItem:1, Storage Module Tier 2
+rftools:storageModuleItem:2, Storage Module Tier 3
+rftools:storageModuleItem:6, Remote Storage Module
+rftools:dimletTypeItem, Dimlet Storage Module
+rftools:oreDictTypeItem, Ore Dictionary Storage Module
+rftools:genericTypeItem, Generic Storage Module
+rftools:storageFilterItem, Storage Filter Module
+rftools:orphaningCardItem, Orphaning Card
+rftools:securityCardItem, Security Card
 rivalrebels:rivalrebelsitem0, item.rivalrebelsitem0.name
 rivalrebels:rivalrebelsitem1, item.rivalrebelsitem1.name
 rivalrebels:rivalrebelsitem2, item.rivalrebelsitem2.name
@@ -15302,274 +15470,6 @@ ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
-ThermalDynamics:cover:0, Mud Cover
-ThermalDynamics:cover:0, Quicksand Cover
-ThermalDynamics:cover:0, Dried Dirt Cover
-ThermalDynamics:cover:0, Limestone Cover
-ThermalDynamics:cover:0, Polished Limestone Cover
-ThermalDynamics:cover:0, Siltstone Cover
-ThermalDynamics:cover:0, Polished Siltstone Cover
-ThermalDynamics:cover:0, Shale Cover
-ThermalDynamics:cover:0, Polished Shale Cover
-ThermalDynamics:cover:0, Ash Block Cover
-ThermalDynamics:cover:0, Flesh Cover
-ThermalDynamics:cover:0, Dead Grass Cover
-ThermalDynamics:cover:0, Desert Grass Cover
-ThermalDynamics:cover:0, Desert Sprouts Cover
-ThermalDynamics:cover:0, Dune Grass Cover
-ThermalDynamics:cover:0, Spectral Fern Cover
-ThermalDynamics:cover:0, Thorns Cover
-ThermalDynamics:cover:0, Wild Rice Cover
-ThermalDynamics:cover:0, Cattail Cover
-ThermalDynamics:cover:0, River Cane Cover
-ThermalDynamics:cover:0, Tiny Cactus Cover
-ThermalDynamics:cover:0, Wither Wart Cover
-ThermalDynamics:cover:0, Reed Cover
-ThermalDynamics:cover:0, Root Cover
-ThermalDynamics:cover:0, Clover Cover
-ThermalDynamics:cover:0, Swampflower Cover
-ThermalDynamics:cover:0, Deathbloom Cover
-ThermalDynamics:cover:0, Glowflower Cover
-ThermalDynamics:cover:0, Blue Hydrangea Cover
-ThermalDynamics:cover:0, Orange Cosmos Cover
-ThermalDynamics:cover:0, Pink Daffodil Cover
-ThermalDynamics:cover:0, Wildflower Cover
-ThermalDynamics:cover:0, Violet Cover
-ThermalDynamics:cover:0, White Anemone Cover
-ThermalDynamics:cover:0, Waterlily Cover
-ThermalDynamics:cover:0, Enderlotus Cover
-ThermalDynamics:cover:0, Bromeliad Cover
-ThermalDynamics:cover:0, Eyebulb Cover
-ThermalDynamics:cover:0, Dandelion Puff Cover
-ThermalDynamics:cover:0, Pink Hibiscus Cover
-ThermalDynamics:cover:0, Lily of the Valley Cover
-ThermalDynamics:cover:0, Burning Blossom Cover
-ThermalDynamics:cover:0, Lavender Cover
-ThermalDynamics:cover:0, Goldenrod Cover
-ThermalDynamics:cover:0, Bluebells Cover
-ThermalDynamics:cover:0, Miner's Delight Cover
-ThermalDynamics:cover:0, Icy Iris Cover
-ThermalDynamics:cover:0, Rose Cover
-ThermalDynamics:cover:0, Stalagmite Cover
-ThermalDynamics:cover:0, Stalactite Cover
-ThermalDynamics:cover:0, Toadstool Cover
-ThermalDynamics:cover:0, Portobello Cover
-ThermalDynamics:cover:0, Blue Milk Cap Cover
-ThermalDynamics:cover:0, Glowshroom Cover
-ThermalDynamics:cover:0, Flat Mushroom Cover
-ThermalDynamics:cover:0, Shadow Shroom Cover
-ThermalDynamics:cover:0, Willow Cover
-ThermalDynamics:cover:0, Ivy Cover
-ThermalDynamics:cover:0, Tree Moss Cover
-ThermalDynamics:cover:0, Flowering Vines Cover
-ThermalDynamics:cover:0, Wisteria Cover
-ThermalDynamics:cover:0, Medium Lily Pad Cover
-ThermalDynamics:cover:0, Small Lily Pad Cover
-ThermalDynamics:cover:0, Tiny Lily Pad Cover
-ThermalDynamics:cover:0, Duckweed Cover
-ThermalDynamics:cover:0, Short Grass Cover
-ThermalDynamics:cover:0, Medium Grass Cover
-ThermalDynamics:cover:0, Flax Cover
-ThermalDynamics:cover:0, Bush Cover
-ThermalDynamics:cover:0, Sprout Cover
-ThermalDynamics:cover:0, Poison Ivy Cover
-ThermalDynamics:cover:0, Berry Bush Cover
-ThermalDynamics:cover:0, Shrub Cover
-ThermalDynamics:cover:0, Wheat Grass Cover
-ThermalDynamics:cover:0, Damp Grass Cover
-ThermalDynamics:cover:0, Koru Cover
-ThermalDynamics:cover:0, Clover Patch Cover
-ThermalDynamics:cover:0, Leaf Pile Cover
-ThermalDynamics:cover:0, Dead Leaf Pile Cover
-ThermalDynamics:cover:0, Turnip Cover
-ThermalDynamics:cover:0, Kelp Cover
-ThermalDynamics:cover:0, Pink Coral Cover
-ThermalDynamics:cover:0, Orange Coral Cover
-ThermalDynamics:cover:0, Blue Coral Cover
-ThermalDynamics:cover:0, Glowing Coral Cover
-ThermalDynamics:cover:0, Algae Cover
-ThermalDynamics:cover:0, Ash Stone Cover
-ThermalDynamics:cover:0, Hardened Ice Cover
-ThermalDynamics:cover:0, Apple Leaves Cover
-ThermalDynamics:cover:0, Persimmon Leaves Cover
-ThermalDynamics:cover:0, Moss Cover
-ThermalDynamics:cover:0, Bamboo Cover
-ThermalDynamics:cover:0, Mud Bricks Cover
-ThermalDynamics:cover:0, Origin Grass Block Cover
-ThermalDynamics:cover:0, Long Grass Block Cover
-ThermalDynamics:cover:0, Overgrown Netherrack Cover
-ThermalDynamics:cover:0, Spectral Moss Cover
-ThermalDynamics:cover:0, Smoldering Grass Block Cover
-ThermalDynamics:cover:0, Loamy Grass Block Cover
-ThermalDynamics:cover:0, Sandy Grass Block Cover
-ThermalDynamics:cover:0, Silty Grass Block Cover
-ThermalDynamics:cover:0, Loamy Dirt Cover
-ThermalDynamics:cover:0, Coarse Loamy Dirt Cover
-ThermalDynamics:cover:0, Sandy Dirt Cover
-ThermalDynamics:cover:0, Coarse Sandy Dirt Cover
-ThermalDynamics:cover:0, Silty Dirt Cover
-ThermalDynamics:cover:0, Coarse Silty Dirt Cover
-ThermalDynamics:cover:0, Loamy Farmland Cover
-ThermalDynamics:cover:0, Loamy Farmland Cover
-ThermalDynamics:cover:0, Sandy Farmland Cover
-ThermalDynamics:cover:0, Loamy Farmland Cover
-ThermalDynamics:cover:0, Loamy Farmland Cover
-ThermalDynamics:cover:0, Loamy Farmland Cover
-ThermalDynamics:cover:0, Sacred Oak Wood Cover
-ThermalDynamics:cover:0, Cherry Wood Cover
-ThermalDynamics:cover:0, Dark Wood Cover
-ThermalDynamics:cover:0, Fir Wood Cover
-ThermalDynamics:cover:0, Ethereal Wood Cover
-ThermalDynamics:cover:0, Magic Wood Cover
-ThermalDynamics:cover:0, Mangrove Wood Cover
-ThermalDynamics:cover:0, Palm Wood Cover
-ThermalDynamics:cover:0, Redwood Wood Cover
-ThermalDynamics:cover:0, Willow Wood Cover
-ThermalDynamics:cover:0, Dead Wood Cover
-ThermalDynamics:cover:0, Giant Flower Stem Cover
-ThermalDynamics:cover:0, Pine Wood Cover
-ThermalDynamics:cover:0, Hellbark Wood Cover
-ThermalDynamics:cover:0, Jacaranda Wood Cover
-ThermalDynamics:cover:0, Mahogany Wood Cover
-ThermalDynamics:cover:0, Yellow Autumn Leaves Cover
-ThermalDynamics:cover:0, Bamboo Leaves Cover
-ThermalDynamics:cover:0, Magic Leaves Cover
-ThermalDynamics:cover:0, Dark Leaves Cover
-ThermalDynamics:cover:0, Dying Leaves Cover
-ThermalDynamics:cover:0, Fir Leaves Cover
-ThermalDynamics:cover:0, Ethereal Leaves Cover
-ThermalDynamics:cover:0, Orange Autumn Leaves Cover
-ThermalDynamics:cover:0, Origin Leaves Cover
-ThermalDynamics:cover:0, Pink Cherry Leaves Cover
-ThermalDynamics:cover:0, Maple Leaves Cover
-ThermalDynamics:cover:0, White Cherry Leaves Cover
-ThermalDynamics:cover:0, Hellbark Leaves Cover
-ThermalDynamics:cover:0, Jacaranda Leaves Cover
-ThermalDynamics:cover:0, Giant Red Flower Cover
-ThermalDynamics:cover:0, Giant Yellow Flower Cover
-ThermalDynamics:cover:0, Apple Sapling Cover
-ThermalDynamics:cover:0, Yellow Autumn Sapling Cover
-ThermalDynamics:cover:0, Bamboo Sapling Cover
-ThermalDynamics:cover:0, Magic Sapling Cover
-ThermalDynamics:cover:0, Dark Sapling Cover
-ThermalDynamics:cover:0, Dying Sapling Cover
-ThermalDynamics:cover:0, Fir Sapling Cover
-ThermalDynamics:cover:0, Ethereal Sapling Cover
-ThermalDynamics:cover:0, Orange Autumn Sapling Cover
-ThermalDynamics:cover:0, Origin Sapling Cover
-ThermalDynamics:cover:0, Pink Cherry Sapling Cover
-ThermalDynamics:cover:0, Maple Sapling Cover
-ThermalDynamics:cover:0, White Cherry Sapling Cover
-ThermalDynamics:cover:0, Hellbark Sapling Cover
-ThermalDynamics:cover:0, Jacaranda Sapling Cover
-ThermalDynamics:cover:0, Persimmon Sapling Cover
-ThermalDynamics:cover:0, Sacred Oak Sapling Cover
-ThermalDynamics:cover:0, Mangrove Sapling Cover
-ThermalDynamics:cover:0, Palm Sapling Cover
-ThermalDynamics:cover:0, Redwood Sapling Cover
-ThermalDynamics:cover:0, Willow Sapling Cover
-ThermalDynamics:cover:0, Pine Sapling Cover
-ThermalDynamics:cover:0, Mahogany Sapling Cover
-ThermalDynamics:cover:0, Flowering Oak Sapling Cover
-ThermalDynamics:cover:0, Hardened Sand Cover
-ThermalDynamics:cover:0, Hardened Dirt Cover
-ThermalDynamics:cover:0, Biome Essence Ore Cover
-ThermalDynamics:cover:0, Celestial Crystal Cover
-ThermalDynamics:cover:0, Ender Amethyst Ore Cover
-ThermalDynamics:cover:0, Block of Amethyst Cover
-ThermalDynamics:cover:0, Ruby Ore Cover
-ThermalDynamics:cover:0, Block of Ruby Cover
-ThermalDynamics:cover:0, Peridot Ore Cover
-ThermalDynamics:cover:0, Block of Peridot Cover
-ThermalDynamics:cover:0, Topaz Ore Cover
-ThermalDynamics:cover:0, Block of Topaz Cover
-ThermalDynamics:cover:0, Tanzanite Ore Cover
-ThermalDynamics:cover:0, Block of Tanzanite Cover
-ThermalDynamics:cover:0, Malachite Ore Cover
-ThermalDynamics:cover:0, Block of Malachite Cover
-ThermalDynamics:cover:0, Sapphire Ore Cover
-ThermalDynamics:cover:0, Block of Sapphire Cover
-ThermalDynamics:cover:0, Amber Ore Cover
-ThermalDynamics:cover:0, Block of Amber Cover
-ThermalDynamics:cover:0, Crag Rock Cover
-ThermalDynamics:cover:0, Honeycomb Block Cover
-ThermalDynamics:cover:0, Hive Block Cover
-ThermalDynamics:cover:0, Empty Honeycomb Block Cover
-ThermalDynamics:cover:0, Filled Honeycomb Block Cover
-ThermalDynamics:cover:0, Honey Block Cover
-ThermalDynamics:cover:0, Small Bone Segment Cover
-ThermalDynamics:cover:0, Medium Bone Segment Cover
-ThermalDynamics:cover:0, Large Bone Segment Cover
-ThermalDynamics:cover:0, Gravestone Cover
-ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
-ThermalDynamics:cover:0, Cherry Wood Planks Cover
-ThermalDynamics:cover:0, Dark Wood Planks Cover
-ThermalDynamics:cover:0, Fir Wood Planks Cover
-ThermalDynamics:cover:0, Ethereal Wood Planks Cover
-ThermalDynamics:cover:0, Magic Wood Planks Cover
-ThermalDynamics:cover:0, Mangrove Wood Planks Cover
-ThermalDynamics:cover:0, Palm Wood Planks Cover
-ThermalDynamics:cover:0, Redwood Wood Planks Cover
-ThermalDynamics:cover:0, Willow Wood Planks Cover
-ThermalDynamics:cover:0, Bamboo Thatching Cover
-ThermalDynamics:cover:0, Pine Wood Planks Cover
-ThermalDynamics:cover:0, Hellbark Wood Planks Cover
-ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
-ThermalDynamics:cover:0, Mahogany Wood Planks Cover
-ThermalDynamics:cover:0, Sacred Oak Wood Slab Cover
-ThermalDynamics:cover:0, Cherry Wood Slab Cover
-ThermalDynamics:cover:0, Dark Wood Slab Cover
-ThermalDynamics:cover:0, Fir Wood Slab Cover
-ThermalDynamics:cover:0, Ethereal Wood Slab Cover
-ThermalDynamics:cover:0, Magic Wood Slab Cover
-ThermalDynamics:cover:0, Mangrove Wood Slab Cover
-ThermalDynamics:cover:0, Palm Wood Slab Cover
-ThermalDynamics:cover:0, Sacred Oak Wood Slab Cover
-ThermalDynamics:cover:0, Cherry Wood Slab Cover
-ThermalDynamics:cover:0, Dark Wood Slab Cover
-ThermalDynamics:cover:0, Fir Wood Slab Cover
-ThermalDynamics:cover:0, Ethereal Wood Slab Cover
-ThermalDynamics:cover:0, Magic Wood Slab Cover
-ThermalDynamics:cover:0, Mangrove Wood Slab Cover
-ThermalDynamics:cover:0, Palm Wood Slab Cover
-ThermalDynamics:cover:0, Redwood Wood Slab Cover
-ThermalDynamics:cover:0, Willow Wood Slab Cover
-ThermalDynamics:cover:0, Pine Wood Slab Cover
-ThermalDynamics:cover:0, Hellbark Wood Slab Cover
-ThermalDynamics:cover:0, Jacaranda Wood Slab Cover
-ThermalDynamics:cover:0, Redwood Wood Slab Cover
-ThermalDynamics:cover:0, Willow Wood Slab Cover
-ThermalDynamics:cover:0, Pine Wood Slab Cover
-ThermalDynamics:cover:0, Hellbark Wood Slab Cover
-ThermalDynamics:cover:0, Jacaranda Wood Slab Cover
-ThermalDynamics:cover:0, Mud Bricks Slab Cover
-ThermalDynamics:cover:0, Mud Bricks Slab Cover
-ThermalDynamics:cover:0, Sacred Oak Wood Stairs Cover
-ThermalDynamics:cover:0, Cherry Wood Stairs Cover
-ThermalDynamics:cover:0, Dark Wood Stairs Cover
-ThermalDynamics:cover:0, Fir Wood Stairs Cover
-ThermalDynamics:cover:0, Ethereal Wood Stairs Cover
-ThermalDynamics:cover:0, Magic Wood Stairs Cover
-ThermalDynamics:cover:0, Mangrove Wood Stairs Cover
-ThermalDynamics:cover:0, Palm Wood Stairs Cover
-ThermalDynamics:cover:0, Redwood Wood Stairs Cover
-ThermalDynamics:cover:0, Willow Wood Stairs Cover
-ThermalDynamics:cover:0, Pine Wood Stairs Cover
-ThermalDynamics:cover:0, Hellbark Wood Stairs Cover
-ThermalDynamics:cover:0, Jacaranda Wood Stairs Cover
-ThermalDynamics:cover:0, Mahogany Wood Stairs Cover
-ThermalDynamics:cover:0, Mud Bricks Stairs Cover
-ThermalDynamics:cover:0, Sacred Oak Leaves Cover
-ThermalDynamics:cover:0, Mangrove Leaves Cover
-ThermalDynamics:cover:0, Palm Leaves Cover
-ThermalDynamics:cover:0, Redwood Leaves Cover
-ThermalDynamics:cover:0, Willow Leaves Cover
-ThermalDynamics:cover:0, Pine Leaves Cover
-ThermalDynamics:cover:0, Mahogany Leaves Cover
-ThermalDynamics:cover:0, Flowering Oak Leaves Cover
-ThermalDynamics:cover:0, Poison Cover
-ThermalDynamics:cover:0, Blood Cover
-ThermalDynamics:cover:0, Honey Cover
 ThermalDynamics:cover:0, Blood Rune Cover
 ThermalDynamics:cover:0, Rune of Augmented Capacity Cover
 ThermalDynamics:cover:0, Rune of Dislocation Cover
@@ -16139,6 +16039,279 @@ ThermalDynamics:cover:0, Yellow Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Yellow Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Green Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Green Portuguese Pavement Slab Cover
+ThermalDynamics:cover:0, Compressed Crafting Table Cover
+ThermalDynamics:cover:0, Double Compressed Crafting Table Cover
+ThermalDynamics:cover:0, Crystal Matrix Cover
+ThermalDynamics:cover:0, Neutronium Block Cover
+ThermalDynamics:cover:0, Infinity Block Cover
+ThermalDynamics:cover:0, Mud Cover
+ThermalDynamics:cover:0, Quicksand Cover
+ThermalDynamics:cover:0, Dried Dirt Cover
+ThermalDynamics:cover:0, Limestone Cover
+ThermalDynamics:cover:0, Polished Limestone Cover
+ThermalDynamics:cover:0, Siltstone Cover
+ThermalDynamics:cover:0, Polished Siltstone Cover
+ThermalDynamics:cover:0, Shale Cover
+ThermalDynamics:cover:0, Polished Shale Cover
+ThermalDynamics:cover:0, Ash Block Cover
+ThermalDynamics:cover:0, Flesh Cover
+ThermalDynamics:cover:0, Dead Grass Cover
+ThermalDynamics:cover:0, Desert Grass Cover
+ThermalDynamics:cover:0, Desert Sprouts Cover
+ThermalDynamics:cover:0, Dune Grass Cover
+ThermalDynamics:cover:0, Spectral Fern Cover
+ThermalDynamics:cover:0, Thorns Cover
+ThermalDynamics:cover:0, Wild Rice Cover
+ThermalDynamics:cover:0, Cattail Cover
+ThermalDynamics:cover:0, River Cane Cover
+ThermalDynamics:cover:0, Tiny Cactus Cover
+ThermalDynamics:cover:0, Wither Wart Cover
+ThermalDynamics:cover:0, Reed Cover
+ThermalDynamics:cover:0, Root Cover
+ThermalDynamics:cover:0, Clover Cover
+ThermalDynamics:cover:0, Swampflower Cover
+ThermalDynamics:cover:0, Deathbloom Cover
+ThermalDynamics:cover:0, Glowflower Cover
+ThermalDynamics:cover:0, Blue Hydrangea Cover
+ThermalDynamics:cover:0, Orange Cosmos Cover
+ThermalDynamics:cover:0, Pink Daffodil Cover
+ThermalDynamics:cover:0, Wildflower Cover
+ThermalDynamics:cover:0, Violet Cover
+ThermalDynamics:cover:0, White Anemone Cover
+ThermalDynamics:cover:0, Waterlily Cover
+ThermalDynamics:cover:0, Enderlotus Cover
+ThermalDynamics:cover:0, Bromeliad Cover
+ThermalDynamics:cover:0, Eyebulb Cover
+ThermalDynamics:cover:0, Dandelion Puff Cover
+ThermalDynamics:cover:0, Pink Hibiscus Cover
+ThermalDynamics:cover:0, Lily of the Valley Cover
+ThermalDynamics:cover:0, Burning Blossom Cover
+ThermalDynamics:cover:0, Lavender Cover
+ThermalDynamics:cover:0, Goldenrod Cover
+ThermalDynamics:cover:0, Bluebells Cover
+ThermalDynamics:cover:0, Miner's Delight Cover
+ThermalDynamics:cover:0, Icy Iris Cover
+ThermalDynamics:cover:0, Rose Cover
+ThermalDynamics:cover:0, Stalagmite Cover
+ThermalDynamics:cover:0, Stalactite Cover
+ThermalDynamics:cover:0, Toadstool Cover
+ThermalDynamics:cover:0, Portobello Cover
+ThermalDynamics:cover:0, Blue Milk Cap Cover
+ThermalDynamics:cover:0, Glowshroom Cover
+ThermalDynamics:cover:0, Flat Mushroom Cover
+ThermalDynamics:cover:0, Shadow Shroom Cover
+ThermalDynamics:cover:0, Willow Cover
+ThermalDynamics:cover:0, Ivy Cover
+ThermalDynamics:cover:0, Tree Moss Cover
+ThermalDynamics:cover:0, Flowering Vines Cover
+ThermalDynamics:cover:0, Wisteria Cover
+ThermalDynamics:cover:0, Medium Lily Pad Cover
+ThermalDynamics:cover:0, Small Lily Pad Cover
+ThermalDynamics:cover:0, Tiny Lily Pad Cover
+ThermalDynamics:cover:0, Duckweed Cover
+ThermalDynamics:cover:0, Short Grass Cover
+ThermalDynamics:cover:0, Medium Grass Cover
+ThermalDynamics:cover:0, Flax Cover
+ThermalDynamics:cover:0, Bush Cover
+ThermalDynamics:cover:0, Sprout Cover
+ThermalDynamics:cover:0, Poison Ivy Cover
+ThermalDynamics:cover:0, Berry Bush Cover
+ThermalDynamics:cover:0, Shrub Cover
+ThermalDynamics:cover:0, Wheat Grass Cover
+ThermalDynamics:cover:0, Damp Grass Cover
+ThermalDynamics:cover:0, Koru Cover
+ThermalDynamics:cover:0, Clover Patch Cover
+ThermalDynamics:cover:0, Leaf Pile Cover
+ThermalDynamics:cover:0, Dead Leaf Pile Cover
+ThermalDynamics:cover:0, Turnip Cover
+ThermalDynamics:cover:0, Kelp Cover
+ThermalDynamics:cover:0, Pink Coral Cover
+ThermalDynamics:cover:0, Orange Coral Cover
+ThermalDynamics:cover:0, Blue Coral Cover
+ThermalDynamics:cover:0, Glowing Coral Cover
+ThermalDynamics:cover:0, Algae Cover
+ThermalDynamics:cover:0, Ash Stone Cover
+ThermalDynamics:cover:0, Hardened Ice Cover
+ThermalDynamics:cover:0, Apple Leaves Cover
+ThermalDynamics:cover:0, Persimmon Leaves Cover
+ThermalDynamics:cover:0, Moss Cover
+ThermalDynamics:cover:0, Bamboo Cover
+ThermalDynamics:cover:0, Mud Bricks Cover
+ThermalDynamics:cover:0, Origin Grass Block Cover
+ThermalDynamics:cover:0, Long Grass Block Cover
+ThermalDynamics:cover:0, Overgrown Netherrack Cover
+ThermalDynamics:cover:0, Spectral Moss Cover
+ThermalDynamics:cover:0, Smoldering Grass Block Cover
+ThermalDynamics:cover:0, Loamy Grass Block Cover
+ThermalDynamics:cover:0, Sandy Grass Block Cover
+ThermalDynamics:cover:0, Silty Grass Block Cover
+ThermalDynamics:cover:0, Loamy Dirt Cover
+ThermalDynamics:cover:0, Coarse Loamy Dirt Cover
+ThermalDynamics:cover:0, Sandy Dirt Cover
+ThermalDynamics:cover:0, Coarse Sandy Dirt Cover
+ThermalDynamics:cover:0, Silty Dirt Cover
+ThermalDynamics:cover:0, Coarse Silty Dirt Cover
+ThermalDynamics:cover:0, Loamy Farmland Cover
+ThermalDynamics:cover:0, Loamy Farmland Cover
+ThermalDynamics:cover:0, Sandy Farmland Cover
+ThermalDynamics:cover:0, Loamy Farmland Cover
+ThermalDynamics:cover:0, Loamy Farmland Cover
+ThermalDynamics:cover:0, Loamy Farmland Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Cover
+ThermalDynamics:cover:0, Cherry Wood Cover
+ThermalDynamics:cover:0, Dark Wood Cover
+ThermalDynamics:cover:0, Fir Wood Cover
+ThermalDynamics:cover:0, Ethereal Wood Cover
+ThermalDynamics:cover:0, Magic Wood Cover
+ThermalDynamics:cover:0, Mangrove Wood Cover
+ThermalDynamics:cover:0, Palm Wood Cover
+ThermalDynamics:cover:0, Redwood Wood Cover
+ThermalDynamics:cover:0, Willow Wood Cover
+ThermalDynamics:cover:0, Dead Wood Cover
+ThermalDynamics:cover:0, Giant Flower Stem Cover
+ThermalDynamics:cover:0, Pine Wood Cover
+ThermalDynamics:cover:0, Hellbark Wood Cover
+ThermalDynamics:cover:0, Jacaranda Wood Cover
+ThermalDynamics:cover:0, Mahogany Wood Cover
+ThermalDynamics:cover:0, Yellow Autumn Leaves Cover
+ThermalDynamics:cover:0, Bamboo Leaves Cover
+ThermalDynamics:cover:0, Magic Leaves Cover
+ThermalDynamics:cover:0, Dark Leaves Cover
+ThermalDynamics:cover:0, Dying Leaves Cover
+ThermalDynamics:cover:0, Fir Leaves Cover
+ThermalDynamics:cover:0, Ethereal Leaves Cover
+ThermalDynamics:cover:0, Orange Autumn Leaves Cover
+ThermalDynamics:cover:0, Origin Leaves Cover
+ThermalDynamics:cover:0, Pink Cherry Leaves Cover
+ThermalDynamics:cover:0, Maple Leaves Cover
+ThermalDynamics:cover:0, White Cherry Leaves Cover
+ThermalDynamics:cover:0, Hellbark Leaves Cover
+ThermalDynamics:cover:0, Jacaranda Leaves Cover
+ThermalDynamics:cover:0, Giant Red Flower Cover
+ThermalDynamics:cover:0, Giant Yellow Flower Cover
+ThermalDynamics:cover:0, Apple Sapling Cover
+ThermalDynamics:cover:0, Yellow Autumn Sapling Cover
+ThermalDynamics:cover:0, Bamboo Sapling Cover
+ThermalDynamics:cover:0, Magic Sapling Cover
+ThermalDynamics:cover:0, Dark Sapling Cover
+ThermalDynamics:cover:0, Dying Sapling Cover
+ThermalDynamics:cover:0, Fir Sapling Cover
+ThermalDynamics:cover:0, Ethereal Sapling Cover
+ThermalDynamics:cover:0, Orange Autumn Sapling Cover
+ThermalDynamics:cover:0, Origin Sapling Cover
+ThermalDynamics:cover:0, Pink Cherry Sapling Cover
+ThermalDynamics:cover:0, Maple Sapling Cover
+ThermalDynamics:cover:0, White Cherry Sapling Cover
+ThermalDynamics:cover:0, Hellbark Sapling Cover
+ThermalDynamics:cover:0, Jacaranda Sapling Cover
+ThermalDynamics:cover:0, Persimmon Sapling Cover
+ThermalDynamics:cover:0, Sacred Oak Sapling Cover
+ThermalDynamics:cover:0, Mangrove Sapling Cover
+ThermalDynamics:cover:0, Palm Sapling Cover
+ThermalDynamics:cover:0, Redwood Sapling Cover
+ThermalDynamics:cover:0, Willow Sapling Cover
+ThermalDynamics:cover:0, Pine Sapling Cover
+ThermalDynamics:cover:0, Mahogany Sapling Cover
+ThermalDynamics:cover:0, Flowering Oak Sapling Cover
+ThermalDynamics:cover:0, Hardened Sand Cover
+ThermalDynamics:cover:0, Hardened Dirt Cover
+ThermalDynamics:cover:0, Biome Essence Ore Cover
+ThermalDynamics:cover:0, Celestial Crystal Cover
+ThermalDynamics:cover:0, Ender Amethyst Ore Cover
+ThermalDynamics:cover:0, Block of Amethyst Cover
+ThermalDynamics:cover:0, Ruby Ore Cover
+ThermalDynamics:cover:0, Block of Ruby Cover
+ThermalDynamics:cover:0, Peridot Ore Cover
+ThermalDynamics:cover:0, Block of Peridot Cover
+ThermalDynamics:cover:0, Topaz Ore Cover
+ThermalDynamics:cover:0, Block of Topaz Cover
+ThermalDynamics:cover:0, Tanzanite Ore Cover
+ThermalDynamics:cover:0, Block of Tanzanite Cover
+ThermalDynamics:cover:0, Malachite Ore Cover
+ThermalDynamics:cover:0, Block of Malachite Cover
+ThermalDynamics:cover:0, Sapphire Ore Cover
+ThermalDynamics:cover:0, Block of Sapphire Cover
+ThermalDynamics:cover:0, Amber Ore Cover
+ThermalDynamics:cover:0, Block of Amber Cover
+ThermalDynamics:cover:0, Crag Rock Cover
+ThermalDynamics:cover:0, Honeycomb Block Cover
+ThermalDynamics:cover:0, Hive Block Cover
+ThermalDynamics:cover:0, Empty Honeycomb Block Cover
+ThermalDynamics:cover:0, Filled Honeycomb Block Cover
+ThermalDynamics:cover:0, Honey Block Cover
+ThermalDynamics:cover:0, Small Bone Segment Cover
+ThermalDynamics:cover:0, Medium Bone Segment Cover
+ThermalDynamics:cover:0, Large Bone Segment Cover
+ThermalDynamics:cover:0, Gravestone Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Planks Cover
+ThermalDynamics:cover:0, Cherry Wood Planks Cover
+ThermalDynamics:cover:0, Dark Wood Planks Cover
+ThermalDynamics:cover:0, Fir Wood Planks Cover
+ThermalDynamics:cover:0, Ethereal Wood Planks Cover
+ThermalDynamics:cover:0, Magic Wood Planks Cover
+ThermalDynamics:cover:0, Mangrove Wood Planks Cover
+ThermalDynamics:cover:0, Palm Wood Planks Cover
+ThermalDynamics:cover:0, Redwood Wood Planks Cover
+ThermalDynamics:cover:0, Willow Wood Planks Cover
+ThermalDynamics:cover:0, Bamboo Thatching Cover
+ThermalDynamics:cover:0, Pine Wood Planks Cover
+ThermalDynamics:cover:0, Hellbark Wood Planks Cover
+ThermalDynamics:cover:0, Jacaranda Wood Planks Cover
+ThermalDynamics:cover:0, Mahogany Wood Planks Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Slab Cover
+ThermalDynamics:cover:0, Cherry Wood Slab Cover
+ThermalDynamics:cover:0, Dark Wood Slab Cover
+ThermalDynamics:cover:0, Fir Wood Slab Cover
+ThermalDynamics:cover:0, Ethereal Wood Slab Cover
+ThermalDynamics:cover:0, Magic Wood Slab Cover
+ThermalDynamics:cover:0, Mangrove Wood Slab Cover
+ThermalDynamics:cover:0, Palm Wood Slab Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Slab Cover
+ThermalDynamics:cover:0, Cherry Wood Slab Cover
+ThermalDynamics:cover:0, Dark Wood Slab Cover
+ThermalDynamics:cover:0, Fir Wood Slab Cover
+ThermalDynamics:cover:0, Ethereal Wood Slab Cover
+ThermalDynamics:cover:0, Magic Wood Slab Cover
+ThermalDynamics:cover:0, Mangrove Wood Slab Cover
+ThermalDynamics:cover:0, Palm Wood Slab Cover
+ThermalDynamics:cover:0, Redwood Wood Slab Cover
+ThermalDynamics:cover:0, Willow Wood Slab Cover
+ThermalDynamics:cover:0, Pine Wood Slab Cover
+ThermalDynamics:cover:0, Hellbark Wood Slab Cover
+ThermalDynamics:cover:0, Jacaranda Wood Slab Cover
+ThermalDynamics:cover:0, Redwood Wood Slab Cover
+ThermalDynamics:cover:0, Willow Wood Slab Cover
+ThermalDynamics:cover:0, Pine Wood Slab Cover
+ThermalDynamics:cover:0, Hellbark Wood Slab Cover
+ThermalDynamics:cover:0, Jacaranda Wood Slab Cover
+ThermalDynamics:cover:0, Mud Bricks Slab Cover
+ThermalDynamics:cover:0, Mud Bricks Slab Cover
+ThermalDynamics:cover:0, Sacred Oak Wood Stairs Cover
+ThermalDynamics:cover:0, Cherry Wood Stairs Cover
+ThermalDynamics:cover:0, Dark Wood Stairs Cover
+ThermalDynamics:cover:0, Fir Wood Stairs Cover
+ThermalDynamics:cover:0, Ethereal Wood Stairs Cover
+ThermalDynamics:cover:0, Magic Wood Stairs Cover
+ThermalDynamics:cover:0, Mangrove Wood Stairs Cover
+ThermalDynamics:cover:0, Palm Wood Stairs Cover
+ThermalDynamics:cover:0, Redwood Wood Stairs Cover
+ThermalDynamics:cover:0, Willow Wood Stairs Cover
+ThermalDynamics:cover:0, Pine Wood Stairs Cover
+ThermalDynamics:cover:0, Hellbark Wood Stairs Cover
+ThermalDynamics:cover:0, Jacaranda Wood Stairs Cover
+ThermalDynamics:cover:0, Mahogany Wood Stairs Cover
+ThermalDynamics:cover:0, Mud Bricks Stairs Cover
+ThermalDynamics:cover:0, Sacred Oak Leaves Cover
+ThermalDynamics:cover:0, Mangrove Leaves Cover
+ThermalDynamics:cover:0, Palm Leaves Cover
+ThermalDynamics:cover:0, Redwood Leaves Cover
+ThermalDynamics:cover:0, Willow Leaves Cover
+ThermalDynamics:cover:0, Pine Leaves Cover
+ThermalDynamics:cover:0, Mahogany Leaves Cover
+ThermalDynamics:cover:0, Flowering Oak Leaves Cover
+ThermalDynamics:cover:0, Poison Cover
+ThermalDynamics:cover:0, Blood Cover
+ThermalDynamics:cover:0, Honey Cover
 ThermalDynamics:cover:0, Frame Cover
 ThermalDynamics:cover:0, Mining Pipe Cover
 ThermalDynamics:cover:0, Twilight Oak Wood Cover
@@ -18887,6 +19060,25 @@ ThermalDynamics:cover:0, tile.UnstableAntBlock.name Cover
 ThermalDynamics:cover:0, Lilypad of Fertility Cover
 ThermalDynamics:cover:0, §eInterdiction Torch Cover
 ThermalDynamics:cover:0, Wraith Node Cover
+ThermalDynamics:cover:0, Machine Frame Cover
+ThermalDynamics:cover:0, Machine Base Cover
+ThermalDynamics:cover:0, Dimensional Shard Ore Cover
+ThermalDynamics:cover:0, Dimensional Blank Block Cover
+ThermalDynamics:cover:0, Dimensional Block Cover
+ThermalDynamics:cover:0, Dimensional Small Blocks Cover
+ThermalDynamics:cover:0, Dimensional Cross Block Cover
+ThermalDynamics:cover:0, Dimensional Cross 2 Block Cover
+ThermalDynamics:cover:0, Dimensional Pattern 1 Block Cover
+ThermalDynamics:cover:0, Dimensional Pattern 2 Block Cover
+ThermalDynamics:cover:0, Activity Probe Cover
+ThermalDynamics:cover:0, Destination Analyzer Cover
+ThermalDynamics:cover:0, Matter Booster Cover
+ThermalDynamics:cover:0, Shield Template Cover
+ThermalDynamics:cover:0, Shield Template Cover
+ThermalDynamics:cover:0, Shield Template Cover
+ThermalDynamics:cover:0, Shield Template Cover
+ThermalDynamics:cover:0, Space Chamber Corner Block Cover
+ThermalDynamics:cover:0, Support Block Cover
 ThermalDynamics:cover:0, tile.rivalrebels.blocks.0.name Cover
 ThermalDynamics:cover:0, tile.rivalrebels.blocks.1.name Cover
 ThermalDynamics:cover:0, tile.rivalrebels.blocks.2.name Cover
@@ -19140,95 +19332,6 @@ ThermalDynamics:cover:0, Flowing Spirit Cover
 ThermalDynamics:cover:0, Flowing Spirit Cover
 ThermalDynamics:cover:0, Disease Cover
 ThermalDynamics:cover:0, tile.witchery:brew.name Cover
-ThermalDynamics:cover:0, Aether Grass Cover
-ThermalDynamics:cover:0, Enchanted Aether Grass Cover
-ThermalDynamics:cover:0, Aether Dirt Cover
-ThermalDynamics:cover:0, Holystone Cover
-ThermalDynamics:cover:0, Mossy Holystone Cover
-ThermalDynamics:cover:0, Holystone Brick Cover
-ThermalDynamics:cover:0, Cold Aercloud Cover
-ThermalDynamics:cover:0, Blue Aercloud Cover
-ThermalDynamics:cover:0, Golden Aercloud Cover
-ThermalDynamics:cover:0, Aerogel Cover
-ThermalDynamics:cover:0, Quicksoil Cover
-ThermalDynamics:cover:0, Icestone Cover
-ThermalDynamics:cover:0, Ambrosium Ore Cover
-ThermalDynamics:cover:0, Zanite Ore Cover
-ThermalDynamics:cover:0, Gravitite Ore Cover
-ThermalDynamics:cover:0, Enchanted Gravitite Cover
-ThermalDynamics:cover:0, Zanite Block Cover
-ThermalDynamics:cover:0, Skyroot Leaves Cover
-ThermalDynamics:cover:0, Golden Oak Leaves Cover
-ThermalDynamics:cover:0, Crystal Leaves Cover
-ThermalDynamics:cover:0, Crystal Fruit Leaves Cover
-ThermalDynamics:cover:0, Holiday Leaves Cover
-ThermalDynamics:cover:0, Decorated Holiday Leaves Cover
-ThermalDynamics:cover:0, Present Cover
-ThermalDynamics:cover:0, Skyroot Log Cover
-ThermalDynamics:cover:0, Golden Oak Log Cover
-ThermalDynamics:cover:0, Skyroot Planks Cover
-ThermalDynamics:cover:0, Quicksoil Glass Cover
-ThermalDynamics:cover:0, Ambrosium Torch Cover
-ThermalDynamics:cover:0, Berry Bush Stem Cover
-ThermalDynamics:cover:0, Berry Bush Cover
-ThermalDynamics:cover:0, Purple Flower Cover
-ThermalDynamics:cover:0, White Flower Cover
-ThermalDynamics:cover:0, Skyroot Sapling Cover
-ThermalDynamics:cover:0, Golden Oak Sapling Cover
-ThermalDynamics:cover:0, Sun Altar Cover
-ThermalDynamics:cover:0, Aether Portal Cover
-ThermalDynamics:cover:0, Pillar Cover
-ThermalDynamics:cover:0, Pillar Top Cover
-ThermalDynamics:cover:0, Carved Stone Cover
-ThermalDynamics:cover:0, Sentry Stone Cover
-ThermalDynamics:cover:0, Angelic Stone Cover
-ThermalDynamics:cover:0, Light Angelic Stone Cover
-ThermalDynamics:cover:0, Hellfire Stone Cover
-ThermalDynamics:cover:0, Light Hellfire Stone Cover
-ThermalDynamics:cover:0, Carved Stone Cover
-ThermalDynamics:cover:0, Sentry Stone Cover
-ThermalDynamics:cover:0, Angelic Stone Cover
-ThermalDynamics:cover:0, Light Angelic Stone Cover
-ThermalDynamics:cover:0, Hellfire Stone Cover
-ThermalDynamics:cover:0, Light Hellfire Stone Cover
-ThermalDynamics:cover:0, Carved Stone Cover
-ThermalDynamics:cover:0, Angelic Stone Cover
-ThermalDynamics:cover:0, Hellfire Stone Cover
-ThermalDynamics:cover:0, Skyroot Fence Cover
-ThermalDynamics:cover:0, Skyroot Fence Gate Cover
-ThermalDynamics:cover:0, Carved Wall Cover
-ThermalDynamics:cover:0, Angelic Wall Cover
-ThermalDynamics:cover:0, Hellfire Wall Cover
-ThermalDynamics:cover:0, Holystone Wall Cover
-ThermalDynamics:cover:0, Holystone Brick Wall Cover
-ThermalDynamics:cover:0, Mossy Holystone Wall Cover
-ThermalDynamics:cover:0, Aerogel Wall Cover
-ThermalDynamics:cover:0, Carved Stairs Cover
-ThermalDynamics:cover:0, Angelic Stairs Cover
-ThermalDynamics:cover:0, Hellfire Stairs Cover
-ThermalDynamics:cover:0, Skyroot Stairs Cover
-ThermalDynamics:cover:0, Holystone Stairs Cover
-ThermalDynamics:cover:0, Holystone Brick Stairs Cover
-ThermalDynamics:cover:0, Mossy Holystone Stairs Cover
-ThermalDynamics:cover:0, Aerogel Stairs Cover
-ThermalDynamics:cover:0, Skyroot Double Slab Cover
-ThermalDynamics:cover:0, Carved Double Slab Cover
-ThermalDynamics:cover:0, Angelic Double Slab Cover
-ThermalDynamics:cover:0, Hellfire Double Slab Cover
-ThermalDynamics:cover:0, Holystone Double Slab Cover
-ThermalDynamics:cover:0, Mossy Holystone Double Slab Cover
-ThermalDynamics:cover:0, Holystone Brick Double Slab Cover
-ThermalDynamics:cover:0, Aerogel Double Slab Cover
-ThermalDynamics:cover:0, Skyroot Slab Cover
-ThermalDynamics:cover:0, Carved Slab Cover
-ThermalDynamics:cover:0, Angelic Slab Cover
-ThermalDynamics:cover:0, Hellfire Slab Cover
-ThermalDynamics:cover:0, Holystone Slab Cover
-ThermalDynamics:cover:0, Mossy Holystone Slab Cover
-ThermalDynamics:cover:0, Holystone Brick Slab Cover
-ThermalDynamics:cover:0, Aerogel Slab Cover
-ThermalDynamics:cover:0, Skyroot Bookshelf Cover
-ThermalDynamics:cover:0, Skyroot Bed Cover
 ThermalDynamics:retriever:0, Retriever
 ThermalDynamics:retriever:1, Hardened Retriever
 ThermalDynamics:retriever:2, Reinforced Retriever
@@ -19522,143 +19625,3 @@ ForgeMicroblock:sawStone, Stone Saw
 ForgeMicroblock:sawIron, Iron Saw
 ForgeMicroblock:sawDiamond, Diamond Saw
 ForgeMicroblock:stoneRod, Stone Rod
-aether_legacy:zanite_gemstone, Zanite Gemstone
-aether_legacy:ambrosium_shard, Ambrosium Shard
-aether_legacy:golden_amber, Golden Amber
-aether_legacy:aechor_petal, Aechor Petal
-aether_legacy:swet_ball, Swet Ball
-aether_legacy:skyroot_pickaxe, Skyroot Pickaxe
-aether_legacy:skyroot_axe, Skyroot Axe
-aether_legacy:skyroot_shovel, Skyroot Shovel
-aether_legacy:holystone_pickaxe, Holystone Pickaxe
-aether_legacy:holystone_axe, Holystone Axe
-aether_legacy:holystone_shovel, Holystone Shovel
-aether_legacy:zanite_pickaxe, Zanite Pickaxe
-aether_legacy:zanite_axe, Zanite Axe
-aether_legacy:zanite_shovel, Zanite Shovel
-aether_legacy:gravitite_pickaxe, Gravitite Pickaxe
-aether_legacy:gravitite_axe, Gravitite Axe
-aether_legacy:gravitite_shovel, Gravitite Shovel
-aether_legacy:valkyrie_pickaxe, Valkyrie Pickaxe
-aether_legacy:valkyrie_axe, Valkyrie Axe
-aether_legacy:valkyrie_shovel, Valkyrie Shovel
-aether_legacy:zanite_helmet, Zanite Helmet
-aether_legacy:zanite_chestplate, Zanite Chestplate
-aether_legacy:zanite_leggings, Zanite Leggings
-aether_legacy:zanite_boots, Zanite Boots
-aether_legacy:gravitite_helmet, Gravitite Helmet
-aether_legacy:gravitite_chestplate, Gravitite Chestplate
-aether_legacy:gravitite_leggings, Gravitite Leggings
-aether_legacy:gravitite_boots, Gravitite Boots
-aether_legacy:neptune_helmet, Neptune Helmet
-aether_legacy:neptune_chestplate, Neptune Chestplate
-aether_legacy:neptune_leggings, Neptune Leggings
-aether_legacy:neptune_boots, Neptune Boots
-aether_legacy:phoenix_helmet, Phoenix Helmet
-aether_legacy:phoenix_chestplate, Phoenix Chestplate
-aether_legacy:phoenix_leggings, Phoenix Leggings
-aether_legacy:phoenix_boots, Phoenix Boots
-aether_legacy:obsidian_helmet, Obsidian Helmet
-aether_legacy:obsidian_chestplate, Obsidian Chestplate
-aether_legacy:obsidian_leggings, Obsidian Leggings
-aether_legacy:obsidian_boots, Obsidian Boots
-aether_legacy:valkyrie_helmet, Valkyrie Helmet
-aether_legacy:valkyrie_chestplate, Valkyrie Chestplate
-aether_legacy:valkyrie_leggings, Valkyrie Leggings
-aether_legacy:valkyrie_boots, Valkyrie Boots
-aether_legacy:blueberry, Blue Berry
-aether_legacy:enchanted_blueberry, Enchanted Berry
-aether_legacy:white_apple, White Apple
-aether_legacy:gummy_swet:0, Blue Gummy Swet
-aether_legacy:gummy_swet:1, Golden Gummy Swet
-aether_legacy:healing_stone, Healing Stone
-aether_legacy:candy_cane, Candy Cane
-aether_legacy:gingerbread_man, Gingerbread Man
-aether_legacy:skyroot_stick, Skyroot Stick
-aether_legacy:victory_medal, Victory Medal
-aether_legacy:dungeon_key:0, Bronze Key
-aether_legacy:dungeon_key:1, Silver Key
-aether_legacy:dungeon_key:2, Golden Key
-aether_legacy:skyroot_bucket:0, Skyroot Bucket
-aether_legacy:skyroot_bucket:1, Skyroot Water Bucket
-aether_legacy:skyroot_bucket:2, Skyroot Poison Bucket
-aether_legacy:skyroot_bucket:3, Skyroot Remedy Bucket
-aether_legacy:skyroot_bucket:4, Skyroot Milk Bucket
-aether_legacy:cold_parachute, Cold Parachute
-aether_legacy:golden_parachute, Golden Parachute
-aether_legacy:moa_egg, item.moa_egg.name
-aether_legacy:dart_shooter:0, Golden Dart Shooter
-aether_legacy:dart_shooter:1, Poison Dart Shooter
-aether_legacy:dart_shooter:2, Enchanted Dart Shooter
-aether_legacy:phoenix_bow, Phoenix Bow
-aether_legacy:dart:0, Golden Dart
-aether_legacy:dart:1, Poison Dart
-aether_legacy:dart:2, Enchanted Dart
-aether_legacy:skyroot_sword, Skyroot Sword
-aether_legacy:holystone_sword, Holystone Sword
-aether_legacy:zanite_sword, Zanite Sword
-aether_legacy:gravitite_sword, Gravitite Sword
-aether_legacy:flaming_sword, Flaming Sword
-aether_legacy:lightning_sword, Lightning Sword
-aether_legacy:holy_sword, Holy Sword
-aether_legacy:vampire_blade, Vampire Blade
-aether_legacy:pig_slayer, Pig Slayer
-aether_legacy:candy_cane_sword, Candy Cane Sword
-aether_legacy:notch_hammer, Hammer of Notch
-aether_legacy:leather_gloves, Leather Gloves
-aether_legacy:iron_gloves, Iron Gloves
-aether_legacy:golden_gloves, Golden Gloves
-aether_legacy:chain_gloves, Chain Gloves
-aether_legacy:diamond_gloves, Diamond Gloves
-aether_legacy:zanite_gloves, Zanite Gloves
-aether_legacy:gravitite_gloves, Gravitite Gloves
-aether_legacy:neptune_gloves, Neptune Gloves
-aether_legacy:phoenix_gloves, Phoenix Gloves
-aether_legacy:obsidian_gloves, Obsidian Gloves
-aether_legacy:valkyrie_gloves, Valkyrie Gloves
-aether_legacy:iron_ring, Iron Ring
-aether_legacy:golden_ring, Golden Ring
-aether_legacy:zanite_ring, Zanite Ring
-aether_legacy:ice_ring, Ice Ring
-aether_legacy:iron_pendant, Iron Pendant
-aether_legacy:golden_pendant, Golden Pendant
-aether_legacy:zanite_pendant, Zanite Pendant
-aether_legacy:ice_pendant, Ice Pendant
-aether_legacy:red_cape, Red Cape
-aether_legacy:blue_cape, Blue Cape
-aether_legacy:yellow_cape, Yellow Cape
-aether_legacy:white_cape, White Cape
-aether_legacy:swet_cape, Swet Cape
-aether_legacy:invisibility_cape, Invisibility Cloak
-aether_legacy:agility_cape, Agility Cape
-aether_legacy:valkyrie_cape, Valkyrie Cape
-aether_legacy:golden_feather, Golden Feather
-aether_legacy:regeneration_stone, Regeneration Stone
-aether_legacy:iron_bubble, Iron Bubble
-aether_legacy:life_shard, Life Shard
-aether_legacy:cloud_staff, Cloud Staff
-aether_legacy:nature_staff, Nature Staff
-aether_legacy:lightning_knife, Lightning Knife
-aether_legacy:valkyrie_lance, Valkyrie Lance
-aether_legacy:sentry_boots, Sentry Boots
-aether_legacy:aether_tune, Blue Music Disc
-aether_legacy:ascending_dawn, Valkyrie Music Disc
-aether_legacy:welcoming_skies, Welcoming Skies
-aether_legacy:legacy, Legacy
-aether_legacy:repulsion_shield, Shield of Repulsion
-aether_legacy:lore_book, Book of Lore
-aether_legacy:developer_stick, Developer Stick
-aether_legacy:aether_spawn_egg:0, Spawn Moa
-aether_legacy:aether_spawn_egg:1, Spawn Phyg
-aether_legacy:aether_spawn_egg:2, Spawn Flying Cow
-aether_legacy:aether_spawn_egg:3, Spawn Sheepuff
-aether_legacy:aether_spawn_egg:4, Spawn Aerbunny
-aether_legacy:aether_spawn_egg:5, Spawn Aerwhale
-aether_legacy:aether_spawn_egg:6, Spawn Swet
-aether_legacy:aether_spawn_egg:7, Spawn Cockatrice
-aether_legacy:aether_spawn_egg:8, Spawn Sentry
-aether_legacy:aether_spawn_egg:9, Spawn Zephyr
-aether_legacy:aether_spawn_egg:10, Spawn Aechor Plant
-aether_legacy:aether_spawn_egg:11, Spawn Mimic
-aether_legacy:skyroot_bed_item, Skyroot Bed
-aether_legacy:aether_portal_frame, Aether Portal Frame
