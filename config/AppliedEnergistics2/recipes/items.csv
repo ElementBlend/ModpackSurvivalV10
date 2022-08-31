@@ -407,11 +407,14 @@ ActuallyAdditions:blockQuartzSlab, Black Quartz Slab
 ActuallyAdditions:blockChiseledQuartzSlab, Chiseled Black Quartz Slab
 ActuallyAdditions:blockPillarQuartzSlab, Black Quartz Pillar Slab
 ActuallyAdditions:blockCanolaOil, Canola Oil
-appliedenergistics2:tile.OreQuartz, Certus Quartz Ore
-appliedenergistics2:tile.OreQuartzCharged, Charged Certus Quartz Ore
-appliedenergistics2:tile.BlockMatrixFrame, Matrix Frame
-appliedenergistics2:tile.BlockQuartz, Certus Quartz Block
-appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
+libVulpes:tile.blockPhantom, tile.blockPhantom.name
+libVulpes:blockHatch:0, Input Hatch
+libVulpes:blockHatch:1, Output Hatch
+libVulpes:blockHatch:2, Fluid Input Hatch
+libVulpes:blockHatch:3, Fluid Output Hatch
+libVulpes:blockPlaceholder, Machine
+libVulpes:blockStructureBlock, Machine Structure
+libVulpes:rfBattery, Redstone Flux(RF) Input Plug
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -709,6 +712,140 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, Minecart with TNT
 minecraft:hopper_minecart, Minecart with Hopper
+libVulpes:batteryOutputRF, Redstone Flux Output Plug
+libVulpes:tile.creativePowerBattery, Creative Power Input Plug
+libVulpes:tile.advStructureMachine, Advanced Machine Structure
+libVulpes:tile.coalGenerator, Coal Generator
+libVulpes:tile.motor, Motor
+libVulpes:tile.advancedMotor, Advanced Motor
+libVulpes:tile.enhancedMotor, Enhanced Motor
+libVulpes:tile.eliteMotor, Elite Motor
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
+libVulpes:tile.IC2Plug, IC2 Plug(EU)
+libVulpes:libVulpesore0:0, Dilithium Ore
+libVulpes:libVulpesore0:4, Copper Ore
+libVulpes:libVulpesore0:5, Tin Ore
+libVulpes:libVulpesore0:8, Rutile Ore
+libVulpes:libVulpesore0:9, Aluminum Ore
+libVulpes:libVulpesore0:10, Iridium Ore
+libVulpes:libVulpesmetal0:4, Copper Block
+libVulpes:libVulpesmetal0:5, Tin Block
+libVulpes:libVulpesmetal0:6, Steel Block
+libVulpes:libVulpesmetal0:7, Titanium Block
+libVulpes:libVulpesmetal0:9, Aluminum Block
+libVulpes:libVulpesmetal0:10, Iridium Block
+libVulpes:libVulpescoil0:2, Gold Coil
+libVulpes:libVulpescoil0:4, Copper Coil
+libVulpes:libVulpescoil0:7, Titanium Coil
+libVulpes:libVulpescoil0:9, Aluminum Coil
+libVulpes:libVulpescoil0:10, Iridium Coil
+advancedRocketry:tile.dataPipe, Data Cable
+advancedRocketry:tile.liquidPipe, Liquid Pipe
+advancedRocketry:tile.energyPipe, Energy Pipe
+advancedRocketry:launchpad, Launch Pad
+advancedRocketry:rocketBuilder, Rocket Assembling Machine
+advancedRocketry:structureTower, Structure Tower
+advancedRocketry:seat, Seat
+advancedRocketry:rocketmotor, Liquid Fueled Engine
+advancedRocketry:fuelTank, Liquid Fuel Tank
+advancedRocketry:fuelingStation, Fueling station
+advancedRocketry:blockMonitoringStation, Rocket Monitoring Station
+advancedRocketry:blockSatelliteBuilder, Satellite Builder
+advancedRocketry:moonTurf, Moon Turf
+advancedRocketry:blockHotTurf, Oxidized Ferric Sand
+advancedRocketry:tile.loader:0, Data Bus
+advancedRocketry:tile.loader:1, Satellite Bay
+advancedRocketry:tile.loader:2, Rocket Unloader
+advancedRocketry:tile.loader:3, Rocket Loader
+advancedRocketry:tile.loader:4, Rocket Fluid Unloader
+advancedRocketry:tile.loader:5, Rocket Fluid Loader
+advancedRocketry:tile.loader:6, Guidance Computer Access Hatch
+advancedRocketry:precisionassemblingmachine, Precision Assembler
+advancedRocketry:utilBlock, HeatProof Brick
+advancedRocketry:quartzcrucible, Unnamed Block, report to mod author.
+advancedRocketry:crystallizer, Crystallizer
+advancedRocketry:cuttingMachine, Cutting Machine
+advancedRocketry:alienWood, Wood
+advancedRocketry:alienLeaves, Lightwood Leaves
+advancedRocketry:alienSapling, Lightwood Sapling
+advancedRocketry:observatory, Observatory
+advancedRocketry:tile.concrete, Concrete
+advancedRocketry:tile.planetSelector, Planet Selector
+advancedRocketry:tile.satelliteMonitor, Satellite Terminal
+advancedRocketry:tile.planetanalyser, Astrobody Data processor
+advancedRocketry:tile.guidanceComputer, Guidance Computer
+advancedRocketry:tile.electricArcFurnace, Electric Arc Furnace
+advancedRocketry:tile.sawBlade, Saw Blade Assembly
+advancedRocketry:tile.lathe, Lathe
+advancedRocketry:tile.rollingMachine, Rolling Machine
+advancedRocketry:tile.blockHandPress, Small Plate Presser
+advancedRocketry:tile.stationAssembler, Space Station Assembler
+advancedRocketry:tile.electrolyser, Electrolyser
+advancedRocketry:tile.chemreactor, Chemical Reactor
+advancedRocketry:tile.scrubber, CO2 Scrubber
+advancedRocketry:tile.oxygenVent, Oxygen Vent
+advancedRocketry:tile.oxygenCharger, Gas Charge Pad
+advancedRocketry:tile.smallAirlockDoor, tile.smallAirlockDoor.name
+advancedRocketry:tile.dockingPad, Landing Pad
+advancedRocketry:tile.warpCore, Warp Core
+advancedRocketry:tile.stationmonitor, Warp Controller
+advancedRocketry:tile.atmosphereDetector, Atmosphere Detector
+advancedRocketry:tile.unlittorch, Extinguished Torch
+advancedRocketry:tile.geode, Geode Block
+advancedRocketry:tile.oxygenFluidBlock, Oxygen
+advancedRocketry:tile.hydrogenFluidBlock, Hydrogen
+advancedRocketry:tile.rocketFuelBlock, Rocket Fuel
+advancedRocketry:tile.nitrogenFluidBlock, Nitrogen
+advancedRocketry:tile.vitrifiedSand, Vitrified Sand
+advancedRocketry:tile.charcoallog, Charcoal Log
+advancedRocketry:tile.electricMushroom, Electric Mushroom
+advancedRocketry:tile.crystal:0, Amethyst Block
+advancedRocketry:tile.crystal:1, Sapphire Block
+advancedRocketry:tile.crystal:2, Emerald Block
+advancedRocketry:tile.crystal:3, Ruby Block
+advancedRocketry:tile.crystal:4, Citrine Block
+advancedRocketry:tile.crystal:5, Wulfentite Block
+advancedRocketry:tile.orientationControl, Orientation Controller
+advancedRocketry:tile.gravityControl, Gravity Controller
+advancedRocketry:tile.drill, Drill
+advancedRocketry:tile.microwaveReciever, Microwave Reciever
+advancedRocketry:tile.lightSource, tile.lightSource.name
+advancedRocketry:tile.solarPanel, Solar Panel
+advancedRocketry:tile.suitWorkStation, Suit Workstation
+advancedRocketry:tile.biomeScanner, Biome Scanner
+advancedRocketry:tile.atmosphereTerraformer, Atmosphere Terraformer
+advancedRocketry:tile.deployableRocketAssembler, Unmanned Vehicle Assembler
+advancedRocketry:tile.pressurizedTank, Pressurized Tank
+advancedRocketry:tile.gasIntake, Gas Intake
+advancedRocketry:tile.circleLight, Station Light
+advancedRocketry:tile.stationMarker, Station Docking Port
+advancedRocketry:tile.solarGenerator, Solar Generator
+advancedRocketry:tile.alititudeController, tile.alititudeController.name
+advancedRocketry:tile.railgun, Railgun
+advancedRocketry:tile.astroBed, tile.astroBed.name
+advancedRocketry:tile.advRocket, Advanced Liquid Fueled Engine
+advancedRocketry:tile.planetHoloSelector, Holographic Planet Selector
+advancedRocketry:tile.lens, Lens
+advancedRocketry:tile.forceField, Force Field
+advancedRocketry:tile.forceFieldProjector, Force Field Projector
+advancedRocketry:tile.pipeSeal, Pipe Seal
+advancedRocketry:tile.spaceElevatorController, Space Elevator
+advancedRocketry:tile.beacon, Beacon
+advancedRocketry:tile.planks, Lightwood planks
+advancedRocketry:tile.gravityMachine, Gravity Controller
+advancedRocketry:laserController, Orbital Laser Drill
+advancedRocketry:advancedRocketrymetal0:0, Titanium Aluminide Block
+advancedRocketry:advancedRocketrymetal0:1, Titanium Iridium Alloy Block
+appliedenergistics2:tile.OreQuartz, Certus Quartz Ore
+appliedenergistics2:tile.OreQuartzCharged, Charged Certus Quartz Ore
+appliedenergistics2:tile.BlockMatrixFrame, Matrix Frame
+appliedenergistics2:tile.BlockQuartz, Certus Quartz Block
+appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
 appliedenergistics2:tile.BlockQuartzChiseled, Chiseled Certus Quartz Block
 appliedenergistics2:tile.BlockQuartzGlass, Quartz Glass
 appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
@@ -721,12 +858,6 @@ appliedenergistics2:tile.BlockSkyStone:3, Sky Stone Small Brick
 appliedenergistics2:tile.BlockSkyChest:0, Sky Stone Chest
 appliedenergistics2:tile.BlockSkyChest:1, Sky Stone Block Chest
 appliedenergistics2:tile.BlockSkyCompass, Meteorite Compass
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
 appliedenergistics2:tile.BlockGrinder, Quartz Grindstone
 appliedenergistics2:tile.BlockCrank, Wooden Crank
 appliedenergistics2:tile.BlockInscriber, Inscriber
@@ -3797,7 +3928,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
+ExtraUtilities:endConstructor:0, QED (Quacky Ender Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -5323,6 +5454,18 @@ rftools:dimensionalCross2Block, Dimensional Cross 2 Block
 rftools:dimensionalPattern1Block, Dimensional Pattern 1 Block
 rftools:dimensionalPattern2Block, Dimensional Pattern 2 Block
 rftools:activityProbeBlock, Activity Probe
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 rftools:energyExtractorBlock, Energy Extractor
 rftools:matterTransmitterBlock, Matter Transmitter
 rftools:matterReceiverBlock, Matter Receiver
@@ -5428,18 +5571,6 @@ rivalrebels:rivalrebelsblock59, tile.rivalrebels.blocks.59.name
 rivalrebels:rivalrebelsblock60, tile.rivalrebels.blocks.60.name
 rivalrebels:rivalrebelsblock61, tile.rivalrebels.blocks.61.name
 rivalrebels:rivalrebelsblock62, tile.rivalrebels.blocks.63.name
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 rivalrebels:rivalrebelsblock63, tile.rivalrebels.blocks.72.name
 rivalrebels:rivalrebelsblock64, tile.rivalrebels.blocks.64.name
 rivalrebels:rivalrebelsblock65, tile.rivalrebels.blocks.65.name
@@ -6082,6 +6213,129 @@ ActuallyAdditions:itemChestCrystalWhite, Enori Crystal Chest
 ActuallyAdditions:itemPantsCrystalWhite, Enori Crystal Pants
 ActuallyAdditions:itemBootsCrystalWhite, Enori Crystal Boots
 ActuallyAdditions:itemPaxelCrystalWhite, Enori Crystal AIOT
+libVulpes:Linker, Linker
+libVulpes:battery:0, Small Battery
+libVulpes:battery:1, 2x Small Battery
+libVulpes:item.holoProjector, Holo-Projector
+libVulpes:libVulpesproductdust:0, Dilithium Dust
+libVulpes:libVulpesproductdust:1, Iron Dust
+libVulpes:libVulpesproductdust:2, Gold Dust
+libVulpes:libVulpesproductdust:3, Silicon Dust
+libVulpes:libVulpesproductdust:4, Copper Dust
+libVulpes:libVulpesproductdust:5, Tin Dust
+libVulpes:libVulpesproductdust:6, Steel Dust
+libVulpes:libVulpesproductdust:7, Titanium Dust
+libVulpes:libVulpesproductdust:9, Aluminum Dust
+libVulpes:libVulpesproductdust:10, Iridium Dust
+libVulpes:libVulpesproductingot:3, Silicon Ingot
+libVulpes:libVulpesproductingot:4, Copper Ingot
+libVulpes:libVulpesproductingot:5, Tin Ingot
+libVulpes:libVulpesproductingot:6, Steel Ingot
+libVulpes:libVulpesproductingot:7, Titanium Ingot
+libVulpes:libVulpesproductingot:9, Aluminum Ingot
+libVulpes:libVulpesproductingot:10, Iridium Ingot
+libVulpes:libVulpesproductcrystal:0, Dilithium Crystal
+libVulpes:libVulpesproductboule:3, Silicon Boule
+libVulpes:libVulpesproductnugget:3, Silicon Nugget
+libVulpes:libVulpesproductnugget:4, Copper Nugget
+libVulpes:libVulpesproductnugget:5, Tin Nugget
+libVulpes:libVulpesproductnugget:6, Steel Nugget
+libVulpes:libVulpesproductnugget:7, Titanium Nugget
+libVulpes:libVulpesproductnugget:9, Aluminum Nugget
+libVulpes:libVulpesproductnugget:10, Iridium Nugget
+libVulpes:libVulpesproductplate:1, Iron Plate
+libVulpes:libVulpesproductplate:2, Gold Plate
+libVulpes:libVulpesproductplate:3, Silicon Plate
+libVulpes:libVulpesproductplate:4, Copper Plate
+libVulpes:libVulpesproductplate:5, Tin Plate
+libVulpes:libVulpesproductplate:6, Steel Plate
+libVulpes:libVulpesproductplate:7, Titanium Plate
+libVulpes:libVulpesproductplate:9, Aluminum Plate
+libVulpes:libVulpesproductplate:10, Iridium Plate
+libVulpes:libVulpesproductrod:1, Iron Rod
+libVulpes:libVulpesproductrod:4, Copper Rod
+libVulpes:libVulpesproductrod:6, Steel Rod
+libVulpes:libVulpesproductrod:7, Titanium Rod
+libVulpes:libVulpesproductrod:10, Iridium Rod
+libVulpes:libVulpesproductfan:6, Steel Fan
+libVulpes:libVulpesproductsheet:1, Iron Sheet
+libVulpes:libVulpesproductsheet:4, Copper Sheet
+libVulpes:libVulpesproductsheet:6, Steel Sheet
+libVulpes:libVulpesproductsheet:7, Titanium Sheet
+libVulpes:libVulpesproductsheet:9, Aluminum Sheet
+libVulpes:libVulpesproductgear:6, Steel Gear
+libVulpes:libVulpesproductgear:7, Titanium Gear
+advancedRocketry:iquartzcrucible, Quartz Crucible
+advancedRocketry:oreScanner, Ore Scanner
+advancedRocketry:satellitePowerSource:0, Basic Solar Panel
+advancedRocketry:satellitePowerSource:1, Large Solar Panel
+advancedRocketry:satellitePrimaryFunction:0, Optical Sensor
+advancedRocketry:satellitePrimaryFunction:1, Composition Sensor
+advancedRocketry:satellitePrimaryFunction:2, Mass Detector
+advancedRocketry:satellitePrimaryFunction:3, Microwave Transmitter
+advancedRocketry:satellitePrimaryFunction:4, Ore Mapper
+advancedRocketry:satellitePrimaryFunction:5, Biome Changer
+advancedRocketry:circuitplate:0, Basic Circuit Plate
+advancedRocketry:circuitplate:1, Advanced Circuit Plate
+advancedRocketry:circuitIC:0, Basic Circuit
+advancedRocketry:circuitIC:1, Tracking Circuit
+advancedRocketry:circuitIC:2, Advanced Circuit
+advancedRocketry:circuitIC:3, Control Circuit Board
+advancedRocketry:circuitIC:4, Item IO Circuit Board
+advancedRocketry:circuitIC:5, Liquid IO Circuit Board
+advancedRocketry:wafer:0, Silicon Wafer
+advancedRocketry:dataUnit:0, Data Storage Unit
+advancedRocketry:item.satellite, Satellite
+advancedRocketry:item.satelliteIdChip, Satellite Id Chip
+advancedRocketry:item.planetIdChip, Planet Id Chip
+advancedRocketry:miscpart:0, User Interface
+advancedRocketry:miscpart:1, Carbon Brick
+advancedRocketry:sawBlade:0, Iron Saw Blade
+advancedRocketry:item.stationChip:0, Space Station Id Chip
+advancedRocketry:item.station:0, Space Station Container
+advancedRocketry:item.spaceHelmet, Space Helmet
+advancedRocketry:item.spaceBoots, Space Boots
+advancedRocketry:item.spaceChest, Space Suit Chest-Piece
+advancedRocketry:item.spaceLeggings, Space Suit Legging
+advancedRocketry:item.bucketRocketFuel, Bucket of Rocket Fuel
+advancedRocketry:item.bucketNitrogen, Bucket of Nitrogen
+advancedRocketry:item.bucketHydrogen, Bucket of Hydrogen
+advancedRocketry:item.bucketOxygen, Bucket of Oxygen
+advancedRocketry:item.smallAirlock, Small Airlock Door
+advancedRocketry:item.carbonScrubberCartridge, Carbon Collection Cartridge
+advancedRocketry:item.sealDetector, Seal Detector
+advancedRocketry:item.jackhammer, Jack Hammer
+advancedRocketry:item.asteroidChip, Asteroid Chip
+advancedRocketry:lens:0, Basic Lens
+advancedRocketry:item.jetPack, Jet Pack
+advancedRocketry:pressureTank:0, Low Pressure Tank
+advancedRocketry:pressureTank:1, Pressure Tank
+advancedRocketry:pressureTank:2, High Pressure Tank
+advancedRocketry:pressureTank:3, Super High Pressure Tank
+advancedRocketry:itemUpgrade:0, Hover Upgrade
+advancedRocketry:itemUpgrade:1, Flight Speed Control Upgrade
+advancedRocketry:itemUpgrade:2, Bionic Leg Upgrade
+advancedRocketry:itemUpgrade:3, Padded Landing Boots
+advancedRocketry:itemUpgrade:4, Anti-Fog Visor
+advancedRocketry:item.atmAnalyser, Atmosphere Analyzer
+advancedRocketry:item.basicLaserGun, Basic Laser Gun
+advancedRocketry:item.elevatorChip, Space Elevator Chip
+advancedRocketry:item.beaconFinder, Beacon Finder
+advancedRocketry:item.biomeChanger, Biome Changer Remote
+advancedRocketry:advancedRocketryproductdust:0, Titanium Aluminide Dust
+advancedRocketry:advancedRocketryproductdust:1, Titanium Iridium Alloy Dust
+advancedRocketry:advancedRocketryproductingot:0, Titanium Aluminide Ingot
+advancedRocketry:advancedRocketryproductingot:1, Titanium Iridium Alloy Ingot
+advancedRocketry:advancedRocketryproductnugget:0, Titanium Aluminide Nugget
+advancedRocketry:advancedRocketryproductnugget:1, Titanium Iridium Alloy Nugget
+advancedRocketry:advancedRocketryproductplate:0, Titanium Aluminide Plate
+advancedRocketry:advancedRocketryproductplate:1, Titanium Iridium Alloy Plate
+advancedRocketry:advancedRocketryproductrod:0, Titanium Aluminide Rod
+advancedRocketry:advancedRocketryproductrod:1, Titanium Iridium Alloy Rod
+advancedRocketry:advancedRocketryproductsheet:0, Titanium Aluminide Sheet
+advancedRocketry:advancedRocketryproductsheet:1, Titanium Iridium Alloy Sheet
+advancedRocketry:advancedRocketryproductgear:0, Titanium Aluminide Gear
+advancedRocketry:advancedRocketryproductgear:1, Titanium Iridium Alloy Gear
 appliedenergistics2:item.ToolCertusQuartzAxe, Certus Quartz Axe
 appliedenergistics2:item.ToolCertusQuartzHoe, Certus Quartz Hoe
 appliedenergistics2:item.ToolCertusQuartzSpade, Certus Quartz Shovel
@@ -6285,6 +6539,39 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Enderpearl
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Casing
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Casing
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Casing
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dilithium Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Rutile Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iridium Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Steel Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Titanium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Aluminum Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iridium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gold Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Titanium Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Aluminum Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iridium Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Launch Pad
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moon Turf
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Oxidized Ferric Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - HeatProof Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Geode Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Vitrified Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Charcoal Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solar Panel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gas Intake
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Station Light
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lens
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lightwood planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Titanium Aluminide Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Titanium Iridium Alloy Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Block
@@ -15432,6 +15719,64 @@ ThermalDynamics:cover:0, Black Quartz Slab Cover
 ThermalDynamics:cover:0, Chiseled Black Quartz Slab Cover
 ThermalDynamics:cover:0, Black Quartz Pillar Slab Cover
 ThermalDynamics:cover:0, Canola Oil Cover
+ThermalDynamics:cover:0, Machine Structure Cover
+ThermalDynamics:cover:0, Advanced Machine Structure Cover
+ThermalDynamics:cover:0, Dilithium Ore Cover
+ThermalDynamics:cover:0, Copper Ore Cover
+ThermalDynamics:cover:0, Tin Ore Cover
+ThermalDynamics:cover:0, Rutile Ore Cover
+ThermalDynamics:cover:0, Aluminum Ore Cover
+ThermalDynamics:cover:0, Iridium Ore Cover
+ThermalDynamics:cover:0, Copper Block Cover
+ThermalDynamics:cover:0, Tin Block Cover
+ThermalDynamics:cover:0, Steel Block Cover
+ThermalDynamics:cover:0, Titanium Block Cover
+ThermalDynamics:cover:0, Aluminum Block Cover
+ThermalDynamics:cover:0, Iridium Block Cover
+ThermalDynamics:cover:0, Gold Coil Cover
+ThermalDynamics:cover:0, Copper Coil Cover
+ThermalDynamics:cover:0, Titanium Coil Cover
+ThermalDynamics:cover:0, Aluminum Coil Cover
+ThermalDynamics:cover:0, Iridium Coil Cover
+ThermalDynamics:cover:0, Launch Pad Cover
+ThermalDynamics:cover:0, Structure Tower Cover
+ThermalDynamics:cover:0, Seat Cover
+ThermalDynamics:cover:0, Moon Turf Cover
+ThermalDynamics:cover:0, Oxidized Ferric Sand Cover
+ThermalDynamics:cover:0, HeatProof Brick Cover
+ThermalDynamics:cover:0, Unnamed Block, report to mod author. Cover
+ThermalDynamics:cover:0, Wood Cover
+ThermalDynamics:cover:0, Lightwood Leaves Cover
+ThermalDynamics:cover:0, Lightwood Sapling Cover
+ThermalDynamics:cover:0, Concrete Cover
+ThermalDynamics:cover:0, Small Plate Presser Cover
+ThermalDynamics:cover:0, tile.smallAirlockDoor.name Cover
+ThermalDynamics:cover:0, Extinguished Torch Cover
+ThermalDynamics:cover:0, Geode Block Cover
+ThermalDynamics:cover:0, Oxygen Cover
+ThermalDynamics:cover:0, Hydrogen Cover
+ThermalDynamics:cover:0, Rocket Fuel Cover
+ThermalDynamics:cover:0, Nitrogen Cover
+ThermalDynamics:cover:0, Vitrified Sand Cover
+ThermalDynamics:cover:0, Charcoal Log Cover
+ThermalDynamics:cover:0, Electric Mushroom Cover
+ThermalDynamics:cover:0, Amethyst Block Cover
+ThermalDynamics:cover:0, Sapphire Block Cover
+ThermalDynamics:cover:0, Emerald Block Cover
+ThermalDynamics:cover:0, Ruby Block Cover
+ThermalDynamics:cover:0, Citrine Block Cover
+ThermalDynamics:cover:0, Wulfentite Block Cover
+ThermalDynamics:cover:0, Drill Cover
+ThermalDynamics:cover:0, tile.lightSource.name Cover
+ThermalDynamics:cover:0, Solar Panel Cover
+ThermalDynamics:cover:0, Gas Intake Cover
+ThermalDynamics:cover:0, Station Light Cover
+ThermalDynamics:cover:0, tile.astroBed.name Cover
+ThermalDynamics:cover:0, Lens Cover
+ThermalDynamics:cover:0, Force Field Cover
+ThermalDynamics:cover:0, Lightwood planks Cover
+ThermalDynamics:cover:0, Titanium Aluminide Block Cover
+ThermalDynamics:cover:0, Titanium Iridium Alloy Block Cover
 ThermalDynamics:cover:0, Certus Quartz Ore Cover
 ThermalDynamics:cover:0, Charged Certus Quartz Ore Cover
 ThermalDynamics:cover:0, Certus Quartz Block Cover
