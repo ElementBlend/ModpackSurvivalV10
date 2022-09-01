@@ -1,9 +1,9 @@
 # Modpack Survival V10 Changelog
 
-## 10.1 (RC)
+## 10.1
 
 Forge Version: 1.7.10-10.13.4.1614  
-Total Mods: TODO
+Total Mods: 128
 
 **Changes**
 
